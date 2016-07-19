@@ -1,0 +1,345 @@
+Subclass/Order,Family,Species,Species2,No. +,No. -,No. 0,other,Total no. responses,"Feeding strategy",Reproductive rate,Ovigeny,Egg number,Sensory mode,Mobility,Dispersal,Number
+Acarina,Tetranychidae,"T. cucurbitacearum (Sayed)T. araicus (Attiah)",Tetranychus cucurbitacearum (Sayed),1,0,0,0,1,monophagus,,,,,,,1
+Acarina,Tetranychidae,Eotetranychus sexmaculatus (Riley),Eotetranychus sexmaculatus (Riley),0,1,0,0,1,monophagus,,,,,,,2
+Acarina,Tetranychidae,E. willametei Ewing,Eotetranychus willametei Ewing,0,1,0,0,1,monophagus,,,,,,,3
+Acarina,Tetranychidae,Eutetranychus banksi (McG.),Eutetranychus banksi (McG.),0,0,1,0,1,monophagus,,,,,,,4
+Acarina,Tetranychidae,Metatetranychis citri (McG.),Metatetranychis citri (McG.),0,1,0,0,1,monophagus,,,,,,,5
+Acarina,Tetranychidae,Panonychus citri (McG.),Panonychus citri (McG.),0,0,0,1,1,monophagus,,,,,,,6
+Acarina,Tenuipalpidae,Brevipalpus phoenicis (Geijskes),Brevipalpus phoenicis (Geijskes),1,0,0,0,1,monophagus,,,,,,,7
+Acarina,Eriophyidae,Phyllocoptruta oleivora (Ashm.),Phyllocoptruta oleivora (Ashm.),0,0,3,0,3,monophagus,,,,,,,8
+Acarina,Eriophyidae,Unknown acaria sp.,Acaria sp.,0,2,0,0,2,monophagus,,,,,,,9
+Collembola,Sminthuridae,Sminthurus viridus L.,Sminthurus viridus L.,0,1,1,0,2,monophagus,,,,,,,10
+Collembola,Sminthuridae,Sminthurid sp.,Sminthuridae sp.,0,0,1,0,1,monophagus,,,,,,,11
+Orthoptera,Phasmatidae,Diapheromera femorata (Say),Diapheromera femorata (Say),0,1,0,0,1,monophagus,,,,,,,12
+Thysanoptera,Thripidae,Thrips setosus Moulton,Thrips setosus Moulton,0,0,1,0,1,monophagus,,,,,,,13
+Thysanoptera,Thripidae,Thrips tabaci Lind.,Thrips tabaci Lind.,1,1,1,0,3,monophagus,,,,,,,14
+Thysanoptera,Thripidae,Megalurothrips sjostedti (Tryb.),Megalurothrips sjostedti (Tryb.),0,4,7,1,12,monophagus,,,,,,,15
+Thysanoptera,Thripidae,Sericothrips occipitalis Hood,Sericothrips occipitalis Hood,0,2,1,0,3,monophagus,,,,,,,16
+Thysanoptera,Thripidae,Franklinella occidentalis (Perg.),Franklinella occidentalis (Perg.),0,1,0,0,1,monophagus,,,,,,,17
+Thysanoptera,Thripidae,Thysanopteran sp.,Thysanopteran sp.,0,3,0,0,3,monophagus,,,,,,,18
+Hemiptera,Pentatomidae,Nezara viridula (L.),Nezara viridula (L.),0,13,4,0,17,monophagus,,,,,,,19
+Hemiptera,Pentatomidae,Antestiopus intricata (Ghes. & Car.),Antestiopus intricata (Ghes. & Car.),0,1,0,0,1,monophagus,,,,,,,20
+Hemiptera,Pentatomidae,Homalogonia obtusa (Walker),Homalogonia obtusa (Walker),0,1,0,0,1,monophagus,,,,,,,21
+Hemiptera,Pentatomidae,Homoeocerus dilatatus (Horvath),Homoeocerus dilatatus (Horvath),0,1,0,0,1,monophagus,,,,,,,22
+Hemiptera,Pyrrhocoridae,Dysdercus superstitiosus (F.),Dysdercus superstitiosus (F.),0,11,9,0,20,monophagus,,,,,,,23
+Hemiptera,Pyrrhocoridae,Dysdercus loenegii (F.),Dysdercus loenegii (F.),0,15,0,0,15,monophagus,,,,,,,24
+Hemiptera,Coreidae,Anasa tristis (DeGeer),Anasa tristis (DeGeer),0,0,2,0,2,monophagus,,,,,,,25
+Hemiptera,Coreidae,Acanthomia horrida (Germ.),Acanthomia horrida (Germ.),2,3,0,0,5,monophagus,,,,,,,26
+Hemiptera,Coreidae,Clavigralla tomentosicollis (Stal),Clavigralla tomentosicollis (Stal),1,1,0,0,2,monophagus,,,,,,,27
+Hemiptera,Coreidae,Anoplocnemis curvipes (F.),Anoplocnemis curvipes (F.),1,1,1,0,3,monophagus,,,,,,,28
+Hemiptera,Coreidae,Riptortus dentipes (F.) [Alyd.],Riptortus dentipes (F.) [Alyd.],0,0,0,0,0,monophagus,,,,,,,29
+Hemiptera,Coreidae,Mirperus jaculus Thun. [Alyd.],Mirperus jaculus Thun. [Alyd.],0,0,0,0,0,monophagus,,,,,,,30
+Hemiptera,Coreidae,Clavigralla shadabi Polling,Clavigralla shadabi Polling,0,1,1,0,2,monophagus,,,,,,,31
+Hemiptera,Coreidae,C. tomentosicollis (Stal),Clavigralla tomentosicollis (Stal),0,0,0,0,0,monophagus,,,,,,,32
+Hemiptera,Coreidae,Amblypelta cocophaga China,Amblypelta cocophaga China,0,1,1,0,2,monophagus,,,,,,,33
+Hemiptera,Coreidae,Clavigralla gibbosa Spin.,Clavigralla gibbosa Spin.,0,15,0,0,15,monophagus,,,,,,,34
+Hemiptera,Alydidae,Riptortus clavatus Thun.,Riptortus clavatus Thun.,0,1,0,0,1,monophagus,,,,,,,35
+Hemiptera,Miridae,Lygus lineolaris (P.deB.),Lygus lineolaris (P.deB.),2,0,2,0,4,monophagus,,,,,,,36
+Hemiptera,Miridae,Calocoris angustatus Leth.,Calocoris angustatus Leth.,1,0,1,0,2,monophagus,,,,,,,37
+Homoptera,Cicadellidae,Empoasca kraemeri Ross & Moore,Empoasca kraemeri Ross & Moore,0,11,0,0,11,monophagus,,,,,,,38
+Homoptera,Cicadellidae,Empoasca fabae (Harris),Empoasca fabae (Harris),4,2,1,0,7,monophagus,,,,,,,39
+Homoptera,Cicadellidae,Empoasca dolichi Paoli,Empoasca dolichi Paoli,0,3,0,0,3,monophagus,,,,,,,40
+Homoptera,Cicadellidae,Empoasca sasakii Dwor.,Empoasca sasakii Dwor.,0,3,0,0,3,monophagus,,,,,,,41
+Homoptera,Cicadellidae,Empoasca sp.,Empoasca sp.,0,0,1,0,1,monophagus,,,,,,,42
+Homoptera,Cicadellidae,Empoascanara limbata Matsumura,Empoascanara limbata Matsumura,0,2,0,0,2,monophagus,,,,,,,43
+Homoptera,Cicadellidae,Amarasca biguttula biguttula (lshida),Amarasca biguttula biguttula (lshida),0,1,0,0,1,monophagus,,,,,,,44
+Homoptera,Cicadellidae,Amarasca kerri (Pruthi),Amarasca kerri (Pruthi),0,19,0,2,21,monophagus,,,,,,,45
+Homoptera,Cicadellidae,Nephotettix cincticeps (Uhler),Nephotettix cincticeps (Uhler),0,2,0,0,2,monophagus,,,,,,,46
+Homoptera,Cicadellidae,Nephotettix virescens (Distant),Nephotettix virescens (Distant),0,1,0,0,1,monophagus,,,,,,,47
+Homoptera,Cicadellidae,N. nigropictus (Stal),Nephotettix nigropictus (Stal),0,1,0,0,1,monophagus,,,,,,,48
+Homoptera,Cicadellidae,Chlorita flavescens (F.),Chlorita flavescens (F.),0,0,1,0,1,monophagus,,,,,,,49
+Homoptera,Cicadellidae,Cicadella viridis L.,Cicadella viridis L.,3,1,0,0,4,monophagus,,,,,,,50
+Homoptera,Cicadellidae,Scaphytopius acutus (Say),Scaphytopius acutus (Say),2,0,1,0,3,monophagus,,,,,,,51
+Homoptera,Cicadellidae,Erythroneura elegantula Osb.,Erythroneura elegantula Osb.,0,1,0,0,1,monophagus,,,,,,,52
+Homoptera,Cicadellidae,Agallia lingula,Agallia lingula,0,1,0,0,1,monophagus,,,,,,,53
+Homoptera,Cicadellidae,Dalbulus maidis (DeL. & Wol.),Dalbulus maidis (DeL. & Wol.),1,0,0,0,1,monophagus,,,,,,,54
+Homoptera,Cicadellidae,Osbornellus sp.,Osbornellus sp.,1,0,0,0,1,monophagus,,,,,,,55
+Homoptera,Cicadellidae,Cicadellid sp.,Cicadellidae sp.,0,1,0,0,1,monophagus,,,,,,,56
+Homoptera,Delphacidae,Sogatella furcifera Horvath,Sogatella furcifera Horvath,0,2,0,0,2,monophagus,,,,,,,57
+Homoptera,Membracidae,Oryhachic tarandus (F.),Oryhachic tarandus (F.),0,15,0,0,15,monophagus,,,,,,,58
+Homoptera,Cercopidae,Poophilus costalis (Walker),Poophilus costalis (Walker),0,1,1,0,2,monophagus,,,,,,,59
+Homoptera,Fulgoridae,Pyrilla perpusilla Walker,Pyrilla perpusilla Walker,1,3,1,1,5,monophagus,,,,,,,60
+Homoptera,Aphididae,Brevicoryne brassicae (L.),Brevicoryne brassicae (L.),0,18,1,0,19,monophagus,,,,,,,61
+Homoptera,Aphididae,Myzus persicae (Sulz.),Myzus persicae (Sulz.),0,12,0,4,16,monophagus,,,,,,,62
+Homoptera,Aphididae,Aphis craccivora Koch,Aphis craccivora Koch,3,3,1,0,7,monophagus,,,,,,,63
+Homoptera,Aphididae,Aphis gossypii Glover,Aphis gossypii Glover,1,7,3,0,11,monophagus,,,,,,,64
+Homoptera,Aphididae,Aphis fabae Scopoli,Aphis fabae Scopoli,0,5,1,0,6,monophagus,,,,,,,65
+Homoptera,Aphididae,Aphis glycines Matsumera,Aphis glycines Matsumera,0,1,0,0,1,monophagus,,,,,,,66
+Homoptera,Aphididae,Aulacorthum solani (Kalt.),Aulacorthum solani (Kalt.),0,0,1,1,2,monophagus,,,,,,,67
+Homoptera,Aphididae,Schizaphis graminum (Rondani),Schizaphis graminum (Rondani),0,2,0,0,1,monophagus,,,,,,,68
+Homoptera,Aphididae,Acyrthosiphon pisum (Harris),Acyrthosiphon pisum (Harris),0,1,0,0,1,monophagus,,,,,,,69
+Homoptera,Aphididae,Rhopalosiphum maidis (Fitch),Rhopalosiphum maidis (Fitch),0,1,5,0,6,monophagus,,,,,,,70
+Homoptera,Aphididae,Rhopalosiphum padi (L.),Rhopalosiphum padi (L.),0,1,0,0,1,monophagus,,,,,,,71
+Homoptera,Aphididae,Chromaphis juglandicola (Kalt.),Chromaphis juglandicola (Kalt.),0,3,0,0,3,monophagus,,,,,,,72
+Homoptera,Aphididae,Aphids,Aphids,0,17,6,0,23,monophagus,,,,,,,73
+Homoptera,Aphididae,Aphids?,Aphids,0,3,0,0,3,monophagus,,,,,,,74
+Hemiptera,Psyllidae,Phytolyma sp. ,Phytolyma sp. ,0,1,0,0,1,monophagus,,,,,,,75
+Hemiptera,Aleyrodidae,Bemisia tabaci Gennadius,Bemisia tabaci Gennadius,0,1,0,0,1,monophagus,,,,,,,76
+Hemiptera,Aleyrodidae,Aleyrodes brassicae (Wlk.),Aleyrodes brassicae (Wlk.),0,5,0,0,5,monophagus,,,,,,,77
+Hemiptera,Diaspididae,Chrysomphalus aonidum (L.),Chrysomphalus aonidum (L.),1,2,1,0,4,monophagus,,,,,,,78
+Hemiptera,Diaspididae,Lepidosaphes gloveri (Pack),Lepidosaphes gloveri (Pack),1,0,1,0,2,monophagus,,,,,,,79
+Hemiptera,Diaspididae,Lepidosaphes beckii (Newm.),Lepidosaphes beckii (Newm.),0,1,1,0,2,monophagus,,,,,,,80
+Hemiptera,Diaspididae,Parlatoria pergandii Comst.,Parlatoria pergandii Comst.,0,1,1,0,2,monophagus,,,,,,,81
+Hemiptera,Diaspididae,Aonidiella cirina (Coq.),Aonidiella cirina (Coq.),0,1,0,0,1,monophagus,,,,,,,82
+Hemiptera,Diaspididae,Quadraspidiotus perniciousus (Comstock),Quadraspidiotus perniciousus (Comstock),0,1,0,0,1,monophagus,,,,,,,83
+Hemiptera,Coccidae,Saissetia oleae (Bernard),Saissetia oleae (Bernard),0,1,0,0,1,monophagus,,,,,,,84
+Hemiptera,Coccidae,Aspidiotus hederae (Vallot),Aspidiotus hederae (Vallot),0,0,0,1,1,monophagus,,,,,,,85
+Hemiptera,Coccidae,Aonidiella aurantii (Mask.),Aonidiella aurantii (Mask.),0,0,0,1,1,monophagus,,,,,,,86
+Coleoptera,Lucanidae,lucanid beetle,Lucanidae sp,1,1,0,0,2,monophagus,,,,,,,87
+Coleoptera,Scarabaeidae,cetoniine beetle,Cetoniinae sp.,0,2,0,0,2,monophagus,,,,,,,88
+Coleoptera,Scarabaeidae,Oryctes rhineoceros (L.),Oryctes rhineoceros (L.),0,2,0,0,2,monophagus,,,,,,,89
+Coleoptera,Scarabaeidae,Chalcosoma atlas (L.),Chalcosoma atlas (L.),1,0,0,0,1,monophagus,,,,,,,90
+Coleoptera,Scarabaeidae,Popillia japonica Newm.,Popillia japonica Newm.,0,2,0,0,2,monophagus,,,,,,,91
+Coleoptera,Scarabaeidae,Anomala cuprea Hope,Anomala cuprea Hope,0,1,0,0,1,monophagus,,,,,,,92
+Coleoptera,Scarabaeidae,Anomala rufocuprea (Motsc.),Anomala rufocuprea (Motsc.),0,3,0,0,3,monophagus,,,,,,,93
+Coleoptera,Scarabaeidae,scarabaeid beetle,Scarabaeidae sp,0,1,0,0,1,monophagus,,,,,,,94
+Coleoptera,Curculionidae,Pissodes strobi (Peck),Pissodes strobi (Peck),0,1,0,0,1,monophagus,,,,,,,95
+Coleoptera,Curculionidae,Myllocerus undecimpustulatus maculosus ,Myllocerus undecimpustulatus maculosus ,0,17,0,0,17,monophagus,,,,,,,96
+Coleoptera,Curculionidae,Rhabdoscelus obscurus (Bois.),Rhabdoscelus obscurus (Bois.),0,2,0,0,2,monophagus,,,,,,,97
+Coleoptera,Curculionidae,Anthonomus grandis Boh.,Anthonomus grandis Boh.,0,1,0,0,1,monophagus,,,,,,,98
+Coleoptera,Curculionidae,Eugnathus distintus Roelofs,Eugnathus distintus Roelofs,0,1,0,0,1,monophagus,,,,,,,99
+Coleoptera,Curculionidae,Chalcodermus sp.,Chalcodermus sp.,0,0,0,1,1,monophagus,,,,,,,100
+Coleoptera,Chrysomelidae,Ootheca bennigseni Wiese,Ootheca bennigseni Wiese,0,4,0,0,4,monophagus,,,,,,,101
+Coleoptera,Chrysomelidae,Ootheca mutabilis (Sahlb.),Ootheca mutabilis (Sahlb.),0,1,0,0,1,monophagus,,,,,,,102
+Coleoptera,Chrysomelidae,Leptinotarsa decemlineata (Say),Leptinotarsa decemlineata (Say),0,4,5,0,9,monophagus,,,,,,,103
+Coleoptera,Chrysomelidae,Oulema melanopus (L.),Oulema melanopus (L.),1,2,1,0,4,monophagus,,,,,,,104
+Coleoptera,Chrysomelidae,Oulema oryzae Kuwalyama,Oulema oryzae Kuwalyama,0,1,0,0,1,monophagus,,,,,,,105
+Coleoptera,Chrysomelidae,Medythia nigrobilineata (Motsch.),Medythia nigrobilineata (Motsch.),0,1,0,0,1,monophagus,,,,,,,106
+Coleoptera,Chrysomelidae,Atrachya menetriesi (Flad.),Atrachya menetriesi (Flad.),1,7,0,0,8,monophagus,,,,,,,107
+Coleoptera,Chrysomelidae,Acalymma vittatum (F.),Acalymma vittatum (F.),1,5,3,0,9,monophagus,,,,,,,108
+Coleoptera,Chrysomelidae,Acalymma themei Baly,Acalymma themei Baly,0,3,0,0,3,monophagus,,,,,,,109
+Coleoptera,Chrysomelidae,Acalymma innubrum (F.),Acalymma innubrum (F.),0,1,0,0,1,monophagus,,,,,,,110
+Coleoptera,Chrysomelidae,Systena frontalis (F.),Systena frontalis (F.),0,1,1,0,2,monophagus,,,,,,,111
+Coleoptera,Chrysomelidae,Paranapiacaba waterhousei (Jacoby),Paranapiacaba waterhousei (Jacoby),1,2,0,0,3,monophagus,,,,,,,112
+Coleoptera,Chrysomelidae,Cerotoma ruficornis rogersi (Olivier),Cerotoma ruficornis rogersi (Olivier),0,6,1,0,7,monophagus,,,,,,,113
+Coleoptera,Chrysomelidae,Cerotoma arcuata (Olivier),Cerotoma arcuata (Olivier),0,1,2,0,3,monophagus,,,,,,,114
+Coleoptera,Chrysomelidae,Diabrotica balteata LeConte,Diabrotica balteata LeConte,2,15,4,0,21,monophagus,,,,,,,115
+Coleoptera,Chrysomelidae,Diabrotica undecimpunctata Mannh.,Diabrotica undecimpunctata Mannh.,0,0,1,0,1,monophagus,,,,,,,116
+Coleoptera,Chrysomelidae,Diabrotica speciosa (Grem.),Diabrotica speciosa (Grem.),0,2,1,0,3,monophagus,,,,,,,117
+Coleoptera,Chrysomelidae,Pyllotreta cruciferae (Goeze),Pyllotreta cruciferae (Goeze),1,11,0,0,12,monophagus,,,,,,,118
+Coleoptera,Chrysomelidae,Pyllotreta striolata (F.),Pyllotreta striolata (F.),0,3,0,0,3,monophagus,,,,,,,119
+Coleoptera,Chrysomelidae,Psylloides punctulata Melsheimer,Psylloides punctulata Melsheimer,0,2,0,0,2,monophagus,,,,,,,120
+Coleoptera,Chrysomelidae,Podagrica spp.,Podagrica sp.,4,11,5,0,20,monophagus,,,,,,,121
+Coleoptera,Chrysomelidae,Epithrix cucumeris (Harris),Epithrix cucumeris (Harris),0,1,0,0,1,monophagus,,,,,,,122
+Coleoptera,Chrysomelidae,alticine beetle,Alticinae sp.,0,1,0,0,1,monophagus,,,,,,,123
+Coleoptera,Coccinellidae,Epilachna varivestis Mulsant,Epilachna varivestis Mulsant,0,6,10,1,17,monophagus,,,,,,,124
+Coleoptera,Meloidae,Mylabis spp.,Mylabis spp.,0,0,0,1,1,monophagus,,,,,,,125
+Coleoptera,Meloidae,Coryna spp. ,Coryna spp. ,1,0,2,0,3,monophagus,,,,,,,126
+Coleoptera,Bruchidae,Bruchus pustulata (Thunb.),Bruchus pustulata (Thunb.),0,12,3,0,15,monophagus,,,,,,,127
+Coleoptera,Bruchidae,Callosobruchus maculatus (F.),Callosobruchus maculatus (F.),0,2,0,0,2,monophagus,,,,,,,128
+Coleoptera,Scolytidae,Ips sexdentata Borner,Ips sexdentata Borner,0,1,0,0,1,monophagus,,,,,,,129
+Coleoptera,Lathridiidae,lathridiid beetle,Lathridiidae sp.,1,0,0,0,1,monophagus,,,,,,,130
+Coleoptera,Cryptophagidae,cryptophagid beetle,Cryptophagidae sp.,1,0,0,0,1,monophagus,,,,,,,131
+Coleoptera,Cerambycidae,Glycobius (Plagionotus) specious (Say),Glycobius specious (Say),0,1,0,0,1,monophagus,,,,,,,132
+Coleoptera,Cerambycidae,Xylotrechus quadripes Ch.,Xylotrechus quadripes Ch.,0,1,0,0,1,monophagus,,,,,,,133
+Lepidoptera,Pieridae,Pieris rapae (L.),Pieris rapae (L.),3,5,32,1,41,monophagus,,,,,,,134
+Lepidoptera,Satyridae,Mycalesis gotama fulginia Fruh.,Mycalesis gotama fulginia Fruh.,0,1,0,0,1,monophagus,,,,,,,135
+Lepidoptera,Lycaenidae,Euchrysops cnejus (F.),Euchrysops cnejus (F.),0,0,1,0,1,monophagus,,,,,,,136
+Lepidoptera,Lycaenidae,Euchrysops medathana (Bois.),Euchrysops medathana (Bois.),2,0,0,0,2,monophagus,,,,,,,137
+Lepidoptera,Noctuidae,Heliothis armigera (Hubner),Heliothis armigera (Hubner),9,25,16,,50,monophagus,,,,,,,138
+Lepidoptera,Noctuidae,Heliothis virescens (F.),Heliothis virescens (F.),0,2,2,1,5,monophagus,,,,,,,139
+Lepidoptera,Noctuidae,Heliothis zea (Boddie),Heliothis zea (Boddie),2,3,5,1,11,monophagus,,,,,,,140
+Lepidoptera,Noctuidae,Heliothis zea (Boddie)? (H.obsoleta),Heliothis zea (Boddie)? (H.obsoleta),0,0,2,0,2,monophagus,,,,,,,141
+Lepidoptera,Noctuidae,Heliothis viriplaca (Hufn.),Heliothis viriplaca (Hufn.),0,1,0,0,1,monophagus,,,,,,,142
+Lepidoptera,Noctuidae,Earias biplaga Walker,Earias biplaga Walker,0,12,8,0,20,monophagus,,,,,,,143
+Lepidoptera,Noctuidae,Earias fabia Stoll,Earias fabia Stoll,1,0,1,0,2,monophagus,,,,,,,144
+Lepidoptera,Noctuidae,Trichoplusia ni (Hubner),Trichoplusia ni (Hubner),0,1,6,0,7,monophagus,,,,,,,145
+Lepidoptera,Noctuidae,Plusia orichalcea (F.),Plusia orichalcea (F.),0,2,1,0,3,monophagus,,,,,,,146
+Lepidoptera,Noctuidae,Pseudaletia seperata (walker),Pseudaletia seperata (walker),0,2,1,0,3,monophagus,,,,,,,147
+Lepidoptera,Noctuidae,Mamestra brassicae L.,Mamestra brassicae L.,0,5,0,0,5,monophagus,,,,,,,148
+Lepidoptera,Noctuidae,Mamestra brassicae? Cabbage cutworm,Mamestra brassicae Cabbage cutworm,0,1,0,0,1,monophagus,,,,,,,149
+Lepidoptera,Noctuidae,Pyrrhia umbra (Hufnagal),Pyrrhia umbra (Hufnagal),0,1,0,0,1,monophagus,,,,,,,150
+Lepidoptera,Noctuidae,Naranga aenescens (Moore),Naranga aenescens (Moore),0,1,0,0,1,monophagus,,,,,,,151
+Lepidoptera,Noctuidae,Prorachia daria (Druce),Prorachia daria (Druce),0,1,0,0,1,monophagus,,,,,,,152
+Lepidoptera,Noctuidae,Acheae janata? (Castor semilooper),Acheae janata (Castor semilooper),2,0,0,0,2,monophagus,,,,,,,153
+Lepidoptera,Noctuidae,Busseola fusca Full.,Busseola fusca Full.,0,1,1,0,2,monophagus,,,,,,,154
+Lepidoptera,Noctuidae,Sesamia calamistis Hmps.,Sesamia calamistis Hmps.,0,1,0,0,1,monophagus,,,,,,,155
+Lepidoptera,Noctuidae,Dasychira mendosa Hubn.,Dasychira mendosa Hubn.,0,0,1,0,1,monophagus,,,,,,,156
+Lepidoptera,Noctuidae,Eldana saccharina Walker,Eldana saccharina Walker,0,0,1,0,1,monophagus,,,,,,,157
+Lepidoptera,Noctuidae,Plutella xylostella (L.),Plutella xylostella (L.),0,4,10,0,14,monophagus,,,,,,,158
+Lepidoptera,Gelechiidae,Pectinophora gossypiella (Saunders),Pectinophora gossypiella (Saunders),0,16,5,0,21,monophagus,,,,,,,159
+Lepidoptera,Gelechiidae,Frumenta nundinella Zeller,Frumenta nundinella Zeller,0,1,0,0,1,monophagus,,,,,,,160
+Lepidoptera,Gelechiidae,Dichomeris ianthes Meyr.,Dichomeris ianthes Meyr.,0,3,0,0,3,monophagus,,,,,,,161
+Lepidoptera,Pyralidae,Ostinia furnacalis (Guenee),Ostinia furnacalis (Guenee),0,4,0,0,4,monophagus,,,,,,,162
+Lepidoptera,Pyralidae,Ostinia nubilalis (Walker),Ostinia nubilalis (Walker),0,1,2,0,3,monophagus,,,,,,,163
+Lepidoptera,Pyralidae,Antigostra sp.,Antigostra sp.,0,1,0,0,1,monophagus,,,,,,,164
+Lepidoptera,Pyralidae,Evergestis forfocalis (L.),Evergestis forfocalis (L.),0,4,1,0,5,monophagus,,,,,,,165
+Lepidoptera,Pyralidae,Etiella zinckenella Tr.,Etiella zinckenella Tr.,2,1,0,0,3,monophagus,,,,,,,166
+Lepidoptera,Pyralidae,Pleuroptya ruralis (Scop.),Pleuroptya ruralis (Scop.),0,1,0,0,1,monophagus,,,,,,,167
+Lepidoptera,Pyralidae,Diatraea spp.,Diatraea spp.,0,2,0,0,2,monophagus,,,,,,,168
+Lepidoptera,Pyralidae,Maruca testulalis Geyer,Maruca testulalis Geyer,2,3,5,2,12,monophagus,,,,,,,169
+Lepidoptera,Pyralidae,Diaphania hyalinata (L.),Diaphania hyalinata (L.),0,2,0,1,3,monophagus,,,,,,,170
+Lepidoptera,Pyralidae,Hellula rogatalis (Hulst),Hellula rogatalis (Hulst),0,0,6,0,6,monophagus,,,,,,,171
+Lepidoptera,Pyralidae,Hellula undalis (F.),Hellula undalis (F.),0,3,0,0,3,monophagus,,,,,,,172
+Lepidoptera,Pyralidae,Sylepta derogata F.,Sylepta derogata F.,2,0,0,0,2,monophagus,,,,,,,173
+Lepidoptera,Pyralidae,Zeadiatraea lineolata (Wlk.),Zeadiatraea lineolata (Wlk.),0,2,0,0,2,monophagus,,,,,,,174
+Lepidoptera,Tortricidae,Eucosma critica Meyr.,Eucosma critica Meyr.,2,3,7,0,12,monophagus,,,,,,,175
+Lepidoptera,Tortricidae,Laspeyresia ptychora,Laspeyresia ptychora,1,0,3,3,7,monophagus,,,,,,,176
+Lepidoptera,Tortricidae,Laspeyresia pomonella (L.),Laspeyresia pomonella (L.),0,1,0,0,1,monophagus,,,,,,,177
+Lepidoptera,Tortricidae,Laspeyresia molesta (Busck.),Laspeyresia molesta (Busck.),0,1,0,0,1,monophagus,,,,,,,178
+Lepidoptera,Tortricidae,Zeiraphera rufimitrana (H.-S.),Zeiraphera rufimitrana (H.-S.),0,1,0,0,1,monophagus,,,,,,,179
+Lepidoptera,Tortricidae,Choristoneura murinana (Hubner),Choristoneura murinana (Hubner),0,0,1,0,1,monophagus,,,,,,,180
+Lepidoptera,Tortricidae,Leguninivora glycinivorella Matsumura,Leguninivora glycinivorella Matsumura,0,2,0,0,2,monophagus,,,,,,,181
+Lepidoptera,Tortricidae,Matsumuraeses azukivora Matsumara Geometridae,Matsumuraeses azukivora Matsumara Geometridae,0,1,0,0,1,monophagus,,,,,,,182
+Lepidoptera,Geometridae,Bupalus piniarius L.,Bupalus piniarius L.,0,2,0,0,2,monophagus,,,,,,,183
+Lepidoptera,Geometridae,Lambdina sp.,Lambdina sp.,0,1,0,0,1,monophagus,,,,,,,184
+Lepidoptera,Lasiocampidae,Malacosoma americanum (F.),Malacosoma americanum (F.),0,1,0,0,1,monophagus,,,,,,,185
+Lepidoptera,Lasiocampidae,Malacosoma disstria Hubner,Malacosoma disstria Hubner,0,2,0,0,2,monophagus,,,,,,,186
+Lepidoptera,Pterophoridae,Exelastis atomosa Wal.,Exelastis atomosa Wal.,0,0,1,0,1,monophagus,,,,,,,187
+Lepidoptera,Eupterotidae,Eupterote canaraica Meyr.,Eupterote canaraica Meyr.,1,0,0,0,1,monophagus,,,,,,,188
+Lepidoptera,Notodontidae,Heterocampa guttivitta (Walker),Heterocampa guttivitta (Walker),0,1,0,0,1,monophagus,,,,,,,189
+Lepidoptera,Arctiidae,Hyphantria cunea (Drury),Hyphantria cunea (Drury),0,1,0,0,1,monophagus,,,,,,,190
+Lepidoptera,Incurvariidae,Paraclemensia acerifoliella (Fitch),Paraclemensia acerifoliella (Fitch),0,1,0,0,1,monophagus,,,,,,,191
+Lepidoptera,Saturniidae,Dryocampa rubicunda (F.),Dryocampa rubicunda (F.),0,1,0,0,1,monophagus,,,,,,,192
+Diptera,Cecidomyiidae,Asphondylia sp.,Asphondylia sp.,0,2,0,0,2,monophagus,,,,,,,193
+Diptera,Cecidomyiidae,Pseudasphordylia neolitseae Yukawa,Pseudasphordylia neolitseae Yukawa,0,1,0,0,1,monophagus,,,,,,,194
+Diptera,Anthomyiidae,Delia brassicae (Wiedemann),Delia brassicae (Wiedemann),0,17,0,0,17,monophagus,,,,,,,195
+Diptera,Agromyzidae,Ophiomyia phaseoli (Tryon),Ophiomyia phaseoli (Tryon),0,1,0,0,1,monophagus,,,,,,,196
+Diptera,Agromyzidae,Ophiomyia shibatsujii Kato,Ophiomyia shibatsujii Kato,0,2,0,0,2,monophagus,,,,,,,197
+Diptera,Agromyzidae,Melanagromyza obtusa Mall.,Melanagromyza obtusa Mall.,0,3,12,0,15,monophagus,,,,,,,198
+Diptera,Agromyzidae,Phytomyza atricornis (Meig.),Phytomyza atricornis (Meig.),0,2,1,0,3,monophagus,,,,,,,199
+Diptera,Agromyzidae,Antherigonia varia soccota (Rond.),Antherigonia varia soccota (Rond.),4,0,6,0,10,monophagus,,,,,,,200
+Diptera,Chloropidae,Oscinnela frit (L.),Oscinnela frit (L.),0,1,0,0,1,monophagus,,,,,,,201
+Hymenoptera,Tenthredinidae,Athalia proxima Klug,Athalia proxima Klug,1,0,0,0,1,monophagus,,,,,,,202
+Hymenoptera,Tenthredinidae,Sawfly larvae,Symphyta sp.,1,0,0,0,1,monophagus,,,,,,,203
+Acarina,Tetranychidae,Tetranychus sp.,Tetranychus sp.,1,0,0,0,1,polyphagus,,,,,,,204
+Thysanoptera,Phlaeothripidae,Haplothrips ganglbaueri Schmutz,Haplothrips ganglbaueri Schmutz,1,0,0,0,1,polyphagus,,,,,,,205
+Thysanoptera,Thripidae,Thrips tabaci Lindeman,Thrips tabaci Lindeman,0,4,0,0,4,polyphagus,,,,,,,206
+Hemiptera,Pentatomidae,Eysarcoris parvus (Uhler),Eysarcoris parvus (Uhler),1,0,0,0,1,polyphagus,,,,,,,207
+Hemiptera,Pentatomidae,Piezodorus hybneri Gmelin,Piezodorus hybneri Gmelin,1,1,0,0,2,polyphagus,,,,,,,208
+Hemiptera,Alydidae,Riptortus dentipes (F.),Riptortus dentipes (F.),0,2,0,0,2,polyphagus,,,,,,,209
+Hemiptera,Miridae,Adelphocoris dentipes Jakovlev,Adelphocoris dentipes Jakovlev,1,1,1,0,3,polyphagus,,,,,,,210
+Hemiptera,Miridae,Lygus vosseleri Popp.,Lygus vosseleri Popp.,0,9,3,0,12,polyphagus,,,,,,,211
+Hemiptera,Miridae,Lygus simonyi Reut.,Lygus simonyi Reut.,0,1,0,0,1,polyphagus,,,,,,,212
+Homoptera,Cicadellidae,Graminella nigrifrons Forbes,Graminella nigrifrons Forbes,2,0,0,0,2,polyphagus,,,,,,,213
+Homoptera,Cicadellidae,Paraphelepsius irroratus (Say),Paraphelepsius irroratus (Say),3,0,0,0,3,polyphagus,,,,,,,214
+Homoptera,Cicadellidae,Recilia tobai Matsumura,Recilia tobai Matsumura,0,2,0,0,2,polyphagus,,,,,,,215
+Homoptera,Delphacidae,Laodelphax striatellus (Fallen),Laodelphax striatellus (Fallen),1,2,0,0,3,polyphagus,,,,,,,216
+Coleoptera,Chrysomelidae,Diabrotica viridula (F.),Diabrotica viridula (F.),2,1,1,0,4,polyphagus,,,,,,,217
+Coleoptera,Chrysomelidae,Diabrotica adelpha Harold,Diabrotica adelpha Harold,1,8,0,0,9,polyphagus,,,,,,,218
+Coleoptera,Cerambycidae,Xyleborius sp.,Xyleborius sp.,1,0,0,0,1,polyphagus,,,,,,,219
+Lepidoptera,Pieridae,Pieris spp.,Pieris spp.,0,1,0,0,1,polyphagus,,,,,,,220
+Lepidoptera,Noctuidae,Heliothis peltigera Schiff,Heliothis peltigera Schiff,1,0,0,0,1,polyphagus,,,,,,,221
+Lepidoptera,Noctuidae,Spodoptera frugiperda (J.E.Smith),Spodoptera frugiperda (J.E.Smith),1,10,0,0,11,polyphagus,,,,,,,222
+Lepidoptera,Noctuidae,Hydraecia mimacea (Esp.)? Prob H.immanis,Hydraecia mimacea (Esp.)? Prob H.immanis,1,0,0,0,1,polyphagus,,,,,,,223
+Lepidoptera,Noctuidae,Spodoptera sunia Guenee,Spodoptera sunia Guenee,0,1,0,0,1,polyphagus,,,,,,,224
+Lepidoptera,Noctuidae,Spodoptera ornithogalli (Guenee),Spodoptera ornithogalli (Guenee),0,1,0,0,1,polyphagus,,,,,,,225
+Lepidoptera,Noctuidae,Agrotis ipsillon (Hfn.),Agrotis ipsillon (Hfn.),1,1,0,0,2,polyphagus,,,,,,,226
+Lepidoptera,Noctuidae,Euxoa ochrogaster (Guenee),Euxoa ochrogaster (Guenee),1,0,0,0,1,polyphagus,,,,,,,227
+Lepidoptera,Noctuidae,Pseudaletia unipuncta (Haw.),Pseudaletia unipuncta (Haw.),1,0,0,0,1,polyphagus,,,,,,,228
+Lepidoptera,Noctuidae,Prococera atramentalis Led.,Prococera atramentalis Led.,0,0,2,0,2,polyphagus,,,,,,,229
+Lepidoptera,Pyralidae,Laxostege stictcalis (L.),Laxostege stictcalis (L.),1,0,0,0,1,polyphagus,,,,,,,230
+Lepidoptera,Tortricidae,Rhyacionia buoliana (Schiffermuller),Rhyacionia buoliana (Schiffermuller),1,1,0,0,2,polyphagus,,,,,,,231
+Lepidoptera,Tortricidae,Argyrotaenia sphaleropa (Meyr.),Argyrotaenia sphaleropa (Meyr.),0,2,0,0,2,polyphagus,,,,,,,232
+Lepidoptera,Tortricidae,Platynota sp.,Platynota sp.,0,2,0,0,2,polyphagus,,,,,,,233
+Lepidoptera,Tortricidae,Chloristoneura fumiferana (Clemens),Chloristoneura fumiferana (Clemens),0,2,0,0,2,polyphagus,,,,,,,234
+Lepidoptera,Geometridae,Alsophila pometaria (Harris),Alsophila pometaria (Harris),2,0,0,0,2,polyphagus,,,,,,,235
+Lepidoptera,Hyblaeidae,Hyblaea puera Cramer,Hyblaea puera Cramer,1,0,0,0,1,polyphagus,,,,,,,236
+Lepidoptera,Hepialidae,Endoclita gmelina Tindale,Endoclita gmelina Tindale,1,0,0,0,1,polyphagus,,,,,,,237
+Hymenoptera,Tenthredinidae,Trachelus tabidus (F.),Trachelus tabidus (F.),1,0,0,0,1,polyphagus,,,,,,,238
+Hymenoptera,Tenthredinidae,Cephus pygmaeus (L.),Cephus pygmaeus (L.),1,0,0,0,1,polyphagus,,,,,,,239
+Phalangida,Phalangiidae,Phalangium opilio L.,Phalangium opilio L.,1,0,0,0,1,predator,,,,,,,240
+Acarina,Typhlodromidae,Typhlodromus floridamus Muma,Typhlodromus floridamus Muma,1,0,0,0,1,predator,,,,,,,241
+Acarina,Phytoseiidae,Metaseiulus occidentalis (Nesbitt),Metaseiulus occidentalis (Nesbitt),1,0,0,0,1,predator,,,,,,,242
+Araneida,Thomisidae,Thomisid spp.,Thomisidae sp1.,2,0,0,0,2,predator,,,,,,,243
+Araneida,Thomisidae,unspecified,Thomisidae sp2.,4,1,7,0,12,predator,,,,,,,244
+Araneida,Lycosidae,Lycosa spp.,Lycosa sp.,4,8,11,0,23,predator,,,,,,,245
+Araneida,Theridiidae,Theridiid spp. ,Theridiidae sp. ,2,0,0,0,2,predator,,,,,,,246
+Dermaptera,Forficulidae,Doru sp.,Doru sp.,2,0,0,0,2,predator,,,,,,,247
+Hemiptera,Anthocoridae,Paratriphleps laeviusculus Champion,Paratriphleps laeviusculus Champion,1,0,0,0,1,predator,,,,,,,248
+Hemiptera,Anthocoridae,Anthocoris nemorum (L.),Anthocoris nemorum (L.),3,0,0,0,3,predator,,,,,,,249
+Hemiptera,Anthocoridae,Orius tristicolor (White),Orius tristicolor (White),1,0,0,0,1,predator,,,,,,,250
+Hemiptera,Anthocoridae,Orius albidipennis (Reuter),Orius albidipennis (Reuter),0,1,0,0,1,predator,,,,,,,251
+Hemiptera,Anthocoridae,Orius sp.,Orius sp.,1,0,0,0,1,predator,,,,,,,252
+Hemiptera,Geocoridae,Geocoris spp.,Geocoris sp.,1,0,0,0,1,predator,,,,,,,253
+Hemiptera,Nabidae,Nabis punctipennis Black,Nabis punctipennis Black,1,0,0,0,1,predator,,,,,,,254
+Hemiptera,Nabidae,Nabis stenoferus Hsiao,Nabis stenoferus Hsiao,2,0,1,0,3,predator,,,,,,,255
+Hemiptera,Reduviidae,Reduviid spp.,Reduviidae sp.,1,0,0,0,1,predator,,,,,,,256
+Hemiptera,Saldidae,Chartoscirta elegantula (Fallen),Chartoscirta elegantula (Fallen),1,0,0,0,1,predator,,,,,,,257
+Hemiptera,Miridae,Rhinacloa aricana Carvalho ,Rhinacloa aricana Carvalho ,1,0,0,0,1,predator,,,,,,,258
+Hemiptera,Miridae,Rhinacloa forticornis Reuter,Rhinacloa forticornis Reuter,0,0,1,0,1,predator,,,,,,,259
+Hemiptera,Miridae,Orthotylellus carmelitanus Carvalho,Orthotylellus carmelitanus Carvalho,0,0,0,0,0,predator,,,,,,,260
+Neuroptera,Chrysopidae,Chrysopa oculata (Say),Chrysopa oculata (Say),1,0,0,0,1,predator,,,,,,,261
+Neuroptera,Chrysopidae,Chrysopa septempunctata (Wesmael),Chrysopa septempunctata (Wesmael),0,2,1,0,3,predator,,,,,,,262
+Neuroptera,Chrysopidae,Chrysopa spp.,Chrysopa sp.,1,0,0,0,1,predator,,,,,,,263
+Neuroptera,Chrysopidae,Chrysopa californica Coq.,Chrysopa californica Coq.,0,0,1,0,1,predator,,,,,,,264
+Neuroptera,Hemerobiidae,Hemerobius sp.,Hemerobius sp.,0,0,1,0,1,predator,,,,,,,265
+Coleoptera,Carabidae,Nebria brevicollis (F.),Nebria brevicollis (F.),3,0,2,0,5,predator,,,,,,,266
+Coleoptera,Carabidae,Clivina fossor (L.),Clivina fossor (L.),3,0,0,0,3,predator,,,,,,,267
+Coleoptera,Carabidae,Bembidion lampros (Hbst.),Bembidion lampros (Hbst.),2,1,0,1,4,predator,,,,,,,268
+Coleoptera,Carabidae,Bembidion quadrimaculatum (Say),Bembidion quadrimaculatum (Say),2,0,0,1,3,predator,,,,,,,269
+Coleoptera,Carabidae,Bembidion spp.,Bembidion spp.,0,4,0,0,4,predator,,,,,,,270
+Coleoptera,Carabidae,Amara plebeia (Gyll),Amara plebeia (Gyll),1,1,1,0,3,predator,,,,,,,271
+Coleoptera,Carabidae,Amara spp.,Amara spp.,3,0,0,0,3,predator,,,,,,,272
+Coleoptera,Carabidae,Pterostichus madidus (F.),Pterostichus madidus (F.),2,0,0,1,3,predator,,,,,,,273
+Coleoptera,Carabidae,Pterostichus melanarius (Illiger),Pterostichus melanarius (Illiger),2,0,0,0,2,predator,,,,,,,274
+Coleoptera,Carabidae,Pterostichus versicolor (Sturm),Pterostichus versicolor (Sturm),0,0,1,0,1,predator,,,,,,,275
+Coleoptera,Carabidae,Pterostichus (Feronia) spp.,Pterostichus spp.,4,0,0,0,4,predator,,,,,,,276
+Coleoptera,Carabidae,Agonum dorsale Pontoppidan,Agonum dorsale Pontoppidan,2,0,0,1,3,predator,,,,,,,277
+Coleoptera,Carabidae,Trechus quadristriatus (Sk.),Trechus quadristriatus (Sk.),1,0,2,1,4,predator,,,,,,,278
+Coleoptera,Carabidae,Trechus spp.,Trechus spp.,0,3,0,1,4,predator,,,,,,,279
+Coleoptera,Carabidae,Harpalus rufipes (DeGeer),Harpalus rufipes (DeGeer),4,1,0,0,5,predator,,,,,,,280
+Coleoptera,Carabidae,Harpalus spp.,Harpalus spp.,2,0,0,0,2,predator,,,,,,,281
+Coleoptera,Carabidae,Harpaline spp.,Harpalinae spp.,2,1,0,0,3,predator,,,,,,,282
+Coleoptera,Carabidae,Dyschirius globosus Herbst,Dyschirius globosus Herbst,0,1,0,0,1,predator,,,,,,,283
+Coleoptera,Carabidae,Calathus fuscipes (Goez),Calathus fuscipes (Goez),1,1,0,0,2,predator,,,,,,,284
+Coleoptera,Carabidae,Carabus granulatus L.,Carabus granulatus L.,1,0,0,0,1,predator,,,,,,,285
+Coleoptera,Carabidae,Tachyporus hypnorum (F.),Tachyporus hypnorum (F.),0,0,0,1,1,predator,,,,,,,286
+Coleoptera,Carabidae,Tachyporus spp.,Tachyporus spp.,0,0,2,0,2,predator,,,,,,,287
+Coleoptera,Carabidae,Oxytelus spp.,Oxytelus spp.,0,0,2,0,2,predator,,,,,,,288
+Coleoptera,Carabidae,Lebia spp.,Lebia spp.,0,0,0,1,,predator,,,,,,,289
+Coleoptera,Staphylinidae,Aleochara bipustulata L.,Aleochara bipustulata L.,0,0,2,2,4,predator,,,,,,,290
+Coleoptera,Staphylinidae,Aleochara bilineata L.,Aleochara bilineata L.,0,0,2,0,2,predator,,,,,,,291
+Coleoptera,Staphylinidae,Aleochara spp.,Aleochara spp.,0,0,1,0,1,predator,,,,,,,292
+Coleoptera,Staphylinidae,staphylinids,Staphylinidae sp.,4,0,0,0,4,predator,,,,,,,293
+Coleoptera,Coccinellidae,Chilomenes lunata (F.),Chilomenes lunata (F.),1,16,3,0,20,predator,,,,,,,294
+Coleoptera,Coccinellidae,Platynaspis ferruginea Ws.,Platynaspis ferruginea Ws.,3,4,13,0,20,predator,,,,,,,295
+Coleoptera,Coccinellidae,Coleomegilla maculata (DeGeer),Coleomegilla maculata (DeGeer),0,2,0,0,2,predator,,,,,,,296
+Coleoptera,Coccinellidae,Menochilus sexmaculatus F.,Menochilus sexmaculatus F.,0,0,1,0,1,predator,,,,,,,297
+Coleoptera,Coccinellidae,Hippodamia convergens Guerin,Hippodamia convergens Guerin,4,0,0,0,4,predator,,,,,,,298
+Coleoptera,Coccinellidae,Coccinella septempunctata L.,Coccinella septempunctata L.,0,1,0,0,1,predator,,,,,,,299
+Coleoptera,Coccinellidae,Scymnus sp.,Scymnus sp.,0,1,0,0,1,predator,,,,,,,300
+Coleoptera,Coccinellidae,"predators, mainly coccinellids",Coccinellidae sp.,0,1,1,0,2,predator,,,,,,,301
+Diptera,Syrphidae,Syrphus balteatus DeGeer,Syrphus balteatus DeGeer,1,1,1,0,3,predator,,,,,,,302
+Diptera,Syrphidae,Platycheirus spp.,Platycheirus spp.,0,3,0,0,3,predator,,,,,,,303
+Diptera,Syrphidae,Melanostoma spp.,Melanostoma spp.,3,0,0,0,3,predator,,,,,,,304
+Diptera,Dolichopodidae,Condylostylus sp.,Condylostylus sp.,1,0,1,0,2,predator,,,,,,,305
+Diptera,Dolichopodidae,dolichopodid sp.,Dolichopodidae sp.,0,1,0,0,1,predator,,,,,,,306
+Hymenoptera,Vespidae,vespid wasps,Vespidae sp.,3,0,0,0,3,predator,,,,,,,307
+Hymenoptera,Formicidae,Lasius niger L.,Lasius niger L.,0,0,1,0,1,predator,,,,,,,308
+Hymenoptera,Formicidae,Oecophylla smaragdina,Oecophylla smaragdina,1,0,0,0,1,predator,,,,,,,309
+Hymenoptera,Formicidae,subnitita Emery,Subnitita sp. Emery,0,0,1,0,1,predator,,,,,,,310
+Hymenoptera,Formicidae,Oecophylla longinoda Latreille,Oecophylla longinoda Latreille,5,0,0,0,5,predator,,,,,,,311
+Hymenoptera,Formicidae,formicid spp.,Formicidae sp.,3,0,0,0,3,predator,,,,,,,312
+Diptera,Tachinidae,Lixophaga sphenophori (Villeneuve),Lixophaga sphenophori (Villeneuve),2,0,0,0,2,parasite,,,,,,,315
+Diptera,Tachinidae,Lydella grisescens R.-D.,Lydella grisescens R.-D.,1,0,0,0,1,parasite,,,,,,,316
+Diptera,Tachinidae,Trichopoda pennipes F.,Trichopoda pennipes F.,1,0,0,0,1,parasite,,,,,,,317
+Diptera,Tachinidae,Trichopoda lanipes F.,Trichopoda lanipes F.,1,0,0,0,1,parasite,,,,,,,318
+Diptera,Tachinidae,Compsilura concinnata Meig.,Compsilura concinnata Meig.,1,0,0,0,1,parasite,,,,,,,319
+Diptera,Sarcophagidae,Sarcophaga sternodontis Townsend,Sarcophaga sternodontis Townsend,1,0,0,0,1,parasite,,,,,,,320
+Hymenoptera,Sphecidae,Larra americana Saussure,Larra americana Saussure,1,0,0,0,1,parasite,,,,,,,321
+Hymenoptera,Scoliidae,Scolia dejani Lind,Scolia dejani Lind,1,0,0,0,1,parasite,,,,,,,322
+Hymenoptera,Proctotrupoidea,no data,Proctotrupoidea sp.,5,1,2,4,12,parasite,,,,,,,323
+Hymenoptera,Ichneumonidae,Diadegma sp.,Diadegma sp.,0,0,1,0,1,parasite,,,,,,,324
+Hymenoptera,Braconidae,Orgilus obscurator (Nees),Orgilus obscurator (Nees),1,0,0,0,1,parasite,,,,,,,325
+Hymenoptera,Braconidae,Lysiphlebus testaceipes (Cresson),Lysiphlebus testaceipes (Cresson),1,0,0,0,1,parasite,,,,,,,326
+Hymenoptera,Braconidae,Ascogaster carpocapse (Vier),Ascogaster carpocapse (Vier),1,0,0,0,1,parasite,,,,,,,327
+Hymenoptera,Braconidae,Diaeretiella rapae (McIntosh),Diaeretiella rapae (McIntosh),0,0,3,0,3,parasite,,,,,,,328
+Hymenoptera,Braconidae,Ephedrus plagiator (Nees),Ephedrus plagiator (Nees),1,0,0,1,2,parasite,,,,,,,329
+Hymenoptera,Braconidae,Macrocentrus ancylivorus Roh.,Macrocentrus ancylivorus Roh.,2,0,1,0,3,parasite,,,,,,,330
+Hymenoptera,Braconidae,Apanteles medicaginis Mues.,Apanteles medicaginis Mues.,1,0,0,0,1,parasite,,,,,,,331
+Hymenoptera,Braconidae,Apanteles glomeratus (L.),Apanteles glomeratus (L.),1,0,0,0,1,parasite,,,,,,,332
+Hymenoptera,Braconidae,Meteorus sp.,Meteorus sp.,0,0,1,0,1,parasite,,,,,,,333
+Hymenoptera,Aphelinidae,Aphytis lingnanensis Comp.,Aphytis lingnanensis Comp.,1,0,0,0,1,parasite,,,,,,,334
+Hymenoptera,Aphelinidae,Aphelinus asychis (Walker),Aphelinus asychis (Walker),0,0,0,1,1,parasite,,,,,,,335
+Hymenoptera,Aphelinidae,Aphelinus nigritus (Howard),Aphelinus nigritus (Howard),0,0,0,1,0,parasite,,,,,,,336
+Hymenoptera,Aphelinidae,Aphytis proclia (Walker),Aphytis proclia (Walker),1,0,0,0,1,parasite,,,,,,,337
+Hymenoptera,Tiphiidae,Tiphia popilliavora Roh.,Tiphia popilliavora Roh.,1,0,0,0,1,parasite,,,,,,,338
+Hymenoptera,Tiphiidae,Tiphia vernalis Roh.,Tiphia vernalis Roh.,1,0,0,0,1,parasite,,,,,,,339
+Hymenoptera,Tiphiidae,Tiphia sp.,Tiphia sp.,1,0,0,0,1,parasite,,,,,,,340
+Hymenoptera,Eulophidae,Ceranisus menes,Ceranisus menes,0,0,0,1,1,parasite,,,,,,,341
+Hymenoptera,Encyrtidae,Metaphycus helvorus (Comp.),Metaphycus helvorus (Comp.),1,0,0,0,1,parasite,,,,,,,342
+Hymenoptera,Eurytomidae,Eurytoma tylodermatis Ashm.,Eurytoma tylodermatis Ashm.,1,0,0,0,1,parasite,,,,,,,343
+Hymenoptera,Trichogrammatidae,Trichogramma confusum Viggiani,Trichogramma confusum Viggiani,0,0,1,0,1,parasite,,,,,,,344
+Hymenoptera,Mymaridae,Anagrus epos Gir.,Anagrus epos Gir.,1,0,0,0,1,parasite,,,,,,,345
+Hymenoptera,Mymaridae,Anagrus sp.,Anagrus sp.,1,0,1,0,2,parasite,,,,,,,346

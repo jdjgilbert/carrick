@@ -1,0 +1,6209 @@
+#NEXUS
+[R-package APE, Thu Apr 21 18:46:00 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 3098;
+	TAXLABELS
+		Diplura
+		Monocondylia
+		Odonata
+		Ephemeroptera
+		Phasmatodea
+		Blaberoidea
+		Termopsidae
+		Blattoidea
+		Rhinotermitidae
+		Rhombodera
+		Hierodula sp. MN343
+		Hierodula sp. MN018
+		Hierodula schultzei
+		Tamolanica
+		Hierodula sp. MN019
+		Camelomantis
+		Hierodulella celebensis
+		Hierodulella reticulata
+		Sphodropoda
+		Archimantis
+		Austrovates
+		Pseudovates
+		Vates sp. MN118
+		Vates sp. MN128
+		Vates sp. MN119
+		Vates pectinacornis
+		Phyllovates chlorophaea
+		Phyllovates cingulata
+		Parastagmatoptera sp. MN125
+		Parastagmatoptera sp. MN151
+		Parastagmatoptera sp. MN028
+		Oxyopsis
+		Stagmatoptera sp. MN029
+		Stagmatoptera sp. MN117
+		Antemna
+		Stagmomantis vicina
+		Stagmomantis sp. MN279
+		Oromantis
+		Stagmomantis sp. MN278
+		Stagmomantis sp. MN149
+		Stagmomantis sp. MN027
+		Stagmomantis carolina
+		Stagmomantis limbata
+		Stagmomantis sp. MN150
+		Tarachomantis
+		Sphodromantis viridis
+		Sphodromantis lineola
+		Prohierodula
+		Plistospilota
+		Polyspilota
+		Tenodera aridifolia
+		Tenodera costalis
+		Parathespis
+		Omomantis
+		Orthodera sp. MN033
+		Orthodera novaezealandiae
+		Choeradodis rhombicollis
+		Choeradodis stalii
+		Mellierinae
+		Mantis
+		Statilia apicalis
+		Statilia sp. MN255
+		Statilia nemoralis
+		Statilia maculata
+		Leptocola
+		Stenopyga
+		Popa
+		Danuria
+		Theopompella
+		Dactylopteryx
+		Indomenella
+		Euchomenella
+		Deroplatys desiccata
+		Deroplatys rhombica
+		Deroplatys sp. MN168
+		Deroplatys truncata
+		Acromantis sp. MN321
+		Acromantis sp. MN339
+		Citharomantis
+		Acromantis montana
+		Rhomantis
+		Acromantis insularis
+		Psychomantis
+		Ephippiomantis
+		Oxypiloidea subcornuta
+		Chrysomantis sp. MN005
+		Oxypiloidea tridens
+		Chrysomantis cachani
+		Anasigerpes
+		Otomantis scutigera
+		Otomantis sp. MN161
+		Otomantis rendalli
+		Ephestiasula
+		Hestiasula masoni
+		Hestiasula inermis
+		Hestiasula phyllopus
+		Ceratomantis kimberlae
+		Ceratomantis ghatei
+		Junodia
+		Oxypilus nasutus
+		Oxypilus sp. MN154
+		Oxypilus transvalensis
+		Oxypilus nigericus
+		Oxypilus hamatus
+		Ceratocrania
+		Phyllothelys decipiens
+		Phyllothelys westwoodi
+		Chloroharpax
+		Panurgica compressicollis
+		Panurgica fratercula
+		Pseudocreobotra
+		Creobroter laevicollis
+		Creobroter sp. MN092
+		Creobroter apicalis
+		Theopropus
+		Hymenopus
+		Odontomantis
+		Anaxarcha intermedia
+		Anaxarcha limbata
+		Epaphroditinae
+		Sibylla dives
+		Sibylla pretiosa
+		Sibylla operosa
+		Gongylus
+		Empusa guttula
+		Empusa sp. MN131
+		Idolomorpha
+		Blepharopsis
+		Idolomantis
+		Congoharpax
+		Pseudoharpax
+		Galinthias
+		Cilnia
+		Parasphendale
+		Taumantis
+		Miomantis aurea
+		Miomantis paykullii
+		Miomantis sp. MN196
+		Miomantis sp. MN191
+		Miomantis sp. MN181
+		Hoplocorypha sp. MN139
+		Hoplocorypha sp. MN190
+		Hoplocorypha sp. MN035
+		Hoplocorypha sp. MN042
+		Aethalochroa
+		Toxoderopsis
+		Stenotoxodera
+		Oxyothespis
+		Heterochaetula
+		Perlamantinae
+		Didymocorypha
+		Heterochaeta
+		Iris
+		Episcopomantis
+		Dysaules longicollis
+		Dysaules himalayanus
+		Dysaules sp. MN067
+		Yersinia
+		Litaneutria
+		Eremiaphila rotundipennis
+		Eremiaphila sp. MN192
+		Tarachodes afzelii
+		Tarachodes dissimulator
+		Pyrgomantis nasuta
+		Pyrgomantis jonesi
+		Paragalepsus
+		Tarachodes sp. MN134
+		Tarachodula
+		Galepsus
+		Nothogalepsus planivertex
+		Nothogalepsus sp. MN174
+		Antistia
+		Schizocephalinae
+		Oxyophthalma
+		Deiphobella
+		Deiphobe sp. MN265
+		Deiphobe sp. MN256
+		Eremoplana
+		Pseudothespis
+		Haaniinae
+		Acromantis sp. MN004
+		Gildella
+		Myrcinus
+		Bimantis
+		Gonypetyllis
+		Humbertiella similis
+		Humbertiella ocularis
+		Gonypeta
+		Gimantis
+		Elmantis nira
+		Elmantis trincomaliae
+		Hapalopeza nitens
+		Amantis biroi
+		Amantis tristis
+		Amantis sp. MN209
+		Amantis reticulata
+		Hapalopeza nilgirica
+		Kongobatha
+		Neomantis
+		Gyromantis
+		Cliomantis obscura
+		Cliomantis cornuta
+		Paraoxypilus verreauxii
+		Paraoxypilus tasmaniensis
+		Bolbe pallida
+		Bolbe pygmea
+		Tylomantis
+		Calofulcinia
+		Stenomantis
+		Ciulfina
+		Sceptuchus
+		Miromantis
+		Bolbena maraisi
+		Bolbena sp. MN292
+		Bolbena hottentotta
+		Hapalomantis orba
+		Hapalomantis congica
+		Nilomantinae
+		Tropidomantis
+		Eomantis guttatipennis
+		Eomantis iridipennis
+		Xanthomantis
+		Amorphoscelis annulicornis
+		Amorphoscelis singaporana
+		Amorphoscelis borneana
+		Amorphoscelis austrogermanica
+		Amorphoscelinae
+		Amorphoscelis sp. MN240
+		Amorphoscelis sp. MN317
+		Amorphoscelis sp. MN337
+		Amorphoscelis sp. MN327
+		Leptomantella sp. MN322
+		Leptomantella sp. MN108
+		Leptomantella albella
+		Leptomantella sp. MN198
+		Ligaria
+		Ligariella gracilis
+		Ligariella trigonalis
+		Entella orientalis
+		Entelloptera
+		Ligentella zairensis
+		Ligentella beieri
+		Namamantis
+		Entella delalandi
+		Dystactula
+		Rogermantis
+		Bolbella
+		Chroicoptera
+		Dystactinae
+		Tarachina sp. MN140
+		Tarachina occidentalis
+		Gonypetella
+		Metallyticus fallax
+		Metallyticus splendidus
+		Oligonicella punctulata
+		Thesprotia graminis
+		Thesprotia sp. MN121
+		Thesprotia macilenta
+		Oligonicella scudderi
+		Carrikerella
+		Thesprotiella sp. MN252
+		Thesprotiella peruana
+		Macromusonia
+		Eumusonia
+		Musoniella sp. MN137
+		Musoniella sp. MN122
+		Bantia
+		Thrinaconyx fumosus
+		Thrinaconyx kirschianus
+		Pseudomiopteryginae
+		Microphotina
+		Photinainae
+		Orthoderella
+		Cardioptera
+		Macromantis
+		Acanthops falcataria
+		Metilia brunnerii
+		Acanthops sp. MN085
+		Metilia boliviana
+		Acontista
+		Raptrix fusca
+		Raptrix perspicua
+		Raptrix sp. MN203
+		Hagiomantis
+		Liturgusa maya
+		Liturgusa sp. MN116
+		Brunneria
+		Coptopteryx sp. MN136
+		Coptopteryx sp. MN059
+		Mantoida sp. MN179
+		Mantoida sp. MN110
+		Mantoida sp. MN180
+		Mantoida schraderi
+		Mantoida sp. MN109
+		Chaeteessidae
+		Caelifera
+		Trigonidiinae
+		Gryllinae
+		Plecoptera
+		Auchenomus forcipatus
+		Irdex sp. 1 DM55
+		Irdex sp. 2 DM56
+		Auchenomus sp. DM48
+		Arixeniina
+		Proreus
+		Chelisoches annulatus
+		Chelisoches morio
+		Paratimomenus
+		Acanthocordax
+		Ancistogaster
+		Eparchus
+		Opisthocosmia
+		Doru
+		Elaunon
+		auricularia species complex
+		Forficula sp. BYU_ACDM005
+		Hemimerus sp. DM29
+		Hemimerus hanseni
+		Labidura
+		Forcipula clavata
+		Forcipula decolyi
+		Nala tenuicornis
+		Nala lividipes
+		Euborellia
+		Thekalabis
+		Nesogaster
+		Labia
+		Parisopsalis
+		Apachyoidea
+		Cranopygia
+		Tagalina
+		Echinosoma micropteryx
+		Echinosoma sp. DM11
+		Echinosoma yorkense
+		Panorpidae
+		Nannochorista sp. BMW-2009
+		Nannochorista philpotti
+		Boreus sp. BMW-2009
+		Boreus brumalis
+		Bittacidae
+		Pulicomorpha
+		Hystrichopsyllomorpha
+		Lygistorrhinidae
+		Cecidomyiidae
+		Sciaridae
+		Bolitophilinae
+		Keroplatidae
+		Pseudobrachypeza
+		Diadocidiidae
+		Ditomyiinae
+		Manotinae
+		Bibionoidea
+		Pachyneuroidea
+		Axymyiomorpha
+		Synneuridae
+		Scatopsoidea
+		Sylvicola
+		Olbiogaster
+		Apystomyia
+		Pipunculidae
+		Campichoetidae
+		Diastatidae
+		Curtonotidae
+		Camillidae
+		Cryptochetidae
+		Braulidae
+		latifasciaeformis group
+		Scaptodrosophila dorsocentralis
+		calloptera group
+		pallidipenis group
+		Drosophila metzii
+		guaramunu subgroup
+		macroptera group
+		rubrifrons group
+		histrio group
+		tripunctata subgroup III
+		Drosophila guaru
+		Drosophila ornatifrons
+		tripunctata subgroup II
+		Drosophila mediodiffusa
+		Drosophila cardini
+		Drosophila acutilabella
+		Drosophila caribiana
+		Drosophila arawakana
+		macrospina subgroup
+		Drosophila occidentalis
+		Drosophila recens
+		guttifera group
+		Drosophila falleni
+		Drosophila phalerata
+		Drosophila neotestacea
+		Drosophila testacea
+		bizonata group
+		Drosophila putrida
+		Drosophila tripunctata
+		funebris subgroup
+		pinicola group
+		Drosophila immigrans
+		curviceps subgroup
+		Drosophila sulfurigaster bilimbata
+		Drosophila sulfurigaster sulfurigaster
+		Drosophila nasuta
+		Drosophila albomicans
+		Drosophila sulfurigaster albostrigata
+		Drosophila hypocausta
+		Drosophila siamana
+		Drosophila ruberrima
+		tumiditarsus group
+		Zaprionus inermis
+		Zaprionus sepsoides
+		Zaprionus tuberculatus
+		vittiger subgroup
+		Zaprionus ghesquierei
+		Liodrosophila
+		zentae group
+		Hirtodrosophila thoracis
+		Mycodrosophila sp. JLDL-2005
+		Mycodrosophila claytonae
+		Mycodrosophila dimidiata
+		Drosophila pavani
+		Drosophila gaucha
+		Drosophila peninsularis
+		Drosophila repleta
+		Drosophila neorepleta
+		Drosophila mercatorum
+		mojavensis species complex
+		mayaguana subcluster
+		mulleri species complex
+		stalkeri species complex
+		buzzatii species complex
+		Drosophila hamatofila
+		hydei subgroup
+		fasciola subgroup
+		canalinea group
+		Drosophila bromeliae
+		Drosophila aff. florae KVDL-2010
+		Drosophila nannoptera
+		Drosophila acanthoptera
+		Siphlodora
+		annulimana group
+		dreyfusi group
+		Drosophila montana
+		Drosophila ezoana
+		Drosophila virilis
+		Drosophila americana texana
+		Drosophila americana americana
+		quadrisetata group
+		okadai subgroup
+		lacertosa subgroup
+		robusta subgroup
+		Drosophila paramelanica
+		Drosophila euronotus
+		Drosophila melanica
+		Drosophila nigromelanica
+		Drosophila micromelanica
+		mitchelli subgroup
+		haleakalae group
+		mimica subgroup
+		antopocerus group
+		adiastola group
+		planitibia group
+		hawaiiensis subgroup
+		Drosophila crucigera
+		Drosophila grimshawi
+		Engiscaptomyza
+		Tantalia
+		Bunostoma
+		Parascaptomyza
+		Dettopsomyia
+		Dorsilopha
+		bocainensis subgroup
+		Drosophila willistoni
+		Drosophila paulistorum
+		Drosophila equinoxialis
+		elliptica subgroup
+		cordata subgroup
+		sturtevanti subgroup
+		saltans subgroup
+		Hirtodrosophila duncani
+		Drosophila mimetica
+		Drosophila lutescens
+		Drosophila takahashii
+		Drosophila biarmipes
+		flavohirta subgroup
+		eugracilis subgroup
+		Drosophila santomea
+		Drosophila yakuba
+		Drosophila teissieri
+		Drosophila erecta
+		Drosophila simulans
+		Drosophila sechellia
+		Drosophila mauritiana
+		Drosophila melanogaster
+		ficusphila subgroup
+		elegans subgroup Drosophila
+		rhopaloa subgroup
+		Drosophila lucipennis
+		Drosophila nikananu
+		Drosophila tsacasi
+		Drosophila seguyi
+		Drosophila greeni
+		Drosophila auraria
+		Drosophila biauraria
+		Drosophila rufa
+		Drosophila kikkawai
+		Drosophila lini
+		Drosophila serrata
+		Drosophila birchii
+		Drosophila phaeopleura
+		Drosophila ananassae
+		Drosophila pallidosa
+		Drosophila bipectinata
+		Drosophila malerkotliana malerkotliana
+		Drosophila malerkotliana pallens
+		ercepeae species complex
+		Drosophila varians
+		Drosophila obscura
+		Drosophila hubeiensis
+		Drosophila bifasciata
+		Drosophila pseudoobscura pseudoobscura
+		Drosophila pseudoobscura bogotana
+		Drosophila persimilis
+		Drosophila algonquin
+		Drosophila affinis
+		Drosophila azteca
+		Drosophila guanche
+		Drosophila subobscura
+		Scaptodrosophila galloi
+		Scaptodrosophila lebanonensis casteeli
+		Scaptodrosophila lebanonensis lebanonensis
+		rufifrons group
+		Scaptodrosophila deflexa
+		procnemis group
+		fuscimana group
+		Discomyzinae
+		Hydrelliinae
+		Ephydrinae
+		Anthomyiidae
+		Scathophagidae
+		Exoristinae
+		Axinia
+		Phasiinae
+		Siphonini
+		Tachinini
+		Calliphoridae
+		Phyto
+		Oestridae
+		Neobellieria
+		Peckia
+		Sarcophaga subgenus Sarcophaga
+		Sarcophaga kozlovi
+		Sarcophaga giganta
+		Sarcophaga vicina
+		Sarcophaga enderleini
+		Sarcophaga porrecta
+		Sarcophaga shnitnikovi
+		Sarcophaga vagans
+		Sarcophaga pauciseta
+		Sarcophaga pandellei
+		Sarcophaga schineri
+		Sarcophaga proxima
+		Sarcophaga rondaniana
+		Sarcophaga lacrymans
+		Sarcophaga nipponensis
+		Sarcophaga recta
+		Sarcophaga consanguinea
+		Sarcophaga chaetoneura
+		Sarcophaga dissimilis
+		Sarcophaga benaci
+		Sarcophaga siciliana
+		Sarcophaga pseudobenaci
+		Sarcophaga infantilis
+		Sarcophaga amita
+		Sarcophaga abramovi
+		Sarcophaga plotnikovi
+		Sarcophaga haemorrhoa
+		Sarcophaga haemorrhoides
+		Sarcophaga kataphygionis
+		Sarcophaga depressifrons
+		Sarcophaga slovaca
+		Sarcophaga bulgarica
+		Sarcophaga lederbergi
+		Sarcophaga heptapotamica
+		Sarcophaga ancilla
+		Sarcophaga metopina
+		Sarcophaga armenica
+		Sarcophaga pontica
+		Sarcophaga clarahenae
+		Sarcophaga croca
+		Sarcophaga cucullans
+		Sarcophaga esthera
+		Sarcophaga pumila
+		Sarcophaga arcipes
+		Sarcophaga amputata
+		Sarcophaga kunonis
+		Sarcophaga balanina
+		Sarcophaga ferox
+		Sarcophaga desertorum
+		Sarcophaga setinervis
+		Sarcophaga mutila
+		Sarcophaga kerteszi
+		Sarcophaga curvifemoralis
+		Sarcophaga monspellensia
+		Sarcophaga villeneuveana
+		Sarcophaga uncicurva
+		Sarcophaga thirionae
+		Sarcophaga penicillata
+		Sarcophaga santospintosi
+		Sarcophaga tricolor
+		Sarcophaga minima
+		Sarcophaga siciliensis
+		Sarcophaga filia
+		Sarcophaga turana
+		Sarcophaga sicilia
+		Sarcophaga boettcheri
+		Sarcophaga longestylata
+		Sarcophaga filiola
+		Helicophagella
+		Azeliinae
+		Stomoxyini
+		Muscini
+		Fanniidae
+		Glossinidae
+		Ornithomya
+		Stenepteryx
+		Streblidae
+		Phytomyza
+		Cerodontha
+		Pseudocollinella
+		Spelobia
+		Periscelis
+		Carnidae
+		Odiniidae
+		Tetanocera
+		Neolimnia
+		Pherbellia
+		Myopinae
+		Conopinae
+		Pelidnoptera
+		Dryomyza
+		Oedoparena
+		Helosciomyzidae
+		Coelopinae
+		Lopinae
+		Helcomyzidae
+		Huttonina
+		Stylogastrinae
+		Natalimyzidae
+		Heterocheilidae
+		Celyphidae
+		Minettia
+		Lyciella
+		Cremifania
+		Parochthiphila
+		Heteromyza
+		Anthomyzidae
+		Suillia
+		Trixoscelis
+		Teratomyzidae
+		Fergusoninidae
+		Asteiidae
+		Australimyzidae
+		Xenasteiidae
+		Willistoniella
+		Neurochaetidae
+		Pallopteridae
+		Clusiidae
+		Syringogastridae
+		Tanypezidae
+		Strongylophthalmyiidae
+		Nannodastiidae
+		Procanace
+		Tethinosoma
+		Marginidae
+		Teleopsis
+		Sphyracephala
+		Teloglabrus
+		Milichiidae
+		Oscinellinae
+		Thaumatomyia notata
+		Thaumatomyia glabra
+		Somatiidae
+		Aulacigastridae
+		Cyamops
+		Cypselosomatidae
+		Neriidae
+		Compsobata
+		Cnodacophora
+		Inbiomyiidae
+		Neminidae
+		Pyrgotidae
+		Tachiniscinae
+		Dacinae
+		Tephritinae
+		Ctenostylidae
+		Platystomatidae
+		Herina
+		Melieria
+		Piophilidae
+		Lonchaeidae
+		Richardiidae
+		Sepsis
+		Acartophthalmidae
+		Opomyza
+		Geomyza
+		Chyromyidae
+		Megamerinidae
+		Eristalinae
+		Syrphinae
+		Microdontinae
+		Sciadoceridae
+		Metopininae
+		Phorinae
+		Ironomyiidae
+		Platypezinae
+		Opetiinae
+		Lonchoptera lutea
+		Lonchoptera uniseta
+		Empidinae
+		Oreogeton scopifer
+		Oreogeton obscurus
+		Ocydromiinae
+		Hybotinae
+		Microphorinae
+		Dolichopodidae
+		Atelestidae
+		Scenopinidae
+		Phycus
+		Acrosathe
+		Apsilocephalidae
+		Evocoidae
+		Mydidae
+		Apioceridae
+		Asilidae
+		Mythicomyiidae
+		Tomomyzinae
+		Bombyliinae
+		Munjua lepidokingi
+		Munjua paralutea
+		Munjua erugata
+		Palirika bouchardi
+		Palirika basilikos
+		Palirika danielsi
+		Palirika whyalla
+		Palirika viridula
+		Palirika cyanea
+		Palirika blackdownensis
+		Palirika marginicollis
+		Palirika anaxios
+		Palirika decora
+		Balaana bicuspis
+		Balaana obliquebifasciata
+		Balaana centrosa
+		Balaana abscondita
+		Balaana kingcascadensis
+		Balaana gigantea
+		Balaana latelimbata
+		Munjua trigona
+		Muwarna vitreilinearis
+		Muwarna stellifera
+		Larrpana collessi
+		Larrpana zwicki
+		Larrpana dimidiatipennis
+		Kapu irwini
+		Kapu corusca
+		Kapu westralica
+		Kapu adelaidica
+		Wurda patrellia
+		Wurda montebelloensis
+		Wurda wyperfeldensis
+		Wurda emu
+		Wurda windorah
+		Wurda skevingtoni
+		Wurda impatientis
+		Wurda norrisi
+		Actina
+		Stratiomyidae
+		Xylomyidae
+		Pantophthalmidae
+		Ogcodes
+		Hilarimorpha
+		Athericidae
+		Haematopotini
+		Tabanini
+		Oreoleptidae
+		Pelecorhynchidae
+		Chrysopilus
+		Bolbomyia
+		Rhagio
+		Vermileonidae
+		Xylophaginae
+		Coenomyiinae
+		Perissomma
+		Tanyderidae
+		Psychodinae
+		Lutzomyia
+		Phlebotomus subgenus Phlebotomus
+		Phlebotomus duboscqui
+		Blephariceridae
+		Simuliidae
+		Thaumaleidae
+		Ceratopogonidae
+		Chironomidae
+		Toxorhynchitinae
+		Neocellia
+		Pyretophorus
+		Corethrellinae
+		Chaoborinae
+		Dixidae
+		Bittacomorphinae
+		Ptychopterinae
+		Trichoceridae
+		Limoniinae
+		Ctenophorinae
+		Tipulinae
+		Cylindrotomidae
+		Chioneinae
+		Limnophilinae
+		Dactylolabinae
+		Pediciidae
+		Nymphomyioidea
+		Deuterophlebiidae
+		Trichoptera
+		Exoporia
+		Incurvarioidea
+		Agrotis
+		Hadeninae
+		Caradrina
+		Amphipyrinae
+		Helicoverpa
+		Heliothis
+		Pantheinae
+		Cuculliinae
+		Plusiinae
+		Xyleninae
+		Westermanniinae
+		Chloephorinae
+		Manoba
+		Meganola
+		Eariadinae
+		Bleninae
+		Strepsimaninae
+		Micronoctuidae
+		Catocala
+		Hypena
+		Lymantriidae
+		Eudocima
+		Rivula
+		Syntomini
+		Ctenuchini
+		Lithosiini
+		Euteliinae
+		Gluphisia
+		Didusiinae
+		Thaumetopoeinae
+		Stauropinae
+		Spatalia
+		Nystaleinae
+		Discophlebia
+		Oenosandra
+		Phiditiidae
+		Carthaeidae
+		Munychryiinae
+		Nataxa
+		Chelepteryx
+		Mirina
+		Oberthueria
+		Endromis
+		Prismosticta
+		Cercophaninae
+		Ceratocampinae
+		Saturnia
+		Actias
+		Antheraea paukstadtorum
+		Antheraea mylitta
+		Antheraea polyphemus
+		Antheraea assama
+		Therinia
+		Oxytenis
+		Sphinginae
+		Ambulycini
+		Sphingulini
+		Smerinthini
+		Hemaris
+		Xylophanes
+		Hyles
+		Enyo
+		Bombyx
+		Quentalia
+		Dactyloceras
+		Lemoniidae
+		Acanthobrahmaea
+		Panacela
+		Cotana
+		Hoplojana
+		Jana
+		Apatelodes
+		Olceclostera
+		Poecilocampinae
+		Chondrosteginae
+		Tolype
+		Artace
+		Lasiocampa
+		Heteropacha
+		Macrothylacia
+		Malacosoma
+		Chionopsychinae
+		Nothus
+		Homidiana
+		Coronidia
+		Sematura
+		Psychostrophia
+		Epicopeia
+		Microniinae
+		Urapteroides
+		Lyssa
+		Syngria
+		Metorthocheilus
+		Odontothera
+		Hasodima
+		Biston
+		Alsophilinae
+		Campaea
+		Plagodis
+		Hypobapta
+		Chlorosea
+		Nemoria
+		Dinophalus
+		Dichromodes
+		Archiearinae
+		Scopula
+		Idaea
+		Haematopis
+		Cyclophora nanaria
+		Cyclophora sp. JCR-2009
+		Eupithecia
+		Orthonama
+		Earophila
+		Trichopteryx
+		Macaria
+		Doidae
+		Euphaneta
+		Trogoptera
+		Lacosoma chiridota
+		Lacosoma ludolpha
+		Eadmuna
+		Druentica
+		Bedosia
+		Cimelioidea
+		Oretinae
+		Macrocilix
+		Drepana
+		Macrauzata
+		Pseudothyatira
+		Habrosyne
+		Tethea
+		Cyclidiinae
+		Nymphulinae
+		Rupela
+		Scirpophaga
+		Midilinae
+		Scopariinae
+		Myelobia
+		Catoptria
+		Musotiminae
+		Odontiinae
+		Evergestinae
+		Noordinae
+		Glaphyriinae
+		Wurthiinae
+		Phaedropsis
+		Pyrausta
+		Spilomelinae
+		Cnaphalocrocis
+		Epipaschiinae
+		Hypsopygia
+		Gauna
+		Ambesa
+		Plodia
+		Monoloxis
+		Galleriinae
+		Polyterpnes
+		Pterothysanus
+		Pterothysanidae
+		Ophiderinae
+		Pterodecta
+		Macropiratinae
+		Hyblaea firmamentum
+		Hyblaea ibidias
+		Copromorphidae
+		Sosineura
+		Meridarchis
+		Carposina
+		Epermenia chaerophyllella
+		Epermenia sinjovi
+		Alucitoidea
+		Striglininae
+		Glanycus
+		Dysodia
+		Riodinidae
+		Curetinae
+		Polyommatinae
+		Theclinae
+		Poritiinae
+		Miletinae
+		Biblidinae
+		Nymphalini
+		Phyciodes phaon
+		Phyciodes tharos
+		Apaturinae
+		Danainae
+		Heliconius melpomene
+		Heliconius sara
+		Satyrinae
+		Libytheinae
+		Pseudopontiinae
+		Pierinae
+		Colias
+		Kricogonia
+		Dismorphiinae
+		Macrosoma satellitiata
+		Macrosoma conifera
+		Megathyminae
+		Heteropterinae
+		Pyrrhopyginae
+		Pyrginae
+		Astraptes
+		Urbanus sp. doryssusDHJ02
+		Urbanus doryssus
+		Hylephila
+		Calpodes
+		Coeliades
+		Hasora
+		Troidini
+		Leptocircini
+		Papilio glaucus
+		Papilio polytes
+		Agdistinae
+		Anstenoptilia
+		Platyptilia
+		Emmelina
+		Lantanophaga
+		Illidgea
+		Tymbophora
+		Deoclonidae
+		Galagete
+		Autosticha
+		Batrachedridae
+		Homaloxestis
+		Lecithocera
+		Deuterogoniidae
+		Promalactis
+		Leistarcha
+		Wingia
+		Amphisbatidae
+		Aeolanthinae
+		Thudaca
+		Eupselia
+		Hypertropha
+		Agonopterix
+		Bibarrambla
+		Chimabachinae
+		Peleopodidae
+		Odites
+		Rhizosthenes
+		Lypusinae
+		Stathmopoda
+		Stathmopodidae
+		Rhamphura
+		Scythris
+		Blastobasidae
+		Coleophoridae
+		Momphidae
+		Cosmiotes
+		Elachista
+		Filinota
+		Cosmopterix
+		Hyposmocoma
+		Pancalia
+		Euclemensia
+		Pexicopiinae
+		Encolapta
+		Caryocolum
+		Aroga
+		Friseria
+		Stenolechia
+		Monochroa
+		Aristotelia
+		Dichomeridinae
+		Stenoma
+		Antaeotricha
+		Ethmiinae
+		Torodorinae
+		Zeuzera
+		Chalcidica
+		Psychogena
+		Endoxyla
+		Epipomponia
+		Fulgoraecia
+		Heteropsyche
+		Philiodoron
+		Givira
+		Langsdorfia
+		Lebedodes
+		Metarbela
+		Synemoninae
+		Paysandisia
+		Amauta
+		Telchin
+		Culama
+		Chilecomadiinae
+		Prionoxystus
+		Cossus
+		Pseudocossus
+		Miscera
+		Synechodes
+		Spinulata
+		Dudgeoneidae
+		Tinthiinae
+		Melittiini
+		Paranthrenini
+		Podosesia
+		Synanthedon
+		Cyclotornidae
+		Prolimacodes
+		Phobetron
+		Euclea
+		Strigivenifera
+		Apoda
+		Pantoctenia
+		Minacraga
+		Dalcerides
+		Acraga philetera
+		Acraga coa
+		Dalcera
+		Aididae
+		Norape
+		Megalopyge lapena
+		Megalopyge crispata
+		Megalopyge tharops
+		Megalopyge contigua
+		Mesoscia
+		Himantopteridae
+		Anticrates
+		Phaudinae
+		Lactura
+		Chalcosiinae
+		Pollanisus sp. JCR-2011
+		Pollanisus apicalis
+		Pryeria
+		Zygaena
+		Morpheis
+		Homadaula
+		Auratonota
+		Heppnerographa
+		Hilarographa
+		Microcorsini
+		Enarmoniini
+		Episimus
+		Endotheniini
+		Olethreutes
+		Eucosma
+		Cydia
+		Grapholita delineana
+		Grapholita dimorpha
+		Pelochrista
+		Epiblema
+		Cerace
+		Argyrotaenia
+		Pandemis
+		Clepsis
+		Choristoneura
+		Sparganothidini
+		Sparganothini
+		Acleris
+		Cnephasia
+		Decodes
+		Bonagota
+		Eulia
+		Eugnosta
+		Aethes
+		Pseudatteria
+		Histura
+		Millieriinae
+		Imma
+		Birthana
+		Schreckensteinioidea
+		Douglasiidae
+		Brenthiinae
+		Tortyra
+		Hemerophila
+		Prochoreutis
+		Tebenna
+		Anthophila
+		Wockia asperipunctella
+		Wockia koreana
+		Urodus parvula
+		Urodus decens
+		Glyphipterix
+		Diploschizia
+		Lepidotarphius
+		Acrolepiopsis
+		Digitivalva
+		Doxophyrtis
+		Proditrix
+		Orthotelia
+		Plutella
+		Ochsenheimeria
+		Ypsolopha
+		Scythropiinae
+		Bedelliidae
+		Aetole
+		Epicroesa
+		Lyonetia
+		Praydidae
+		Atteva aurea
+		Atteva punctella
+		Cedestis
+		Yponomeuta
+		Eucalantica sp. JCR-2011
+		Eucalantica costaricae
+		Thecobathra
+		Bucculatricidae
+		Perileucoptera
+		Parectopa
+		Epicephala
+		Oecophyllembiinae
+		Spulerina
+		Cameraria
+		Phyllonorycter pomonella
+		Phyllonorycter aberrans
+		Phyllocnistis longipalpa
+		Phyllocnistis citrella
+		Caloptilia
+		Callisto
+		Roeslerstammia
+		Agriothera
+		Tinea
+		Tineola
+		Phereoeca
+		Trichophaga
+		Nemapogoninae
+		Hybroma
+		Xystrologa
+		Mea
+		Moerarchis
+		Opogona
+		Scardiella
+		Morophaga
+		Pyloetis
+		Erechthiinae
+		Perissomasticinae
+		Edosa
+		Myrmecozela
+		Euplocaminae
+		Cephimallota
+		Exoncotis
+		Acrolophus
+		Hapsiferinae
+		Paraptica
+		Eriocottis
+		Compsoctena
+		Arrhenophaninae
+		Arrhenophanidae
+		Scoriodytinae
+		Taleporiinae
+		Phychinae
+		Oreopsyche
+		Thyridopteryx
+		Typhoniinae
+		Eudarcia
+		Stylopidia
+		Mengenillidia
+		Nicrophorus przewalskii
+		Nicrophorus smefarka
+		Nicrophorus sepultor
+		Nicrophorus argutor
+		Nicrophorus encaustus
+		Nicrophorus investigator
+		Nicrophorus interruptus
+		Nicrophorus mexicanus
+		Nicrophorus nigrita
+		Nicrophorus semenowi
+		Nicrophorus tomentosus
+		Nicrophorus hybridus
+		Nicrophorus pustulatus
+		Nicrophorus hispaniola
+		Nicrophorus guttula
+		Nicrophorus obscurus
+		Nicrophorus marginatus
+		Nicrophorus carolinus
+		Nicrophorus quadrimaculatus
+		Nicrophorus olidus
+		Nicrophorus scrutator
+		Nicrophorus didymus
+		Nicrophorus vespilloides
+		Nicrophorus defodiens
+		Nicrophorus tenuipes
+		Nicrophorus concolor
+		Nicrophorus oberthuri
+		Nicrophorus lunatus
+		Nicrophorus apo
+		Nicrophorus nepalensis
+		Nicrophorus heurni
+		Nicrophorus podagricus
+		Nicrophorus kieticus
+		Nicrophorus insularis
+		Nicrophorus insignis
+		Nicrophorus charon
+		Nicrophorus quadripunctatus
+		Nicrophorus melissae
+		Nicrophorus schawalleri
+		Nicrophorus montivagus
+		Nicrophorus maculifrons
+		Nicrophorus trumboi
+		Nicrophorus humator
+		Nicrophorus sayi
+		Nicrophorus morio
+		Nicrophorus germanicus
+		Nicrophorus nigricornis
+		Nicrophorus vespillo
+		Nicrophorus japonicus
+		Nicrophorus antennatus
+		Nicrophorus dauricus
+		Nicrophorus orbicollis
+		Nicrophorus americanus
+		Nicrophorus distinctus
+		Chrysomeloidea
+		Curculionoidea
+		Tenebrionoidea
+		Raphidioptera
+		Megaloptera
+		Osmylidae
+		Polystoechotidae
+		Nevrorthidae
+		Belytinae
+		Diapriinae
+		Ambositrinae
+		Monomachidae
+		Maamingidae
+		Ismarinae
+		Tetracampidae
+		Coccobius
+		Coccophagus
+		Eulophidae
+		Torymidae
+		Muscidifurax
+		Nasonia giraulti
+		Nasonia vitripennis
+		Cleonyminae
+		Chalcididae
+		Eurytomidae
+		Spalangiinae
+		Eucharitidae
+		Calesinae
+		Rotoitidae
+		Gonatocerus
+		Australomymar
+		Palaeomymar
+		Mymaromella
+		Roproniidae
+		Pelecinidae
+		Vanhorniidae
+		Heloridae
+		Peradeniidae
+		Austroniidae
+		Phaenoserphus
+		Exallonyx
+		Proctotrupes
+		Austroserphus
+		Isostasius
+		Platygaster
+		Proplatygaster
+		Telenominae
+		Scelioninae
+		Liopteridae
+		Synergini
+		Parnipinae
+		Ibaliidae
+		Aspicerinae
+		Anacharitinae
+		Diplolepidini
+		Rogadinae
+		Exothecinae
+		Doryctinae
+		Blacinae
+		Helconinae
+		Orgilinae
+		Aphidiinae
+		Cryptinae
+		Pimplinae
+		Labeninae
+		Tryphoninae
+		Campopleginae
+		Rhopalosomatidae
+		Polistinae
+		Vespa crabro
+		Vespa orientalis
+		Vespa basalis
+		Vespa affinis
+		Provespa anomala
+		Provespa barthelemyi
+		Dolichovespula saxonica
+		Dolichovespula pacifica
+		Dolichovespula albida
+		Dolichovespula arenaria
+		Dolichovespula sylvestris
+		Dolichovespula maculata
+		Dolichovespula media
+		Vespula intermedia
+		Vespula consobrina
+		Vespula acadica
+		Vespula vidua
+		Vespula squamosa
+		Vespula flavopilosa
+		Vespula alascensis
+		Vespula maculifrons
+		Vespula pensylvanica
+		Vespula germanica
+		Vespula flaviceps
+		Bethylidae
+		Plumariidae
+		Scolebythidae
+		Mutillidae
+		Sapygidae
+		Scoliidae
+		Crabronidae
+		Sphecini
+		Sceliphrini
+		Formicoxenus
+		Leptothorax sp. CSM-2006
+		Leptothorax muscorum complex
+		Temnothorax rugatulus
+		Temnothorax tricarinatus
+		Mayriella ebbei
+		Mayriella transfuga
+		Solenopsis molesta
+		Solenopsis invicta
+		Solenopsis xyloni
+		Trichomyrmex
+		Cardiocondyla emeryi
+		Cardiocondyla mauritanica
+		Atopomyrmex
+		Nesomyrmex
+		Carebara sp. CSM-2006
+		Oligomyrmex
+		Carebara affinis
+		Carebara sp. Pheidologeton CSM-2006
+		Metaponini
+		Podomyrma
+		Lophomyrmex
+		Meranoplus cf. radamae CASENT0486686
+		Meranoplus mayri
+		Calyptomyrmex
+		Tetramorium caespitum
+		Tetramorium hispidum
+		Tetramorium validiusculum
+		Terataner sp. CSM-2006
+		Terataner sp. MAD02
+		Crematogaster emeryana
+		Crematogaster navajoa
+		Melissotarsus
+		Rhopalomastix janeti
+		Rhopalomastix rothneyi
+		Proatta
+		Xenomyrmex
+		Dilobocondyla
+		Goniomma
+		Oxyopomyrmex
+		Aphaenogaster texana
+		Aphaenogaster occidentalis
+		Messor denticornis
+		Aphaenogaster swammerdami
+		Messor julianus
+		Stenamma snellingi
+		Stenamma dyscheres
+		Messor andrei
+		Novomessor
+		Cataulacus sp. MAD02
+		Cataulacus sp. CSM-2006
+		Pogonomyrmex subdentatus
+		Pogonomyrmex maricopa
+		Ocymyrmex
+		Colobostruma
+		Eutetramorium mocquerysi
+		Eutetramorium sp. CSM-2006
+		Vollenhovia sp. CSM-2006
+		Vollenhovia emeryi
+		Myrmecina
+		Pristomyrmex
+		Manica
+		Myrmica striolagaster
+		Myrmica incompleta
+		Myrmica tahoensis
+		Wasmannia auropunctata
+		Wasmannia sp. CSM-2006
+		Megalomyrmex
+		Monomorium
+		Myrmicaria exigua
+		Myrmicaria brunnea
+		Microdaceton
+		Acanthognathus
+		Strumigenys sp. CSM-2006
+		Strumigenys dicomas
+		Pyramica hoplites
+		Pyramica pulchella
+		Phalacromyrmecini
+		Myrmicocrypta
+		Apterostigma auriculatum
+		Apterostigma sp. CSM-2006
+		Basiceros
+		Eurhopalothrix bolaui
+		Eurhopalothrix sp. CSM-2006
+		Atta
+		Acromyrmex
+		Trachymyrmex jamaicensis
+		Trachymyrmex arizonensis
+		Sericomyrmex
+		Daceton
+		Cyphomyrmex
+		Orectognathus
+		Tranopelta
+		Pheidole hyatti
+		Pheidole clydei
+		Pheidole rhea
+		Cephalotes
+		Procryptocerus batesi
+		Procryptocerus scabriusculus
+		Brachymyrmex depilis
+		Brachymyrmex sp. CSM-2006
+		Myrmelachista sp. JTL01
+		Myrmelachista sp. CSM-2006
+		Camponotus maritimus
+		Camponotus hyatti
+		Calomyrmex
+		Polyrhachis vindex
+		Polyrhachis sp. Hagio01
+		Polyrhachis sp. Cyrto01
+		Camponotus ocreatus
+		Camponotus conithorax
+		Camponotus sp. BCA01
+		Opisthopsis respiciens
+		Opisthopsis sp. CSM-2006
+		Myrmoteras williamsi
+		Myrmoteras iriodum
+		Stigmacros
+		Euprenolepis
+		Acropyga acutiventris
+		Acropyga epedana
+		Anoplolepis
+		Oecophyllini
+		Proformica
+		Cataglyphis
+		Polyergus
+		Formica wheeleri
+		Formica moki
+		Myrmecorhynchus
+		Melophorus
+		Prolasius
+		Notoncus sp. CSM-2006
+		Notoncus capitatus
+		Notostigma
+		Plagiolepis
+		Pseudolasius australis
+		Pseudolasius typhlops
+		Prenolepis
+		Nylanderia
+		Zatania
+		Lasius subgenus Lasius
+		Lasius californicus
+		Lasius latipes
+		Myrmecocystus flaviceps
+		Myrmecocystus mexicanus
+		Acanthoponera
+		Heteroponera panamensis
+		Heteroponera microps
+		Typhlomyrmecini
+		Gnamptogenys sp. CSM-2006
+		Gnamptogenys striatula
+		Ectatomma opaciventre
+		Ectatomma quadridens
+		Rhytidoponera metallica
+		Rhytidoponera chalybaea
+		Aneuretinae
+		Froggattella
+		Iridomyrmex
+		Ochetellus
+		Philidris
+		Turneria
+		Papyrius
+		Anonychomyrma gilberti
+		Anonychomyrma nitidiceps
+		Linepithema keiteli
+		Linepithema humile
+		Forelius pruinosus
+		Forelius sp. CSM-2006
+		Dorymyrmex bicolor
+		Dorymyrmex elegans
+		Azteca sp. CSM-2006
+		Azteca ovaticeps
+		Leptomyrmex sp. CSM-2006
+		Leptomyrmex erythrocephalus
+		Leptomyrmex sp. AU01
+		Bothriomyrmex
+		Dolichoderus scabridus
+		Dolichoderus imitator
+		Tapinoma opacum
+		Tapinoma sessile
+		Liometopum luctuosum
+		Liometopum apiculatum
+		Liometopum occidentale
+		Technomyrmex albipes
+		Technomyrmex sp. MAD05
+		Technomyrmex difficilis
+		Nothomyrmeciinae
+		Myrmecia fulviculis
+		Myrmecia pyriformis Smith, 1858
+		Tetraponera punctulata
+		Myrcidris
+		Pseudomyrmex gracilis
+		Pseudomyrmex apache
+		Tetraponera rufonigra
+		Tetraponera sp. CSM-2006
+		Yunodorylus
+		Cerapachys larvatus
+		Sphinctomyrmex sp. CSM-2006
+		Sphinctomyrmex steinheili
+		Simopone
+		Cerapachys augustae
+		Cylindromyrmecini
+		Acanthostichini
+		Leptanilloides mckennae
+		Leptanilloides nubecula
+		Leptanilloides nomada
+		Aenictogitoninae
+		Dorylus subgenus Dorylus
+		Dichthadia
+		Dorylus wilverthi
+		Dorylus mayri
+		Aenictus ceylonicus
+		Aenictus eugenii
+		Aenictus sp. 1 CSM-2006
+		Aenictus sp. 2 CSM-2006
+		Cerapachys sexspinus
+		Labidus
+		Neivamyrmex
+		Nomamyrmex
+		Cheliomyrmecini
+		Eciton hamatum
+		Eciton vagans
+		Concoctio
+		Prionopelta sp. 2 CSM-2006
+		Prionopelta sp. MAD01
+		Onychomyrmex
+		Apomyrminae
+		Amblyopone pallipes
+		Myopopone
+		Amblyopone mutica
+		Mystrium mysticum
+		Mystrium rogeri
+		Adetomyrma sp. 2b CSM-2006
+		Adetomyrma sp. MAD02
+		Discothyrea sp. MAD07
+		Discothyrea sp. CSM-2006
+		Proceratium sp. 1 CSM-2006
+		Proceratium sp. MAD08
+		Proceratium stictum
+		Probolomyrmex sp. CSM-2006
+		Probolomyrmex tani
+		Paraponerinae
+		Tatuidris tatusia
+		Tatuidris sp. ECU01
+		Odontomachus coquereli
+		Odontomachus clarus
+		Anochetus mayri
+		Anochetus madagascarensis
+		Odontoponera
+		Myopias
+		Leptogenys diminuta
+		Leptogenys sp. CSM-2006
+		Dinoponera
+		Cryptopone
+		Pachycondyla sikorae
+		Pachycondyla stigma
+		Diacamma
+		Hypoponera inexorata
+		Hypoponera opacior
+		Hypoponera sakalava
+		Plectroctena
+		Loboponera
+		Psalidomyrmex
+		Centromyrmex feae
+		Centromyrmex sellaris
+		Simopelta
+		Thaumatomyrmecini
+		Platythyrea mocquerysi
+		Platythyrea punctata
+		Protanilla sp. JAP01
+		Protanilla sp. CSM-2006
+		Leptanilla sp. GRE01
+		Leptanilla sp. RSA01
+		Leptanilla sp. CSM-2006
+		Bombus avanus
+		Bombus infrequens
+		Bombus parthenius
+		Bombus picipes
+		Bombus lepidus
+		Bombus lemniscatus
+		Pressibombus
+		Bombus infirmus
+		Bombus hypnorum
+		Bombus perplexus
+		Bombus haematurus
+		Bombus vosnesenskii
+		Bombus huntii
+		Bombus ternarius
+		Bombus bifarius
+		Bombus wilmattae
+		Bombus ephippiatus
+		Bombus lapponicus
+		Bombus monticola
+		Bombus bimaculatus
+		Bombus sylvicola
+		Bombus melanopygus
+		Bombus alboanalis
+		Bombus frigidus
+		Bombus cingulatus
+		Bombus jonellus
+		Bombus beaticola
+		Bombus sandersoni
+		Bombus mixtus
+		Bombus sitkensis
+		Bombus pratorum
+		Bombus brodmannicus
+		Bombus pyrenaeus
+		Bombus modestus
+		Bombus biroi
+		Bombus ardens
+		Bombus flavescens
+		Bombus vandykei
+		Bombus centralis
+		Bombus flavifrons
+		Bombus caliginosus
+		Bombus cryptarum
+		Bombus moderatus
+		Bombus lucorum
+		Bombus terricola
+		Bombus patagiatus
+		Bombus affinis
+		Bombus franklini
+		Bombus occidentalis
+		Bombus hypocrita
+		Bombus terrestris
+		Bombus sporadicus
+		Bombus ignitus
+		Bombus hyperboreus
+		Bombus neoboreus
+		Bombus balteatus
+		Bombus alpinus
+		Bombus polaris
+		Bombus morrisoni
+		Bombus volucelloides
+		Bombus melaleucus
+		Bombus robustus
+		Bombus vogti
+		Bombus tucumanus
+		Bombus hortulanus
+		Bombus ecuadorius
+		Bombus macgregori
+		Funebribombus
+		Bombus griseocollis
+		Fraternobombus
+		Crotchiibombus
+		Bombus handlirschi
+		Bombus baeri
+		Bombus coccineus
+		Rubicundobombus
+		Brachycephalobombus
+		Bombus vagans
+		Bombus apollineus
+		Bombus semenoviellus
+		Bombus rufocinctus
+		Obertobombus
+		Bombus sulfureus
+		Bombus vorticosus
+		Bombus niveatus
+		Bombus asiaticus
+		Bombus sibiricus
+		Festivobombus
+		Bombus formosellus
+		Bombus friseanus
+		Bombus rufofasciatus
+		Bombus miniatus
+		Bombus lapidarius
+		Bombus incertus
+		Bombus sichelii
+		Bombus simillimus
+		Bombus alagesianus
+		Bombus keriensis
+		Bombus ladakhensis
+		Rufipedibombus
+		Bombus breviceps
+		Bombus grahami
+		Bombus kashmirensis
+		Bombus nobilis
+		Bombus wurflenii
+		Bombus atratus
+		Bombus pullatus
+		Bombus transversalis
+		Bombus brasiliensis
+		Bombus steindachneri
+		Bombus mexicanus
+		Bombus medius
+		Bombus bellicosus
+		Bombus diligens
+		Bombus sonorus
+		Bombus pensylvanicus
+		Bombus opifex
+		Bombus californicus
+		Bombus fervidus
+		Bombus weisi
+		Bombus digressus
+		Bombus trinominatus
+		Exilobombus
+		Bombus imitator
+		Bombus tricornis
+		Bombus atripes
+		Mucidobombus
+		Eversmannibombus
+		Laseobombus
+		Bombus mesomelas
+		Bombus armeniacus
+		Bombus pomorum
+		Bombus morio
+		Bombus excellens
+		Bombus dahlbomii
+		Bombus chinensis
+		Bombus rupestris
+		Bombus cornutus
+		Bombus tibetanus
+		Bombus insularis
+		Bombus citrinus
+		Bombus variabilis
+		Bombus campestris
+		Bombus fernaldae
+		Bombus flavidus
+		Bombus norvegicus
+		Bombus quadricolor
+		Bombus skorikovi
+		Bombus sylvestris
+		Bombus bohemicus
+		Bombus ashtoni
+		Bombus vestalis
+		Bombus suckleyi
+		Bombus barbutellus
+		Bombus maxillosus
+		Bombus kulingensis
+		Bombus bicoloratus
+		Bombus tichenkoi
+		Bombus consobrinus
+		Bombus sushkini
+		Bombus koreanus
+		Bombus religiosus
+		Bombus securus
+		Bombus portchinsky
+		Bombus hortorum
+		Bombus ruderatus
+		Bombus argillaceus
+		Bombus gerstaeckeri
+		Bombus supremus
+		Bombus diversus
+		Bombus longipes
+		Bombus ussurensis
+		Bombus trifasciatus
+		Bombus personatus
+		Bombus appositus
+		Bombus borealis
+		Bombus distinguendus
+		Bombus subterraneus
+		Bombus melanurus
+		Bombus fragrans
+		Bombus difficillimus
+		Bombus haemorrhoidalis
+		Bombus funerarius
+		Kallobombus
+		Confusibombus
+		Bombus nevadensis
+		Bombus auricomus
+		Bombus handlirschianus
+		Bombus shaposhnikovi
+		Bombus mendax
+		Bombus defector
+		Bombus avinoviellus
+		Bombus waltoni
+		Bombus convexus
+		Tetragonula fuscobalteata
+		Tetragonula clypearis
+		Tetragonula pagdeni
+		Tetragonula sp. A CR-2006
+		Tetragonula cf. iridipennis CR-2006
+		Tetragonula cf. laeviceps CR-2006
+		Tetragonula sp. C CR-2006
+		Tetragonula sp. B CR-2006
+		Tetragonula minor
+		Tetragonula laeviceps
+		Tetragonula zucchii
+		Tetragonula cf. pagdeni CR-2006
+		Tetragonula sirindhornae
+		Tetragonula hirashimai
+		Tetragonilla rufibasalis
+		Tetragonilla atripes
+		Tetragonilla fuscibasis
+		Tetragonilla collina
+		Tetragonula melanocephala
+		Tetragonula geissleri
+		Tetragonula melina
+		Tetragonula sarawakensis
+		Tetragonula sapiens
+		Tetragonula carbonaria
+		Tetragonula hockingsi
+		Tetragonula mellipes
+		Homotrigona
+		Tetrigona apicalis
+		Tetrigona binghami
+		Tetrigona melanoleuca
+		Odontotrigona
+		Lophotrigona
+		Platytrigona
+		Heterotrigona itama
+		Heterotrigona bakeri
+		Heterotrigona erythrogastra
+		Lepidotrigona ventralis
+		Lepidotrigona terminata
+		Geniotrigona thoracica
+		Geniotrigona incisa
+		Leurotrigona pusilla
+		Axestotrigona
+		Meliponula ferruginea
+		Plebeiella
+		Apotrigona
+		Meliplebeia
+		Dactylurina
+		Meliponula bocandei
+		Plebeina
+		Lisotrigona
+		Austroplebeia
+		Liotrigona mahafalya
+		Liotrigona madecassa
+		Hypotrigona ruspolii
+		Hypotrigona gribodoi
+		Partamona auripennis
+		Partamona epiphytophila
+		Partamona orizabaensis
+		Meliwillea
+		Partamona musarum
+		Partamona vicina
+		Partamona testacea
+		Parapartamona fumata
+		Parapartamona tungurahuana
+		Nogueirapis butteli
+		Nogueirapis mirandula
+		Paratrigona guigliae
+		Paratrigona onorei
+		Paratrigona lineatifrons
+		Paratrigona pacifica
+		Aparatrigona
+		Paratrigona lineata
+		Ptilotrigona pereneae
+		Ptilotrigona lurida
+		Tetragona ziegleri
+		Tetragona dorsalis
+		Tetragona clavipes
+		Tetragona dissecta
+		Tetragona perangulata
+		Tetragona sp. CR-2009
+		Tetragona goettei
+		Trigona crassipes
+		Trigona hypogea
+		Trigona cf. recursa CR-2007
+		Trigona recursa
+		Trigona sp. MP109
+		Trigona amalthea
+		Trigona truculenta
+		Trigona silvestriana
+		Trigona hyalinata
+		Trigona amazonensis
+		Trigona corvina
+		Trigona cf. fuscipennis CR-2007a
+		Trigona cf. fuscipennis CR-2007b
+		Trigona albipennis
+		Trigona fuscipennis
+		Trigona spinipes
+		Trigona dallatorreana
+		Trigona nigerrima
+		Trigona guianae
+		Trigona williana
+		Trigona fulviventris
+		Trigona chanchamayoensis
+		Trigona pallens
+		Trigona cilipes
+		Trigona lacteipennis
+		Cephalotrigona sp. MP89
+		Cephalotrigona sp. MP106
+		Cephalotrigona sp. CR-2006
+		Cephalotrigona aff. capitata CR-2009
+		Cephalotrigona capitata
+		Geotrigona subgrisea
+		Geotrigona fulvatra
+		Geotrigona mombuca
+		Geotrigona kraussi
+		Geotrigona fulvohirta
+		Oxytrigona obscura
+		Oxytrigona mediorufa
+		Oxytrigona mellicolor
+		Oxytrigona tataira
+		Oxytrigona mulfordi
+		Scaptotrigona sp. A CR-2009
+		Scaptotrigona sp. B CR-2009
+		Scaptotrigona sp. C CR-2009
+		Scaptotrigona pectoralis
+		Scaptotrigona tricolorata
+		Scaptotrigona bipunctata
+		Scaptotrigona depilis
+		Scaptotrigona sp. MP103
+		Scaptotrigona mexicana
+		Scaptotrigona sp. MP102
+		Scaptotrigona polysticta
+		Scaptotrigona hellwegeri
+		Scaura latitarsis
+		Schwarzula timida
+		Schwarzula coccidophila
+		Scaura longula
+		Scaura tenuis
+		Plebeia droryana
+		Plebeia tobagoensis
+		Plebeia sp. A CR-2009
+		Plebeia frontalis
+		Friesella
+		Lestrimelitta sp. MP115
+		Lestrimelitta limao
+		Lestrimelitta sp. JS-2010
+		Lestrimelitta maracaia
+		Lestrimelitta aff. limao CR-2009
+		Plebeia sp. C CR-2009
+		Plebeia franki
+		Plebeia sp. B CR-2009
+		Plebeia minima
+		Plebeia moureana
+		Frieseomelitta trichocerata
+		Frieseomelitta varia
+		Duckeola
+		Trichotrigona
+		Frieseomelitta silvestrii
+		Tetragonisca angustula
+		Tetragonisca weyrauchi
+		Schwarziana
+		Mourella
+		Nannotrigona schultzei
+		Nannotrigona testaceicornis
+		Nannotrigona sp. MP104
+		Nannotrigona melanocera
+		Nannotrigona perilampoides
+		Melipona aff. mimetica CR-2009
+		Melipona sp. MP127
+		Melipona sp. MP85
+		Melipona sp. MP91
+		Melipona costaricaensis
+		Melipona solani
+		Melipona lateralis
+		Melipona fuscopilosa
+		Melipona sp. MP93
+		Melipona sp. MP70
+		Melipona aff. costaricaensis MP33
+		Melipona melanopleura
+		Melipona seminigra
+		Melipona panamica
+		Melipona sp. MP96
+		Melipona scutellaris
+		Melipona eburnea
+		Melipona fulva
+		Melipona fasciata
+		Melipona aff. brachychaeta CR-2009
+		Melipona sp. MP90
+		Melipona sp. B CR-2009
+		Melipona aff. rufiventris CR-2009
+		Melipona ogilviei
+		Melipona captiosa
+		Melipona melanoventer
+		Melipona crinita
+		Melipona illota
+		Melipona sp. JS-2010
+		Melipona rufiventris
+		Melipona fuliginosa
+		Melipona titania
+		Melipona marginata
+		Melipona bicolor
+		Melipona tumupasae
+		Melipona amazonica
+		Melipona triplaridis
+		Melipona compressipes
+		Melipona quinquefasciata
+		Melipona beecheii
+		Melipona grandis
+		Melipona fasciculata
+		Melipona variegatipes
+		Melipona mandacaia
+		Melipona sp. MP98
+		Melipona favosa
+		Melipona quadrifasciata
+		Melipona asilvai
+		Melipona illustris
+		Melipona bradleyi
+		Melipona micheneri
+		Trigonisca sp. B CR-2009
+		Trigonisca sp. C CR-2009
+		Trigonisca sp. A CR-2009
+		Trigonisca nataliae
+		Dolichotrigona browni
+		Dolichotrigona chachapoya
+		Trigonisca townsendi
+		Trigonisca buyssoni
+		Celetrigona
+		Trigonisca bidentata
+		Leurotrigona muelleri
+		Bombus deuteronymus
+		Bombus humilis
+		Bombus inexspectatus
+		Bombus ruderarius
+		Bombus velox
+		Bombus zonatus
+		Bombus sylvarum
+		Bombus mlokosievitzii
+		Bombus veteranus
+		Bombus muscorum
+		Bombus filchnerae
+		Bombus impetuosus
+		Bombus potanini
+		Bombus remotus
+		Bombus pascuorum
+		Bombus honshuensis
+		Bombus schrencki
+		Bombus pseudobaicalensis
+		Bombus hedini
+		Apis nigrocincta
+		Apis cerana
+		Apis koschevnikovi
+		Apis florea
+		Apis andreniformis
+		Apis dorsata
+		Ceratinidia
+		Apis mellifera
+		Eufriesea
+		Exaerete
+		Euglossa
+		Eulaema
+		Aglae
+		Centris analis
+		Centris longimana
+		Centris sp. MP124
+		Centris rhodopus
+		Centris atripes
+		Centris decolorata
+		Centris cockerelli
+		Centris hoffmanseggiae
+		Centris dimidiata
+		Epicharis sp. JS-2010
+		Epicharis sp. MP125
+		Epicharis analis
+		Zadontomerus
+		Inquilina excavata
+		Exoneura robusta
+		Exoneura nigrescens
+		Exoneura bicolor
+		Exoneura angophorae
+		Inquilina schwarzi
+		Exoneurella tridentata
+		Exoneurella setosa
+		Exoneurella eremophila
+		Exoneurella lawsoni
+		Compsomelissa keiseri
+		Compsomelissa borneri
+		Allodapula empeyi
+		Exoneuridia
+		Allodape friesei
+		Braunsapis unicolor
+		Braunsapis madecassella
+		Braunsapis vitrea
+		Macrogalea ellioti
+		Macrogalea zanzibarica
+		Manueliini
+		Xylocopa confusa
+		Lieftinckiella
+		Xylocopa provida
+		Xylocopa aruana
+		Xylocopa nobilis
+		Xylocopa lieftincki
+		Xylocopa sp. India
+		Xylocopa ogasawarensis
+		Xylocopa appendiculata
+		Xylocopa amamensis
+		Xylocopa albinotum
+		Xylocopa flavifrons
+		Xylocopa sp. KWZ10
+		Platynopoda
+		Hoploxylocopa
+		Xylocopa caerulea
+		Xenoxylocopa
+		Xylocopa pubescens
+		Xylocopa scioensis
+		Mesotrichia
+		Afroxylocopa
+		Zonohirsuta
+		Xylomelissa
+		Xylocopa auripennis
+		Xylocopa sp. KWZ5
+		Xylocopa tranquebarorum
+		Apoxylocopa
+		Xylocopa gualanensis
+		Xylocopa varipuncta
+		Megaxylocopa
+		Stenoxylocopa
+		Xylocopa micans
+		Diaxylocopa
+		Notoxylocopa
+		Xylocopa muscaria
+		Xylocopa fimbriata
+		Nyctomelitta
+		Proxylocopa
+		Perixylocopa
+		Xylocopa subgenus Xylocopa
+		Xylocopa aeratus
+		Xylocopa bombylans
+		Gnathoxylocopa
+		Ctenoxylocopa
+		Xylocopa virginica
+		Xylocopa californica
+		Copoxyla
+		Tetrapedia cf. diversipes JS-2010
+		Tetrapedia sp. JS-2010
+		Tetrapedia maura
+		Ctenoplectra albolimbata
+		Ctenoplectra polita
+		Ctenoplectra armata
+		Ctenoplectra antinorii
+		Ctenoplectra kelloggi
+		Ctenoplectra australica
+		Ctenoplectrina sp. JS-2010
+		Ctenoplectrina n. sp. HS-2007
+		Ctenoplectrina alluaudi
+		Ctenoplectra bequaerti
+		Ctenoplectra terminalis
+		Ctenoplectra florisomnis
+		Ctenoplectra davidi
+		Eucera
+		Anthophora plumipes
+		Xenoglossa
+		Peponapis
+		Tetralonia
+		Tetraloniella
+		Martinapis
+		Svastrides
+		Svastra
+		Melissodes sp. Mesp229
+		Melissodes desponsa
+		Thygater
+		Florilegus
+		Svastrina
+		Melissoptila
+		Ancyla holtzi
+		Ancyla asiatica
+		Ptilothrix
+		Diadasina
+		Melitoma
+		Alepidosceles
+		Meliphilopsis
+		Diadasia afflicta
+		Diadasia diminuta
+		Diadasia martialis
+		Diadasia bituberculata
+		Diadasia rinconis
+		Diadasia nigrifrons
+		Caenonomada
+		Tapinotaspoides
+		Paratetrapedia
+		Arhysoceble
+		Excolletes
+		Anthophorula completa
+		Anthophorula sp. 2 JS-2010
+		Anthophorula sp. 1 JS-2010
+		Ancyloscelis sp. 2 JS-2010
+		Ancyloscelis sp. 1 JS-2010
+		Townsendiellini
+		Neopasites
+		Biastes
+		Neolarrini
+		Hexepeolini
+		Doeringiella
+		Rhinepeolus
+		Thalestria
+		Triepeolus robustus
+		Triepeolus rozeni
+		Epeolus sp. JS-2010
+		Epeolus scutellaris
+		Epeolus variegatus
+		Odyneropsis
+		Paranomada
+		Brachynomada sp. JS-2010
+		Triopasites
+		Brachynomada margaretae
+		Ammobatoides
+		Holcopasites arizonicus
+		Holcopasites ruthae
+		Holcopasites calliopsidis
+		Holcopasites stevensi
+		Holcopasites minimus
+		Holcopasites insoletus
+		Nomada fucata
+		Nomada maculata
+		Nomada signata
+		Oreopasites
+		Ammobates sp. JS-2010
+		Ammobates punctatus
+		Pasites
+		Sphecodopsis
+		Caenoprosopina
+		Caenoprosopis
+		Xeromelecta
+		Melecta
+		Thyreus takaonis
+		Thyreus delumbatus
+		Zacosmia
+		Tetralonioidella
+		Leiopodus trochantericus
+		Leiopodus abnormis
+		Leiopodus sp. JS-2010
+		Leiopodus singularis
+		Epeoloides pilosula
+		Epeoloides coecutiens
+		Melectoides
+		Isepeolus wagenknechti
+		Isepeolus luctuosus
+		Isepeolus atripilis
+		Isepeolus cortesi
+		Osiris
+		Mesocheira
+		Ctenioschelus
+		Epiclopus
+		Mesonychium
+		Ericrocis
+		Mesoplia
+		Hopliphora
+		Nanorhathymus
+		Rhathymus sp. JS-2010
+		Rhathymus unicolor
+		Parepeolus
+		Coelioxoides waltheriae
+		Coelioxoides sp. JS-2010
+		Anthophora montana
+		Anthophora urbana
+		Anthophora pacifica
+		Amegilla
+		Deltoptila
+		Habropoda
+		Pachymelus
+		Osmia integra
+		Osmia xanthomelana
+		Osmia nemoris
+		Osmia juxta
+		Osmia coloradensis
+		Osmia niveata
+		Osmia aurulenta
+		Osmia montana
+		Osmia latisulcata
+		Osmia apicata
+		Osmia cornuta
+		Osmia lignaria
+		Osmia glauca
+		Osmia brevicornis
+		Osmia gallarum
+		Osmia ferruginea
+		Osmia anceps
+		Osmia difficilis
+		Osmia rhodoensis
+		Osmia tergestensis
+		Osmia bicolor
+		Osmia tingitana
+		Osmia rufohirta
+		Osmia sybarita
+		Hoplitis nasuta
+		Hoplosmia pinquis
+		Hoplosmia spinulosa
+		Hoplosmia scutellaris
+		Osmia andrenoides
+		Atoposmia elongata
+		Atoposmia hebitis
+		Atoposmia timberlakei
+		Atoposmia aff. daleae CJP-2008
+		Atoposmia mirifica
+		Ashmeadiella aff. gillettei CJP-2008
+		Ashmeadiella aridula
+		Ashmeadiella timberlakei
+		Ashmeadiella holtii
+		Ashmeadiella xenomastax
+		Atoposmia copelandica
+		Wainia
+		Hoplitis platalea
+		Hoplitis robusta
+		Hoplitis paralias
+		Hoplitis antalyae
+		Hoplitis lebanotica
+		Hoplitis incanescens
+		Hoplitis mojavensis
+		Hoplitis zuni
+		Hoplitis aff. onychophora CJP-2008
+		Hoplitis illustris
+		Hoplitis albifrons
+		Hoplitis tuberculata
+		Hoplitis leucomelana
+		Hoplitis pilosifrons
+		Hoplitis hypocrita
+		Hoplitis biscutellae
+		Hoplitis mitis
+		Hoplitis brachypogon
+		Hoplitis tridentata
+		Hoplitis annulata
+		Hoplitis adunca
+		Hoplitis tigrina
+		Hoplitis hemisphaerica
+		Hoplitis villosa
+		Hoplitis sp. CJP-2008
+		Hoplitis bisulca
+		Hoplitis villiersi
+		Hoplitis moricei
+		Stenosmia aff. aravensis CJP-2008
+		Stenosmia minima
+		Haetosmia brachyura
+		Haetosmia circumventa
+		Othinosmia aff. securicornis CJP-2008
+		Othinosmia securicornis
+		Heriades crucifer
+		Heriades punctulifer
+		Heriades truncorum
+		Hofferia
+		Othinosmia globicola
+		Protosmia rubifloris
+		Protosmia longiceps
+		Protosmia humeralis
+		Protosmia minutula
+		Chelostoma sp. 3 CJP-2008
+		Chelostoma sp. 2 CJP-2008
+		Chelostoma emarginatum
+		Chelostoma edentulum
+		Chelostoma diodon
+		Chelostoma florisomne
+		Chelostoma mocsaryi
+		Chelostoma grande
+		Chelostoma transversum
+		Chelostoma lamellum
+		Chelostoma philadelphi
+		Chelostoma ventrale
+		Chelostoma distinctum
+		Chelostoma campanularum
+		Chelostoma hellenicum
+		Chelostoma styriacum
+		Chelostoma bytinskii
+		Chelostoma laticaudum
+		Chelostoma foveolatum
+		Chelostoma fuliginosum
+		Chelostoma rapunculi
+		Chelostoma nasutum
+		Chelostoma cockerelli
+		Chelostoma minutum
+		Chelostoma marginatum
+		Chelostoma incisulum
+		Chelostoma phaceliae
+		Chelostoma californicum
+		Chelostoma aureocinctum
+		Noteriades sp. CJP-2008
+		Noteriades sp. CJP-2011
+		Megachile bombiformis
+		Megachile (Chrysosarus) sp. CJP-2011
+		Megachile microsoma
+		Megachile zapoteca
+		Megachile melanopyga
+		Megachile maritima
+		Megachile texana
+		Megachile (Aethomegachile) sp. CJP-2011
+		Megachile pilidens
+		Megachile nevadensis
+		Megachile parallela
+		Megachile sidalceae
+		Megachile fimbriata
+		Megachile patellimana
+		Megachile mandibularis
+		Megachile albisecta
+		Megachile fabricator
+		Megachile pugnata
+		Megachile angelarum
+		Megachile spinotulata
+		Megachile parietina
+		Megachile maxillosa
+		Megachile (Chelostomoda) sp. CJP-2011
+		Megachile sculpturalis
+		Megachile (Largella) sp. CJP-2011
+		Megachile ericetorum
+		Megachile (Rhodomegachile) sp. CJP-2011
+		Megachile (Hackeriapis) sp. CJP-2011
+		Megachile remeata
+		Megachile aethiops
+		Megachile (Austrochile) sp. CJP-2011
+		Radoszkowskiana
+		Coelioxys alternata
+		Coelioxys afra
+		Afroheriades sp. CJP-2008
+		Afroheriades primus
+		Ochreriades
+		Eoanthidium
+		Benanthis
+		Pachyanthidium
+		Icteranthidium
+		Rhodanthidium
+		Dianthidium subparvum
+		Anthidiellum
+		Dianthidium arizonicum
+		Paranthidium
+		Stelis punctulatissima
+		Stelis sp. paiute
+		Stelis linsleyi
+		Notanthidium
+		Epanthidium
+		Hypanthidium
+		Duckeanthidium
+		Hypanthidioides
+		Anthodioctes
+		Pseudoanthidium
+		Anthidium porterae
+		Anthidium illustre
+		Anthidium punctatum
+		Anthidium oblongatum
+		Afranthidium
+		Serapista
+		Trachusa larreae
+		Trachusa pubescens
+		Trachusa byssina
+		Paradioxys
+		Dioxys pomonae
+		Dioxys moesta
+		Aglaoapis
+		Aspidosmia arnoldi
+		Aspidosmia volkmanni
+		Pararhophites quadratus
+		Pararhophites orobinus
+		Lithurgus pullatus
+		Lithurgus scabrosus
+		Lithurgus apicalis
+		Lithurgus echinocacti
+		Microthurge
+		Trichothurgus
+		Lithurgus rubricatus
+		Lithurgus chrysurus
+		Lithurgus tibialis
+		Neofidelia longirostris
+		Neofidelia profuga
+		Neofidelia sp. JS-2010
+		Fidelia villosa
+		Fidelia kobrowi
+		Fidelia paradoxa
+		Fideliopsis ornata
+		Fideliopsis hessei
+		Fideliopsis major
+		Fidelia braunsiana
+		Fidelia ulrikei
+		Fidelia pallidula
+		Fidelia friesei
+		Leioproctus conospermi
+		Leioproctus pappus
+		Protomorpha
+		Goniocolletes fimbriatinus
+		Goniocolletes perfasciatus
+		Colletellus
+		Glossurocolletes
+		Odontocolletes asper
+		Odontocolletes pachydontus
+		Leioproctus sp. EABA-2006
+		Andrenopsis
+		Neopasiphae
+		Lamprocolletes
+		Leioproctus megachalcoides
+		Leioproctus lanceolatus
+		Leioproctus irroratus
+		Leioproctus plumosus
+		Leioproctus platycephalus
+		Euryglossidia sp. 5 EABA-2006
+		Euryglossidia sp. 1 EABA-2006
+		Euryglossidia sp. 2 EABA-2006
+		Euryglossidia sp. 3 EABA-2006
+		Euryglossidia sp. 4 EABA-2006
+		Phenacolletes
+		Reedapis
+		Cephalocolletes isabelae
+		Cephalocolletes laticeps
+		Leioproctus sp. BND-2004
+		Chilicolletes
+		Perditomorpha leucostoma
+		Perditomorpha brunerii
+		Brachyglossula
+		Tetraglossula
+		Hexantheda
+		Perditomorpha rufiventris
+		Perditomorpha stilborhina
+		Kylopasiphae pruinosa
+		Kylopasiphae sp. EABA-2006
+		Hoplocolletes
+		Eulonchopria simplicicrus
+		Eulonchopria punctatissima
+		Nomiocolletes
+		Niltonia
+		Spinolapis sp. EABA-2006
+		Spinolapis caerulescens
+		Edwyniana
+		Belopria
+		Halictanthrena
+		Perditomorpha sp. EABA-2006
+		Baeocolletes sp. EABA-2006
+		Baeocolletes minimus
+		Lonchopria robertsi
+		Lonchopria similis
+		Lonchopria sp. EABA-2006
+		Trichocolletes sp. BND-2004
+		Trichocolletes venustus
+		Paracolletes frederici
+		Paracolletes robustus
+		Gongyloprosopis
+		Hylaeus inquilina
+		Hylaeus hula
+		Hylaeus difficilis
+		Hylaeus pele
+		Hylaeus anthracinus
+		Hylaeus solaris
+		Hylaeus longiceps
+		Hylaeus kauaiensis
+		Hylaeus pubescens
+		Hylaeus connectens
+		Hylaeus kokeensis
+		Hylaeus kona
+		Hylaeus globula
+		Hylaeus modestus
+		Hylaeus affinis
+		Spatulariella
+		Paraprosopis
+		Deranchylaeus
+		Hylaeus subgenus Hylaeus
+		Hylaeus amiculus
+		Gnathoprosopoides
+		Hylaeus albonitens
+		Hylaeus burnsi
+		Hylaeus elegans
+		Hylaeus disjunctus
+		Hylaeus quadratus
+		Macrohylaeus
+		Hylaeus proximus
+		Hylaeus constrictiformis
+		Hylaeus cyanurus
+		Hylaeus ruficeps
+		Hylaeus eugeniellus
+		Hylaeus bidentatus
+		Gephyrohylaeus
+		Hylaeus primulipictus
+		Hylaeus extensus
+		Hylaeus exleyae
+		Hylaeus vittatifrons
+		Hylaeus aralis
+		Pseudhylaeus
+		Edriohylaeus
+		Xenohylaeus
+		Planihylaeus
+		Hylaeus microphenax
+		Amphylaeus
+		Meroglossa itamuca
+		Meroglossa striaticeps
+		Hylaeorhiza
+		Callorhiza
+		Cnemidorhiza
+		Palaeorhiza subgenus Palaeorhiza
+		Heterorhiza
+		Hyleoides
+		Xeromelissa
+		Chilimelissa chusmiza
+		Chilimelissa rosie
+		Chilimelissa irwini
+		Chilimelissa sp. 1 EABA-2006
+		Chilimelissa nortina
+		Chilimelissa rozeni
+		Chilimelissa australis
+		Geodiscelis
+		Xenochilicola
+		Chilicola vicugna
+		Chilicola inermis
+		Chilicola rostrata
+		Chilicola styliventris
+		Chilicola herbsti
+		Scrapter erubescens
+		Scrapter heterodoxus
+		Scrapter ruficornis
+		Scrapter algoensis
+		Scrapter niger
+		Euhesma crabronica
+		Euhesma platyrhina
+		Callohesma
+		Xanthesma
+		Euryglossa
+		Euhesma sp. EABA-2006
+		Euryglossina
+		Hemicotelles
+		Colletes seminitidus
+		Colletes floralis
+		Colletes simulans
+		Colletes inaequalis
+		Colletes thoracicus
+		Colletes pascoensis
+		Colletes distinctus
+		Colletes skinneri
+		Colletes dimidiatus
+		Colletes compactus
+		Colletes furfuraceus
+		Colletes sp. EABA-2006
+		Colletes bicolor
+		Mourecotelles
+		Xanthocotelles
+		Paracolletes crassipes
+		Caupolicana yarrowi
+		Willinkapis
+		Zikanapis
+		Ptiloglossa thoracica
+		Ptiloglossa sp. EABA-2006
+		Ptiloglossa tarsata
+		Caupolicana vestita
+		Caupolicana bicolor
+		Caupolicana quadrifasciata
+		Cadegualina
+		Diphaglossa
+		Cadeguala albopilosa
+		Cadeguala occidentalis
+		Ptiloglossidia
+		Mydrosoma
+		Callomelitta
+		Ctenocolletes nigricans
+		Stenotritus
+		Ctenocolletes rufescens
+		Ctenocolletes smaragdinus
+		Curvinomia
+		Hoplonomia
+		Nomia
+		Lipotriches australica
+		Lipotriches patellifera
+		Macronomia aureozonata
+		Macronomia sanguinolenta
+		Pseudapis unidentata
+		Pseudapis obesula
+		Dieunomia heteropoda
+		Dieunomia nevadensis
+		Dieunomia triangulifera
+		Cellariella
+		Nomioides no rank Nomioides
+		Atronomioides
+		Lasioglossum duplex
+		Lasioglossum calceatum
+		Lasioglossum albipes
+		Lasioglossum nigripes
+		Lasioglossum lineare
+		Lasioglossum mediterraneum
+		Lasioglossum laticeps
+		Lasioglossum malachurum
+		Lasioglossum apristum
+		Lasioglossum truncatum
+		Lasioglossum noctivagum
+		Lasioglossum oenotherae
+		Lasioglossum pauxillum
+		Lasioglossum subtropicum
+		Lasioglossum fulvicorne
+		Lasioglossum comagenense
+		Lasioglossum quebecense
+		Lasioglossum boreale
+		Lasioglossum brevicorne
+		Lasioglossum limbellum
+		Lasioglossum lucidulum
+		Lasioglossum villosulum
+		Lasioglossum puncticolle
+		Hemihalictus
+		Lasioglossum pectorale
+		Sudila
+		Lasioglossum inconditum
+		Lasioglossum cinctipes
+		Lasioglossum politum
+		Lasioglossum marginatum
+		Lasioglossum umbripenne
+		Lasioglossum gundlachii
+		Lasioglossum hyalinum
+		Lasioglossum tegulare
+		Lasioglossum parvum
+		Lasioglossum vierecki
+		Lasioglossum zephyrum
+		Lasioglossum asteris
+		Lasioglossum imitatum
+		Lasioglossum pilosum
+		Lasioglossum cressonii
+		Lasioglossum rohweri
+		Lasioglossum gattaca
+		Lasioglossum morio
+		Lasioglossum figueresi
+		Lasioglossum interruptum
+		Lasioglossum scitulum
+		Lasioglossum zonulum
+		Lasioglossum lanarium
+		Lasioglossum florale
+		Ctenonomia
+		Homalictus megastigmus
+		Homalictus punctatum
+		Parasphecodes
+		Lasioglossum athabascense
+		Lasioglossum fuscipenne
+		Lasioglossum titusi
+		Lasioglossum sisymbrii
+		Lasioglossum pavonotum
+		Thrincohalictus
+		Halictus kessleri
+		Vestitohalictus
+		Halictus tripartitus
+		Halictus rubicundus
+		Halictus quadricinctus
+		Halictus scabiosae
+		Halictus ligatus
+		Mexalictus
+		Patellapis n. sp. 66
+		Patellapis (Chaetalictus) sp. BND-2001
+		Patellapis minima
+		Patellapis malachurina
+		Patellapis (Lomatalictus) sp. BND-2001
+		Patellapis coccinea
+		Patellapis lyalli
+		Patellapis inelegans
+		Archihalictus
+		Patellapis castanea
+		Pachyhalictus
+		Patellapis zacephala
+		Patellapis (Zonalictus) sp. BND-2007
+		Patellapis abessinica
+		Patellapis andreniformis
+		Patellapis albofasciata
+		Patellapis vittata
+		Patellapis (Zonalictus) sp. BND-2006
+		Patellapis cf. minutior BND-2007
+		Patellapis n. sp. 10
+		Patellapis n. sp. 114
+		Patellapis montagui
+		Patellapis braunsella
+		Thrinchostoma lemuriae
+		Thrinchostoma conjugens
+		Thrinchostoma kandti
+		Parathrincostoma
+		Thrinchostoma torridum
+		Sphecodes minor
+		Sphecodes clematidis
+		Sphecodes autumnalis
+		Sphecodes confertus
+		Eupetersia
+		Sphecodes ranunculi
+		Sphecodes pecosensis
+		Sphecodes sp. Spsp1055
+		Ruizantheda proxima
+		Pseudagapostemon pissisi
+		Pseudagapostemon brasiliensis
+		Ruizantheda mutabilis
+		Habralictus
+		Caenohalictus sp. BND-2
+		Caenohalictus sp. BND-3
+		Rhinetula
+		Dinagapostemon sp. BND-2
+		Dinagapostemon sp. BND-1
+		Agapostemon tyleri
+		Agapostemon kohliellus
+		Agapostemon leunculus
+		Megalopta cf. aeneicollis BOLI A5
+		Megalopta fornix
+		Megalopta aff. fornix ECUA G1
+		Megalopta sodalis
+		Megalopta cf. genalis FRGU E9
+		Megalopta aff. fornix ECUA E1
+		Megalopta sp. morph-j
+		Megalopta cf. fornix PERU C6
+		Megalopta cf. aeneicollis BOLI A4
+		Megalopta aeneicollis
+		Megalopta cf. genalis FRGU A3
+		Megalopta sp. morph-p
+		Megalopta cf. genalis ECUA D2
+		Megalopta cf. genalis ECUA A1
+		Megalopta genalis
+		Megalopta byroni
+		Megalopta centralis
+		Xenochlora
+		Megalopta atra
+		Megaloptidia saulensis
+		Megaloptidia nocturna
+		Megommation
+		Augochlora
+		Augochlorella
+		Neocorynura
+		Augochloropsis
+		Corynura
+		Goeletapis
+		Penapis toroi
+		Penapis penai
+		Sphecodosoma beameri
+		Dufourea spinifera
+		Dufourea novaeangliae
+		Dufourea spirula
+		Dufourea malacothricis
+		Dufourea mulleri
+		Dufourea holocyana
+		Rophites
+		Systropha glabriventris
+		Systropha planidens
+		Systropha curvicornis
+		Sphecodosoma pratti
+		Protodufourea
+		Xeralictus bicuspidariae
+		Xeralictus timberlakei
+		Conanthalictus conanthi
+		Conanthalictus wilmattae
+		Oxaeinae
+		Panurgus perezi
+		Panurgus cephalotes
+		Panurgus maroccanus
+		Panurgus banksianus
+		Panurgus pyropygus
+		Panurgus niloticus
+		Panurgus dentatus
+		Panurgus pici
+		Panurgus dentipes
+		Panurgus calcaratus
+		Panurgus convergens
+		Panurgus rungsi
+		Panurgus farinosus
+		Panurgus nigriscopus
+		Panurgus canescens
+		Panurgus calceatus
+		Perdita californica
+		Perdita halictoides
+		Macrotera latior
+		Macrotera echinocacti
+		Perdita trisignata
+		Neffapis
+		Plesiopanurgus
+		Meliturgula scriptifrons
+		Meliturgula minima
+		Meliturgula haematospila
+		Panurginus
+		Clavipanurgus
+		Melitturga clavicornis
+		Melitturga albescens
+		Camptopoeum frontale
+		Camptopoeum negevense
+		Pseudopanurgus
+		Protandrena verbesinae
+		Protandrena mexicanorum
+		Arhysosage
+		Callonychium
+		Calliopsis anthidia
+		Calliopsis fracta
+		Calliopsis subalpina
+		Calliopsis pugionis
+		Nolanomelissini
+		Megandrena
+		Simandrena
+		Andrena albopunctata
+		Andrena cineraria
+		Callandrena
+		Alocandrena
+		Euherbstia
+		Orphana
+		Hesperapis regularis
+		Hesperapis larreae
+		Hesperapis trochanterata
+		Hesperapis cockerelli
+		Hesperapis rhodocerata
+		Hesperapis sp. Hesp940
+		Capicola nigerrima
+		Capicola nanula
+		Capicola hantamensis
+		Eremaphanta
+		Samba fasciata
+		Samba atra
+		Samba griseonigra
+		Samba spinosa
+		Samba ogilviei
+		Dasypoda pyrotricha
+		Dasypoda oraniensis
+		Dasypoda dusmeti
+		Dasypoda hirtipes
+		Dasypoda pyriformis
+		Dasypoda visnaga
+		Dasypoda spinigera
+		Dasypoda argentata
+		Dasypoda braccata
+		Dasypoda suripes
+		Dasypoda frieseana
+		Redivivoides
+		Rediviva mcgregori
+		Rediviva saetigera
+		Melitta ezoana
+		Melitta nigricans
+		Melitta tricincta
+		Melitta leporina
+		Melitta dimidiata
+		Melitta haemorrhoidalis
+		Melitta eickworti
+		Melitta capensis
+		Melitta arrogans
+		Promelittini
+		Macropis nuda
+		Macropis fulvipes
+		Macropis europaea
+		Meganomiinae
+		Gasteruption
+		Pseudofoenus
+		Pristaulacus
+		Aulacus
+		Brachygaster
+		Evania
+		Evaniella
+		Evaniscus rufithorax
+		Evaniscus sulcigenis
+		Evaniscus marginatus
+		Evaniscus tibialis
+		Taeniogonalos
+		Orthogonalys
+		Megalyroidea
+		Ceraphronidae
+		Megaspilus
+		Lagynodes
+		Schlettererinae
+		Stephaninae
+		Orussus
+		Orussobaius
+		Derecyrta
+		Xiphydria
+		Anaxyelidae
+		Sirex
+		Tremex
+		Urocerus
+		Hartigia
+		Cephus
+		Sterictiphora
+		Atomacera
+		Decameria
+		Heteroperreyia
+		Blasticotomidae
+		Heterarthrinae
+		Tenthrediniinae
+		Diprionidae
+		Cimbicidae
+		Athalia
+		Ametastegia
+		Cephalciinae
+		Pamphiliinae
+		Macroxyela
+		Xyela
+		Aleyrodiformes
+		Pachypsylla
+		Diaphorina
+		Coccoidea
+		Toxoptera
+		Myzus
+		Acyrthosiphon
+		Aphis subgenus Aphis
+		Prosorrhyncha
+		Tettigellinae
+		Cicadellinae
+		Peregrinus
+		Nilaparvata
+		Austrogoniodes concii
+		Austrogoniodes bicornutus
+		Austrogoniodes hamiltoni
+		Austrogoniodes keleri
+		Austrogoniodes macquariensis
+		Austrogoniodes brevipes
+		Austrogoniodes mawsoni
+		Austrogoniodes waterstoni
+		Austrogoniodes bifasciatus
+		Austrogoniodes demersus
+		Austrogoniodes vanalphenae
+		Austrogoniodes cristati
+		Austrogoniodes gressitti
+		Austrogoniodes antarcticus
+		Austrogoniodes metoecus
+		Entomobryomorpha
+		Onychiuridae
+		Neanuridae
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Diplura,
+		2	Monocondylia,
+		3	Odonata,
+		4	Ephemeroptera,
+		5	Phasmatodea,
+		6	Blaberoidea,
+		7	Termopsidae,
+		8	Blattoidea,
+		9	Rhinotermitidae,
+		10	Rhombodera,
+		11	Hierodula sp. MN343,
+		12	Hierodula sp. MN018,
+		13	Hierodula schultzei,
+		14	Tamolanica,
+		15	Hierodula sp. MN019,
+		16	Camelomantis,
+		17	Hierodulella celebensis,
+		18	Hierodulella reticulata,
+		19	Sphodropoda,
+		20	Archimantis,
+		21	Austrovates,
+		22	Pseudovates,
+		23	Vates sp. MN118,
+		24	Vates sp. MN128,
+		25	Vates sp. MN119,
+		26	Vates pectinacornis,
+		27	Phyllovates chlorophaea,
+		28	Phyllovates cingulata,
+		29	Parastagmatoptera sp. MN125,
+		30	Parastagmatoptera sp. MN151,
+		31	Parastagmatoptera sp. MN028,
+		32	Oxyopsis,
+		33	Stagmatoptera sp. MN029,
+		34	Stagmatoptera sp. MN117,
+		35	Antemna,
+		36	Stagmomantis vicina,
+		37	Stagmomantis sp. MN279,
+		38	Oromantis,
+		39	Stagmomantis sp. MN278,
+		40	Stagmomantis sp. MN149,
+		41	Stagmomantis sp. MN027,
+		42	Stagmomantis carolina,
+		43	Stagmomantis limbata,
+		44	Stagmomantis sp. MN150,
+		45	Tarachomantis,
+		46	Sphodromantis viridis,
+		47	Sphodromantis lineola,
+		48	Prohierodula,
+		49	Plistospilota,
+		50	Polyspilota,
+		51	Tenodera aridifolia,
+		52	Tenodera costalis,
+		53	Parathespis,
+		54	Omomantis,
+		55	Orthodera sp. MN033,
+		56	Orthodera novaezealandiae,
+		57	Choeradodis rhombicollis,
+		58	Choeradodis stalii,
+		59	Mellierinae,
+		60	Mantis,
+		61	Statilia apicalis,
+		62	Statilia sp. MN255,
+		63	Statilia nemoralis,
+		64	Statilia maculata,
+		65	Leptocola,
+		66	Stenopyga,
+		67	Popa,
+		68	Danuria,
+		69	Theopompella,
+		70	Dactylopteryx,
+		71	Indomenella,
+		72	Euchomenella,
+		73	Deroplatys desiccata,
+		74	Deroplatys rhombica,
+		75	Deroplatys sp. MN168,
+		76	Deroplatys truncata,
+		77	Acromantis sp. MN321,
+		78	Acromantis sp. MN339,
+		79	Citharomantis,
+		80	Acromantis montana,
+		81	Rhomantis,
+		82	Acromantis insularis,
+		83	Psychomantis,
+		84	Ephippiomantis,
+		85	Oxypiloidea subcornuta,
+		86	Chrysomantis sp. MN005,
+		87	Oxypiloidea tridens,
+		88	Chrysomantis cachani,
+		89	Anasigerpes,
+		90	Otomantis scutigera,
+		91	Otomantis sp. MN161,
+		92	Otomantis rendalli,
+		93	Ephestiasula,
+		94	Hestiasula masoni,
+		95	Hestiasula inermis,
+		96	Hestiasula phyllopus,
+		97	Ceratomantis kimberlae,
+		98	Ceratomantis ghatei,
+		99	Junodia,
+		100	Oxypilus nasutus,
+		101	Oxypilus sp. MN154,
+		102	Oxypilus transvalensis,
+		103	Oxypilus nigericus,
+		104	Oxypilus hamatus,
+		105	Ceratocrania,
+		106	Phyllothelys decipiens,
+		107	Phyllothelys westwoodi,
+		108	Chloroharpax,
+		109	Panurgica compressicollis,
+		110	Panurgica fratercula,
+		111	Pseudocreobotra,
+		112	Creobroter laevicollis,
+		113	Creobroter sp. MN092,
+		114	Creobroter apicalis,
+		115	Theopropus,
+		116	Hymenopus,
+		117	Odontomantis,
+		118	Anaxarcha intermedia,
+		119	Anaxarcha limbata,
+		120	Epaphroditinae,
+		121	Sibylla dives,
+		122	Sibylla pretiosa,
+		123	Sibylla operosa,
+		124	Gongylus,
+		125	Empusa guttula,
+		126	Empusa sp. MN131,
+		127	Idolomorpha,
+		128	Blepharopsis,
+		129	Idolomantis,
+		130	Congoharpax,
+		131	Pseudoharpax,
+		132	Galinthias,
+		133	Cilnia,
+		134	Parasphendale,
+		135	Taumantis,
+		136	Miomantis aurea,
+		137	Miomantis paykullii,
+		138	Miomantis sp. MN196,
+		139	Miomantis sp. MN191,
+		140	Miomantis sp. MN181,
+		141	Hoplocorypha sp. MN139,
+		142	Hoplocorypha sp. MN190,
+		143	Hoplocorypha sp. MN035,
+		144	Hoplocorypha sp. MN042,
+		145	Aethalochroa,
+		146	Toxoderopsis,
+		147	Stenotoxodera,
+		148	Oxyothespis,
+		149	Heterochaetula,
+		150	Perlamantinae,
+		151	Didymocorypha,
+		152	Heterochaeta,
+		153	Iris,
+		154	Episcopomantis,
+		155	Dysaules longicollis,
+		156	Dysaules himalayanus,
+		157	Dysaules sp. MN067,
+		158	Yersinia,
+		159	Litaneutria,
+		160	Eremiaphila rotundipennis,
+		161	Eremiaphila sp. MN192,
+		162	Tarachodes afzelii,
+		163	Tarachodes dissimulator,
+		164	Pyrgomantis nasuta,
+		165	Pyrgomantis jonesi,
+		166	Paragalepsus,
+		167	Tarachodes sp. MN134,
+		168	Tarachodula,
+		169	Galepsus,
+		170	Nothogalepsus planivertex,
+		171	Nothogalepsus sp. MN174,
+		172	Antistia,
+		173	Schizocephalinae,
+		174	Oxyophthalma,
+		175	Deiphobella,
+		176	Deiphobe sp. MN265,
+		177	Deiphobe sp. MN256,
+		178	Eremoplana,
+		179	Pseudothespis,
+		180	Haaniinae,
+		181	Acromantis sp. MN004,
+		182	Gildella,
+		183	Myrcinus,
+		184	Bimantis,
+		185	Gonypetyllis,
+		186	Humbertiella similis,
+		187	Humbertiella ocularis,
+		188	Gonypeta,
+		189	Gimantis,
+		190	Elmantis nira,
+		191	Elmantis trincomaliae,
+		192	Hapalopeza nitens,
+		193	Amantis biroi,
+		194	Amantis tristis,
+		195	Amantis sp. MN209,
+		196	Amantis reticulata,
+		197	Hapalopeza nilgirica,
+		198	Kongobatha,
+		199	Neomantis,
+		200	Gyromantis,
+		201	Cliomantis obscura,
+		202	Cliomantis cornuta,
+		203	Paraoxypilus verreauxii,
+		204	Paraoxypilus tasmaniensis,
+		205	Bolbe pallida,
+		206	Bolbe pygmea,
+		207	Tylomantis,
+		208	Calofulcinia,
+		209	Stenomantis,
+		210	Ciulfina,
+		211	Sceptuchus,
+		212	Miromantis,
+		213	Bolbena maraisi,
+		214	Bolbena sp. MN292,
+		215	Bolbena hottentotta,
+		216	Hapalomantis orba,
+		217	Hapalomantis congica,
+		218	Nilomantinae,
+		219	Tropidomantis,
+		220	Eomantis guttatipennis,
+		221	Eomantis iridipennis,
+		222	Xanthomantis,
+		223	Amorphoscelis annulicornis,
+		224	Amorphoscelis singaporana,
+		225	Amorphoscelis borneana,
+		226	Amorphoscelis austrogermanica,
+		227	Amorphoscelinae,
+		228	Amorphoscelis sp. MN240,
+		229	Amorphoscelis sp. MN317,
+		230	Amorphoscelis sp. MN337,
+		231	Amorphoscelis sp. MN327,
+		232	Leptomantella sp. MN322,
+		233	Leptomantella sp. MN108,
+		234	Leptomantella albella,
+		235	Leptomantella sp. MN198,
+		236	Ligaria,
+		237	Ligariella gracilis,
+		238	Ligariella trigonalis,
+		239	Entella orientalis,
+		240	Entelloptera,
+		241	Ligentella zairensis,
+		242	Ligentella beieri,
+		243	Namamantis,
+		244	Entella delalandi,
+		245	Dystactula,
+		246	Rogermantis,
+		247	Bolbella,
+		248	Chroicoptera,
+		249	Dystactinae,
+		250	Tarachina sp. MN140,
+		251	Tarachina occidentalis,
+		252	Gonypetella,
+		253	Metallyticus fallax,
+		254	Metallyticus splendidus,
+		255	Oligonicella punctulata,
+		256	Thesprotia graminis,
+		257	Thesprotia sp. MN121,
+		258	Thesprotia macilenta,
+		259	Oligonicella scudderi,
+		260	Carrikerella,
+		261	Thesprotiella sp. MN252,
+		262	Thesprotiella peruana,
+		263	Macromusonia,
+		264	Eumusonia,
+		265	Musoniella sp. MN137,
+		266	Musoniella sp. MN122,
+		267	Bantia,
+		268	Thrinaconyx fumosus,
+		269	Thrinaconyx kirschianus,
+		270	Pseudomiopteryginae,
+		271	Microphotina,
+		272	Photinainae,
+		273	Orthoderella,
+		274	Cardioptera,
+		275	Macromantis,
+		276	Acanthops falcataria,
+		277	Metilia brunnerii,
+		278	Acanthops sp. MN085,
+		279	Metilia boliviana,
+		280	Acontista,
+		281	Raptrix fusca,
+		282	Raptrix perspicua,
+		283	Raptrix sp. MN203,
+		284	Hagiomantis,
+		285	Liturgusa maya,
+		286	Liturgusa sp. MN116,
+		287	Brunneria,
+		288	Coptopteryx sp. MN136,
+		289	Coptopteryx sp. MN059,
+		290	Mantoida sp. MN179,
+		291	Mantoida sp. MN110,
+		292	Mantoida sp. MN180,
+		293	Mantoida schraderi,
+		294	Mantoida sp. MN109,
+		295	Chaeteessidae,
+		296	Caelifera,
+		297	Trigonidiinae,
+		298	Gryllinae,
+		299	Plecoptera,
+		300	Auchenomus forcipatus,
+		301	Irdex sp. 1 DM55,
+		302	Irdex sp. 2 DM56,
+		303	Auchenomus sp. DM48,
+		304	Arixeniina,
+		305	Proreus,
+		306	Chelisoches annulatus,
+		307	Chelisoches morio,
+		308	Paratimomenus,
+		309	Acanthocordax,
+		310	Ancistogaster,
+		311	Eparchus,
+		312	Opisthocosmia,
+		313	Doru,
+		314	Elaunon,
+		315	auricularia species complex,
+		316	Forficula sp. BYU_ACDM005,
+		317	Hemimerus sp. DM29,
+		318	Hemimerus hanseni,
+		319	Labidura,
+		320	Forcipula clavata,
+		321	Forcipula decolyi,
+		322	Nala tenuicornis,
+		323	Nala lividipes,
+		324	Euborellia,
+		325	Thekalabis,
+		326	Nesogaster,
+		327	Labia,
+		328	Parisopsalis,
+		329	Apachyoidea,
+		330	Cranopygia,
+		331	Tagalina,
+		332	Echinosoma micropteryx,
+		333	Echinosoma sp. DM11,
+		334	Echinosoma yorkense,
+		335	Panorpidae,
+		336	Nannochorista sp. BMW-2009,
+		337	Nannochorista philpotti,
+		338	Boreus sp. BMW-2009,
+		339	Boreus brumalis,
+		340	Bittacidae,
+		341	Pulicomorpha,
+		342	Hystrichopsyllomorpha,
+		343	Lygistorrhinidae,
+		344	Cecidomyiidae,
+		345	Sciaridae,
+		346	Bolitophilinae,
+		347	Keroplatidae,
+		348	Pseudobrachypeza,
+		349	Diadocidiidae,
+		350	Ditomyiinae,
+		351	Manotinae,
+		352	Bibionoidea,
+		353	Pachyneuroidea,
+		354	Axymyiomorpha,
+		355	Synneuridae,
+		356	Scatopsoidea,
+		357	Sylvicola,
+		358	Olbiogaster,
+		359	Apystomyia,
+		360	Pipunculidae,
+		361	Campichoetidae,
+		362	Diastatidae,
+		363	Curtonotidae,
+		364	Camillidae,
+		365	Cryptochetidae,
+		366	Braulidae,
+		367	latifasciaeformis group,
+		368	Scaptodrosophila dorsocentralis,
+		369	calloptera group,
+		370	pallidipenis group,
+		371	Drosophila metzii,
+		372	guaramunu subgroup,
+		373	macroptera group,
+		374	rubrifrons group,
+		375	histrio group,
+		376	tripunctata subgroup III,
+		377	Drosophila guaru,
+		378	Drosophila ornatifrons,
+		379	tripunctata subgroup II,
+		380	Drosophila mediodiffusa,
+		381	Drosophila cardini,
+		382	Drosophila acutilabella,
+		383	Drosophila caribiana,
+		384	Drosophila arawakana,
+		385	macrospina subgroup,
+		386	Drosophila occidentalis,
+		387	Drosophila recens,
+		388	guttifera group,
+		389	Drosophila falleni,
+		390	Drosophila phalerata,
+		391	Drosophila neotestacea,
+		392	Drosophila testacea,
+		393	bizonata group,
+		394	Drosophila putrida,
+		395	Drosophila tripunctata,
+		396	funebris subgroup,
+		397	pinicola group,
+		398	Drosophila immigrans,
+		399	curviceps subgroup,
+		400	Drosophila sulfurigaster bilimbata,
+		401	Drosophila sulfurigaster sulfurigaster,
+		402	Drosophila nasuta,
+		403	Drosophila albomicans,
+		404	Drosophila sulfurigaster albostrigata,
+		405	Drosophila hypocausta,
+		406	Drosophila siamana,
+		407	Drosophila ruberrima,
+		408	tumiditarsus group,
+		409	Zaprionus inermis,
+		410	Zaprionus sepsoides,
+		411	Zaprionus tuberculatus,
+		412	vittiger subgroup,
+		413	Zaprionus ghesquierei,
+		414	Liodrosophila,
+		415	zentae group,
+		416	Hirtodrosophila thoracis,
+		417	Mycodrosophila sp. JLDL-2005,
+		418	Mycodrosophila claytonae,
+		419	Mycodrosophila dimidiata,
+		420	Drosophila pavani,
+		421	Drosophila gaucha,
+		422	Drosophila peninsularis,
+		423	Drosophila repleta,
+		424	Drosophila neorepleta,
+		425	Drosophila mercatorum,
+		426	mojavensis species complex,
+		427	mayaguana subcluster,
+		428	mulleri species complex,
+		429	stalkeri species complex,
+		430	buzzatii species complex,
+		431	Drosophila hamatofila,
+		432	hydei subgroup,
+		433	fasciola subgroup,
+		434	canalinea group,
+		435	Drosophila bromeliae,
+		436	Drosophila aff. florae KVDL-2010,
+		437	Drosophila nannoptera,
+		438	Drosophila acanthoptera,
+		439	Siphlodora,
+		440	annulimana group,
+		441	dreyfusi group,
+		442	Drosophila montana,
+		443	Drosophila ezoana,
+		444	Drosophila virilis,
+		445	Drosophila americana texana,
+		446	Drosophila americana americana,
+		447	quadrisetata group,
+		448	okadai subgroup,
+		449	lacertosa subgroup,
+		450	robusta subgroup,
+		451	Drosophila paramelanica,
+		452	Drosophila euronotus,
+		453	Drosophila melanica,
+		454	Drosophila nigromelanica,
+		455	Drosophila micromelanica,
+		456	mitchelli subgroup,
+		457	haleakalae group,
+		458	mimica subgroup,
+		459	antopocerus group,
+		460	adiastola group,
+		461	planitibia group,
+		462	hawaiiensis subgroup,
+		463	Drosophila crucigera,
+		464	Drosophila grimshawi,
+		465	Engiscaptomyza,
+		466	Tantalia,
+		467	Bunostoma,
+		468	Parascaptomyza,
+		469	Dettopsomyia,
+		470	Dorsilopha,
+		471	bocainensis subgroup,
+		472	Drosophila willistoni,
+		473	Drosophila paulistorum,
+		474	Drosophila equinoxialis,
+		475	elliptica subgroup,
+		476	cordata subgroup,
+		477	sturtevanti subgroup,
+		478	saltans subgroup,
+		479	Hirtodrosophila duncani,
+		480	Drosophila mimetica,
+		481	Drosophila lutescens,
+		482	Drosophila takahashii,
+		483	Drosophila biarmipes,
+		484	flavohirta subgroup,
+		485	eugracilis subgroup,
+		486	Drosophila santomea,
+		487	Drosophila yakuba,
+		488	Drosophila teissieri,
+		489	Drosophila erecta,
+		490	Drosophila simulans,
+		491	Drosophila sechellia,
+		492	Drosophila mauritiana,
+		493	Drosophila melanogaster,
+		494	ficusphila subgroup,
+		495	elegans subgroup Drosophila,
+		496	rhopaloa subgroup,
+		497	Drosophila lucipennis,
+		498	Drosophila nikananu,
+		499	Drosophila tsacasi,
+		500	Drosophila seguyi,
+		501	Drosophila greeni,
+		502	Drosophila auraria,
+		503	Drosophila biauraria,
+		504	Drosophila rufa,
+		505	Drosophila kikkawai,
+		506	Drosophila lini,
+		507	Drosophila serrata,
+		508	Drosophila birchii,
+		509	Drosophila phaeopleura,
+		510	Drosophila ananassae,
+		511	Drosophila pallidosa,
+		512	Drosophila bipectinata,
+		513	Drosophila malerkotliana malerkotliana,
+		514	Drosophila malerkotliana pallens,
+		515	ercepeae species complex,
+		516	Drosophila varians,
+		517	Drosophila obscura,
+		518	Drosophila hubeiensis,
+		519	Drosophila bifasciata,
+		520	Drosophila pseudoobscura pseudoobscura,
+		521	Drosophila pseudoobscura bogotana,
+		522	Drosophila persimilis,
+		523	Drosophila algonquin,
+		524	Drosophila affinis,
+		525	Drosophila azteca,
+		526	Drosophila guanche,
+		527	Drosophila subobscura,
+		528	Scaptodrosophila galloi,
+		529	Scaptodrosophila lebanonensis casteeli,
+		530	Scaptodrosophila lebanonensis lebanonensis,
+		531	rufifrons group,
+		532	Scaptodrosophila deflexa,
+		533	procnemis group,
+		534	fuscimana group,
+		535	Discomyzinae,
+		536	Hydrelliinae,
+		537	Ephydrinae,
+		538	Anthomyiidae,
+		539	Scathophagidae,
+		540	Exoristinae,
+		541	Axinia,
+		542	Phasiinae,
+		543	Siphonini,
+		544	Tachinini,
+		545	Calliphoridae,
+		546	Phyto,
+		547	Oestridae,
+		548	Neobellieria,
+		549	Peckia,
+		550	Sarcophaga subgenus Sarcophaga,
+		551	Sarcophaga kozlovi,
+		552	Sarcophaga giganta,
+		553	Sarcophaga vicina,
+		554	Sarcophaga enderleini,
+		555	Sarcophaga porrecta,
+		556	Sarcophaga shnitnikovi,
+		557	Sarcophaga vagans,
+		558	Sarcophaga pauciseta,
+		559	Sarcophaga pandellei,
+		560	Sarcophaga schineri,
+		561	Sarcophaga proxima,
+		562	Sarcophaga rondaniana,
+		563	Sarcophaga lacrymans,
+		564	Sarcophaga nipponensis,
+		565	Sarcophaga recta,
+		566	Sarcophaga consanguinea,
+		567	Sarcophaga chaetoneura,
+		568	Sarcophaga dissimilis,
+		569	Sarcophaga benaci,
+		570	Sarcophaga siciliana,
+		571	Sarcophaga pseudobenaci,
+		572	Sarcophaga infantilis,
+		573	Sarcophaga amita,
+		574	Sarcophaga abramovi,
+		575	Sarcophaga plotnikovi,
+		576	Sarcophaga haemorrhoa,
+		577	Sarcophaga haemorrhoides,
+		578	Sarcophaga kataphygionis,
+		579	Sarcophaga depressifrons,
+		580	Sarcophaga slovaca,
+		581	Sarcophaga bulgarica,
+		582	Sarcophaga lederbergi,
+		583	Sarcophaga heptapotamica,
+		584	Sarcophaga ancilla,
+		585	Sarcophaga metopina,
+		586	Sarcophaga armenica,
+		587	Sarcophaga pontica,
+		588	Sarcophaga clarahenae,
+		589	Sarcophaga croca,
+		590	Sarcophaga cucullans,
+		591	Sarcophaga esthera,
+		592	Sarcophaga pumila,
+		593	Sarcophaga arcipes,
+		594	Sarcophaga amputata,
+		595	Sarcophaga kunonis,
+		596	Sarcophaga balanina,
+		597	Sarcophaga ferox,
+		598	Sarcophaga desertorum,
+		599	Sarcophaga setinervis,
+		600	Sarcophaga mutila,
+		601	Sarcophaga kerteszi,
+		602	Sarcophaga curvifemoralis,
+		603	Sarcophaga monspellensia,
+		604	Sarcophaga villeneuveana,
+		605	Sarcophaga uncicurva,
+		606	Sarcophaga thirionae,
+		607	Sarcophaga penicillata,
+		608	Sarcophaga santospintosi,
+		609	Sarcophaga tricolor,
+		610	Sarcophaga minima,
+		611	Sarcophaga siciliensis,
+		612	Sarcophaga filia,
+		613	Sarcophaga turana,
+		614	Sarcophaga sicilia,
+		615	Sarcophaga boettcheri,
+		616	Sarcophaga longestylata,
+		617	Sarcophaga filiola,
+		618	Helicophagella,
+		619	Azeliinae,
+		620	Stomoxyini,
+		621	Muscini,
+		622	Fanniidae,
+		623	Glossinidae,
+		624	Ornithomya,
+		625	Stenepteryx,
+		626	Streblidae,
+		627	Phytomyza,
+		628	Cerodontha,
+		629	Pseudocollinella,
+		630	Spelobia,
+		631	Periscelis,
+		632	Carnidae,
+		633	Odiniidae,
+		634	Tetanocera,
+		635	Neolimnia,
+		636	Pherbellia,
+		637	Myopinae,
+		638	Conopinae,
+		639	Pelidnoptera,
+		640	Dryomyza,
+		641	Oedoparena,
+		642	Helosciomyzidae,
+		643	Coelopinae,
+		644	Lopinae,
+		645	Helcomyzidae,
+		646	Huttonina,
+		647	Stylogastrinae,
+		648	Natalimyzidae,
+		649	Heterocheilidae,
+		650	Celyphidae,
+		651	Minettia,
+		652	Lyciella,
+		653	Cremifania,
+		654	Parochthiphila,
+		655	Heteromyza,
+		656	Anthomyzidae,
+		657	Suillia,
+		658	Trixoscelis,
+		659	Teratomyzidae,
+		660	Fergusoninidae,
+		661	Asteiidae,
+		662	Australimyzidae,
+		663	Xenasteiidae,
+		664	Willistoniella,
+		665	Neurochaetidae,
+		666	Pallopteridae,
+		667	Clusiidae,
+		668	Syringogastridae,
+		669	Tanypezidae,
+		670	Strongylophthalmyiidae,
+		671	Nannodastiidae,
+		672	Procanace,
+		673	Tethinosoma,
+		674	Marginidae,
+		675	Teleopsis,
+		676	Sphyracephala,
+		677	Teloglabrus,
+		678	Milichiidae,
+		679	Oscinellinae,
+		680	Thaumatomyia notata,
+		681	Thaumatomyia glabra,
+		682	Somatiidae,
+		683	Aulacigastridae,
+		684	Cyamops,
+		685	Cypselosomatidae,
+		686	Neriidae,
+		687	Compsobata,
+		688	Cnodacophora,
+		689	Inbiomyiidae,
+		690	Neminidae,
+		691	Pyrgotidae,
+		692	Tachiniscinae,
+		693	Dacinae,
+		694	Tephritinae,
+		695	Ctenostylidae,
+		696	Platystomatidae,
+		697	Herina,
+		698	Melieria,
+		699	Piophilidae,
+		700	Lonchaeidae,
+		701	Richardiidae,
+		702	Sepsis,
+		703	Acartophthalmidae,
+		704	Opomyza,
+		705	Geomyza,
+		706	Chyromyidae,
+		707	Megamerinidae,
+		708	Eristalinae,
+		709	Syrphinae,
+		710	Microdontinae,
+		711	Sciadoceridae,
+		712	Metopininae,
+		713	Phorinae,
+		714	Ironomyiidae,
+		715	Platypezinae,
+		716	Opetiinae,
+		717	Lonchoptera lutea,
+		718	Lonchoptera uniseta,
+		719	Empidinae,
+		720	Oreogeton scopifer,
+		721	Oreogeton obscurus,
+		722	Ocydromiinae,
+		723	Hybotinae,
+		724	Microphorinae,
+		725	Dolichopodidae,
+		726	Atelestidae,
+		727	Scenopinidae,
+		728	Phycus,
+		729	Acrosathe,
+		730	Apsilocephalidae,
+		731	Evocoidae,
+		732	Mydidae,
+		733	Apioceridae,
+		734	Asilidae,
+		735	Mythicomyiidae,
+		736	Tomomyzinae,
+		737	Bombyliinae,
+		738	Munjua lepidokingi,
+		739	Munjua paralutea,
+		740	Munjua erugata,
+		741	Palirika bouchardi,
+		742	Palirika basilikos,
+		743	Palirika danielsi,
+		744	Palirika whyalla,
+		745	Palirika viridula,
+		746	Palirika cyanea,
+		747	Palirika blackdownensis,
+		748	Palirika marginicollis,
+		749	Palirika anaxios,
+		750	Palirika decora,
+		751	Balaana bicuspis,
+		752	Balaana obliquebifasciata,
+		753	Balaana centrosa,
+		754	Balaana abscondita,
+		755	Balaana kingcascadensis,
+		756	Balaana gigantea,
+		757	Balaana latelimbata,
+		758	Munjua trigona,
+		759	Muwarna vitreilinearis,
+		760	Muwarna stellifera,
+		761	Larrpana collessi,
+		762	Larrpana zwicki,
+		763	Larrpana dimidiatipennis,
+		764	Kapu irwini,
+		765	Kapu corusca,
+		766	Kapu westralica,
+		767	Kapu adelaidica,
+		768	Wurda patrellia,
+		769	Wurda montebelloensis,
+		770	Wurda wyperfeldensis,
+		771	Wurda emu,
+		772	Wurda windorah,
+		773	Wurda skevingtoni,
+		774	Wurda impatientis,
+		775	Wurda norrisi,
+		776	Actina,
+		777	Stratiomyidae,
+		778	Xylomyidae,
+		779	Pantophthalmidae,
+		780	Ogcodes,
+		781	Hilarimorpha,
+		782	Athericidae,
+		783	Haematopotini,
+		784	Tabanini,
+		785	Oreoleptidae,
+		786	Pelecorhynchidae,
+		787	Chrysopilus,
+		788	Bolbomyia,
+		789	Rhagio,
+		790	Vermileonidae,
+		791	Xylophaginae,
+		792	Coenomyiinae,
+		793	Perissomma,
+		794	Tanyderidae,
+		795	Psychodinae,
+		796	Lutzomyia,
+		797	Phlebotomus subgenus Phlebotomus,
+		798	Phlebotomus duboscqui,
+		799	Blephariceridae,
+		800	Simuliidae,
+		801	Thaumaleidae,
+		802	Ceratopogonidae,
+		803	Chironomidae,
+		804	Toxorhynchitinae,
+		805	Neocellia,
+		806	Pyretophorus,
+		807	Corethrellinae,
+		808	Chaoborinae,
+		809	Dixidae,
+		810	Bittacomorphinae,
+		811	Ptychopterinae,
+		812	Trichoceridae,
+		813	Limoniinae,
+		814	Ctenophorinae,
+		815	Tipulinae,
+		816	Cylindrotomidae,
+		817	Chioneinae,
+		818	Limnophilinae,
+		819	Dactylolabinae,
+		820	Pediciidae,
+		821	Nymphomyioidea,
+		822	Deuterophlebiidae,
+		823	Trichoptera,
+		824	Exoporia,
+		825	Incurvarioidea,
+		826	Agrotis,
+		827	Hadeninae,
+		828	Caradrina,
+		829	Amphipyrinae,
+		830	Helicoverpa,
+		831	Heliothis,
+		832	Pantheinae,
+		833	Cuculliinae,
+		834	Plusiinae,
+		835	Xyleninae,
+		836	Westermanniinae,
+		837	Chloephorinae,
+		838	Manoba,
+		839	Meganola,
+		840	Eariadinae,
+		841	Bleninae,
+		842	Strepsimaninae,
+		843	Micronoctuidae,
+		844	Catocala,
+		845	Hypena,
+		846	Lymantriidae,
+		847	Eudocima,
+		848	Rivula,
+		849	Syntomini,
+		850	Ctenuchini,
+		851	Lithosiini,
+		852	Euteliinae,
+		853	Gluphisia,
+		854	Didusiinae,
+		855	Thaumetopoeinae,
+		856	Stauropinae,
+		857	Spatalia,
+		858	Nystaleinae,
+		859	Discophlebia,
+		860	Oenosandra,
+		861	Phiditiidae,
+		862	Carthaeidae,
+		863	Munychryiinae,
+		864	Nataxa,
+		865	Chelepteryx,
+		866	Mirina,
+		867	Oberthueria,
+		868	Endromis,
+		869	Prismosticta,
+		870	Cercophaninae,
+		871	Ceratocampinae,
+		872	Saturnia,
+		873	Actias,
+		874	Antheraea paukstadtorum,
+		875	Antheraea mylitta,
+		876	Antheraea polyphemus,
+		877	Antheraea assama,
+		878	Therinia,
+		879	Oxytenis,
+		880	Sphinginae,
+		881	Ambulycini,
+		882	Sphingulini,
+		883	Smerinthini,
+		884	Hemaris,
+		885	Xylophanes,
+		886	Hyles,
+		887	Enyo,
+		888	Bombyx,
+		889	Quentalia,
+		890	Dactyloceras,
+		891	Lemoniidae,
+		892	Acanthobrahmaea,
+		893	Panacela,
+		894	Cotana,
+		895	Hoplojana,
+		896	Jana,
+		897	Apatelodes,
+		898	Olceclostera,
+		899	Poecilocampinae,
+		900	Chondrosteginae,
+		901	Tolype,
+		902	Artace,
+		903	Lasiocampa,
+		904	Heteropacha,
+		905	Macrothylacia,
+		906	Malacosoma,
+		907	Chionopsychinae,
+		908	Nothus,
+		909	Homidiana,
+		910	Coronidia,
+		911	Sematura,
+		912	Psychostrophia,
+		913	Epicopeia,
+		914	Microniinae,
+		915	Urapteroides,
+		916	Lyssa,
+		917	Syngria,
+		918	Metorthocheilus,
+		919	Odontothera,
+		920	Hasodima,
+		921	Biston,
+		922	Alsophilinae,
+		923	Campaea,
+		924	Plagodis,
+		925	Hypobapta,
+		926	Chlorosea,
+		927	Nemoria,
+		928	Dinophalus,
+		929	Dichromodes,
+		930	Archiearinae,
+		931	Scopula,
+		932	Idaea,
+		933	Haematopis,
+		934	Cyclophora nanaria,
+		935	Cyclophora sp. JCR-2009,
+		936	Eupithecia,
+		937	Orthonama,
+		938	Earophila,
+		939	Trichopteryx,
+		940	Macaria,
+		941	Doidae,
+		942	Euphaneta,
+		943	Trogoptera,
+		944	Lacosoma chiridota,
+		945	Lacosoma ludolpha,
+		946	Eadmuna,
+		947	Druentica,
+		948	Bedosia,
+		949	Cimelioidea,
+		950	Oretinae,
+		951	Macrocilix,
+		952	Drepana,
+		953	Macrauzata,
+		954	Pseudothyatira,
+		955	Habrosyne,
+		956	Tethea,
+		957	Cyclidiinae,
+		958	Nymphulinae,
+		959	Rupela,
+		960	Scirpophaga,
+		961	Midilinae,
+		962	Scopariinae,
+		963	Myelobia,
+		964	Catoptria,
+		965	Musotiminae,
+		966	Odontiinae,
+		967	Evergestinae,
+		968	Noordinae,
+		969	Glaphyriinae,
+		970	Wurthiinae,
+		971	Phaedropsis,
+		972	Pyrausta,
+		973	Spilomelinae,
+		974	Cnaphalocrocis,
+		975	Epipaschiinae,
+		976	Hypsopygia,
+		977	Gauna,
+		978	Ambesa,
+		979	Plodia,
+		980	Monoloxis,
+		981	Galleriinae,
+		982	Polyterpnes,
+		983	Pterothysanus,
+		984	Pterothysanidae,
+		985	Ophiderinae,
+		986	Pterodecta,
+		987	Macropiratinae,
+		988	Hyblaea firmamentum,
+		989	Hyblaea ibidias,
+		990	Copromorphidae,
+		991	Sosineura,
+		992	Meridarchis,
+		993	Carposina,
+		994	Epermenia chaerophyllella,
+		995	Epermenia sinjovi,
+		996	Alucitoidea,
+		997	Striglininae,
+		998	Glanycus,
+		999	Dysodia,
+		1000	Riodinidae,
+		1001	Curetinae,
+		1002	Polyommatinae,
+		1003	Theclinae,
+		1004	Poritiinae,
+		1005	Miletinae,
+		1006	Biblidinae,
+		1007	Nymphalini,
+		1008	Phyciodes phaon,
+		1009	Phyciodes tharos,
+		1010	Apaturinae,
+		1011	Danainae,
+		1012	Heliconius melpomene,
+		1013	Heliconius sara,
+		1014	Satyrinae,
+		1015	Libytheinae,
+		1016	Pseudopontiinae,
+		1017	Pierinae,
+		1018	Colias,
+		1019	Kricogonia,
+		1020	Dismorphiinae,
+		1021	Macrosoma satellitiata,
+		1022	Macrosoma conifera,
+		1023	Megathyminae,
+		1024	Heteropterinae,
+		1025	Pyrrhopyginae,
+		1026	Pyrginae,
+		1027	Astraptes,
+		1028	Urbanus sp. doryssusDHJ02,
+		1029	Urbanus doryssus,
+		1030	Hylephila,
+		1031	Calpodes,
+		1032	Coeliades,
+		1033	Hasora,
+		1034	Troidini,
+		1035	Leptocircini,
+		1036	Papilio glaucus,
+		1037	Papilio polytes,
+		1038	Agdistinae,
+		1039	Anstenoptilia,
+		1040	Platyptilia,
+		1041	Emmelina,
+		1042	Lantanophaga,
+		1043	Illidgea,
+		1044	Tymbophora,
+		1045	Deoclonidae,
+		1046	Galagete,
+		1047	Autosticha,
+		1048	Batrachedridae,
+		1049	Homaloxestis,
+		1050	Lecithocera,
+		1051	Deuterogoniidae,
+		1052	Promalactis,
+		1053	Leistarcha,
+		1054	Wingia,
+		1055	Amphisbatidae,
+		1056	Aeolanthinae,
+		1057	Thudaca,
+		1058	Eupselia,
+		1059	Hypertropha,
+		1060	Agonopterix,
+		1061	Bibarrambla,
+		1062	Chimabachinae,
+		1063	Peleopodidae,
+		1064	Odites,
+		1065	Rhizosthenes,
+		1066	Lypusinae,
+		1067	Stathmopoda,
+		1068	Stathmopodidae,
+		1069	Rhamphura,
+		1070	Scythris,
+		1071	Blastobasidae,
+		1072	Coleophoridae,
+		1073	Momphidae,
+		1074	Cosmiotes,
+		1075	Elachista,
+		1076	Filinota,
+		1077	Cosmopterix,
+		1078	Hyposmocoma,
+		1079	Pancalia,
+		1080	Euclemensia,
+		1081	Pexicopiinae,
+		1082	Encolapta,
+		1083	Caryocolum,
+		1084	Aroga,
+		1085	Friseria,
+		1086	Stenolechia,
+		1087	Monochroa,
+		1088	Aristotelia,
+		1089	Dichomeridinae,
+		1090	Stenoma,
+		1091	Antaeotricha,
+		1092	Ethmiinae,
+		1093	Torodorinae,
+		1094	Zeuzera,
+		1095	Chalcidica,
+		1096	Psychogena,
+		1097	Endoxyla,
+		1098	Epipomponia,
+		1099	Fulgoraecia,
+		1100	Heteropsyche,
+		1101	Philiodoron,
+		1102	Givira,
+		1103	Langsdorfia,
+		1104	Lebedodes,
+		1105	Metarbela,
+		1106	Synemoninae,
+		1107	Paysandisia,
+		1108	Amauta,
+		1109	Telchin,
+		1110	Culama,
+		1111	Chilecomadiinae,
+		1112	Prionoxystus,
+		1113	Cossus,
+		1114	Pseudocossus,
+		1115	Miscera,
+		1116	Synechodes,
+		1117	Spinulata,
+		1118	Dudgeoneidae,
+		1119	Tinthiinae,
+		1120	Melittiini,
+		1121	Paranthrenini,
+		1122	Podosesia,
+		1123	Synanthedon,
+		1124	Cyclotornidae,
+		1125	Prolimacodes,
+		1126	Phobetron,
+		1127	Euclea,
+		1128	Strigivenifera,
+		1129	Apoda,
+		1130	Pantoctenia,
+		1131	Minacraga,
+		1132	Dalcerides,
+		1133	Acraga philetera,
+		1134	Acraga coa,
+		1135	Dalcera,
+		1136	Aididae,
+		1137	Norape,
+		1138	Megalopyge lapena,
+		1139	Megalopyge crispata,
+		1140	Megalopyge tharops,
+		1141	Megalopyge contigua,
+		1142	Mesoscia,
+		1143	Himantopteridae,
+		1144	Anticrates,
+		1145	Phaudinae,
+		1146	Lactura,
+		1147	Chalcosiinae,
+		1148	Pollanisus sp. JCR-2011,
+		1149	Pollanisus apicalis,
+		1150	Pryeria,
+		1151	Zygaena,
+		1152	Morpheis,
+		1153	Homadaula,
+		1154	Auratonota,
+		1155	Heppnerographa,
+		1156	Hilarographa,
+		1157	Microcorsini,
+		1158	Enarmoniini,
+		1159	Episimus,
+		1160	Endotheniini,
+		1161	Olethreutes,
+		1162	Eucosma,
+		1163	Cydia,
+		1164	Grapholita delineana,
+		1165	Grapholita dimorpha,
+		1166	Pelochrista,
+		1167	Epiblema,
+		1168	Cerace,
+		1169	Argyrotaenia,
+		1170	Pandemis,
+		1171	Clepsis,
+		1172	Choristoneura,
+		1173	Sparganothidini,
+		1174	Sparganothini,
+		1175	Acleris,
+		1176	Cnephasia,
+		1177	Decodes,
+		1178	Bonagota,
+		1179	Eulia,
+		1180	Eugnosta,
+		1181	Aethes,
+		1182	Pseudatteria,
+		1183	Histura,
+		1184	Millieriinae,
+		1185	Imma,
+		1186	Birthana,
+		1187	Schreckensteinioidea,
+		1188	Douglasiidae,
+		1189	Brenthiinae,
+		1190	Tortyra,
+		1191	Hemerophila,
+		1192	Prochoreutis,
+		1193	Tebenna,
+		1194	Anthophila,
+		1195	Wockia asperipunctella,
+		1196	Wockia koreana,
+		1197	Urodus parvula,
+		1198	Urodus decens,
+		1199	Glyphipterix,
+		1200	Diploschizia,
+		1201	Lepidotarphius,
+		1202	Acrolepiopsis,
+		1203	Digitivalva,
+		1204	Doxophyrtis,
+		1205	Proditrix,
+		1206	Orthotelia,
+		1207	Plutella,
+		1208	Ochsenheimeria,
+		1209	Ypsolopha,
+		1210	Scythropiinae,
+		1211	Bedelliidae,
+		1212	Aetole,
+		1213	Epicroesa,
+		1214	Lyonetia,
+		1215	Praydidae,
+		1216	Atteva aurea,
+		1217	Atteva punctella,
+		1218	Cedestis,
+		1219	Yponomeuta,
+		1220	Eucalantica sp. JCR-2011,
+		1221	Eucalantica costaricae,
+		1222	Thecobathra,
+		1223	Bucculatricidae,
+		1224	Perileucoptera,
+		1225	Parectopa,
+		1226	Epicephala,
+		1227	Oecophyllembiinae,
+		1228	Spulerina,
+		1229	Cameraria,
+		1230	Phyllonorycter pomonella,
+		1231	Phyllonorycter aberrans,
+		1232	Phyllocnistis longipalpa,
+		1233	Phyllocnistis citrella,
+		1234	Caloptilia,
+		1235	Callisto,
+		1236	Roeslerstammia,
+		1237	Agriothera,
+		1238	Tinea,
+		1239	Tineola,
+		1240	Phereoeca,
+		1241	Trichophaga,
+		1242	Nemapogoninae,
+		1243	Hybroma,
+		1244	Xystrologa,
+		1245	Mea,
+		1246	Moerarchis,
+		1247	Opogona,
+		1248	Scardiella,
+		1249	Morophaga,
+		1250	Pyloetis,
+		1251	Erechthiinae,
+		1252	Perissomasticinae,
+		1253	Edosa,
+		1254	Myrmecozela,
+		1255	Euplocaminae,
+		1256	Cephimallota,
+		1257	Exoncotis,
+		1258	Acrolophus,
+		1259	Hapsiferinae,
+		1260	Paraptica,
+		1261	Eriocottis,
+		1262	Compsoctena,
+		1263	Arrhenophaninae,
+		1264	Arrhenophanidae,
+		1265	Scoriodytinae,
+		1266	Taleporiinae,
+		1267	Phychinae,
+		1268	Oreopsyche,
+		1269	Thyridopteryx,
+		1270	Typhoniinae,
+		1271	Eudarcia,
+		1272	Stylopidia,
+		1273	Mengenillidia,
+		1274	Nicrophorus przewalskii,
+		1275	Nicrophorus smefarka,
+		1276	Nicrophorus sepultor,
+		1277	Nicrophorus argutor,
+		1278	Nicrophorus encaustus,
+		1279	Nicrophorus investigator,
+		1280	Nicrophorus interruptus,
+		1281	Nicrophorus mexicanus,
+		1282	Nicrophorus nigrita,
+		1283	Nicrophorus semenowi,
+		1284	Nicrophorus tomentosus,
+		1285	Nicrophorus hybridus,
+		1286	Nicrophorus pustulatus,
+		1287	Nicrophorus hispaniola,
+		1288	Nicrophorus guttula,
+		1289	Nicrophorus obscurus,
+		1290	Nicrophorus marginatus,
+		1291	Nicrophorus carolinus,
+		1292	Nicrophorus quadrimaculatus,
+		1293	Nicrophorus olidus,
+		1294	Nicrophorus scrutator,
+		1295	Nicrophorus didymus,
+		1296	Nicrophorus vespilloides,
+		1297	Nicrophorus defodiens,
+		1298	Nicrophorus tenuipes,
+		1299	Nicrophorus concolor,
+		1300	Nicrophorus oberthuri,
+		1301	Nicrophorus lunatus,
+		1302	Nicrophorus apo,
+		1303	Nicrophorus nepalensis,
+		1304	Nicrophorus heurni,
+		1305	Nicrophorus podagricus,
+		1306	Nicrophorus kieticus,
+		1307	Nicrophorus insularis,
+		1308	Nicrophorus insignis,
+		1309	Nicrophorus charon,
+		1310	Nicrophorus quadripunctatus,
+		1311	Nicrophorus melissae,
+		1312	Nicrophorus schawalleri,
+		1313	Nicrophorus montivagus,
+		1314	Nicrophorus maculifrons,
+		1315	Nicrophorus trumboi,
+		1316	Nicrophorus humator,
+		1317	Nicrophorus sayi,
+		1318	Nicrophorus morio,
+		1319	Nicrophorus germanicus,
+		1320	Nicrophorus nigricornis,
+		1321	Nicrophorus vespillo,
+		1322	Nicrophorus japonicus,
+		1323	Nicrophorus antennatus,
+		1324	Nicrophorus dauricus,
+		1325	Nicrophorus orbicollis,
+		1326	Nicrophorus americanus,
+		1327	Nicrophorus distinctus,
+		1328	Chrysomeloidea,
+		1329	Curculionoidea,
+		1330	Tenebrionoidea,
+		1331	Raphidioptera,
+		1332	Megaloptera,
+		1333	Osmylidae,
+		1334	Polystoechotidae,
+		1335	Nevrorthidae,
+		1336	Belytinae,
+		1337	Diapriinae,
+		1338	Ambositrinae,
+		1339	Monomachidae,
+		1340	Maamingidae,
+		1341	Ismarinae,
+		1342	Tetracampidae,
+		1343	Coccobius,
+		1344	Coccophagus,
+		1345	Eulophidae,
+		1346	Torymidae,
+		1347	Muscidifurax,
+		1348	Nasonia giraulti,
+		1349	Nasonia vitripennis,
+		1350	Cleonyminae,
+		1351	Chalcididae,
+		1352	Eurytomidae,
+		1353	Spalangiinae,
+		1354	Eucharitidae,
+		1355	Calesinae,
+		1356	Rotoitidae,
+		1357	Gonatocerus,
+		1358	Australomymar,
+		1359	Palaeomymar,
+		1360	Mymaromella,
+		1361	Roproniidae,
+		1362	Pelecinidae,
+		1363	Vanhorniidae,
+		1364	Heloridae,
+		1365	Peradeniidae,
+		1366	Austroniidae,
+		1367	Phaenoserphus,
+		1368	Exallonyx,
+		1369	Proctotrupes,
+		1370	Austroserphus,
+		1371	Isostasius,
+		1372	Platygaster,
+		1373	Proplatygaster,
+		1374	Telenominae,
+		1375	Scelioninae,
+		1376	Liopteridae,
+		1377	Synergini,
+		1378	Parnipinae,
+		1379	Ibaliidae,
+		1380	Aspicerinae,
+		1381	Anacharitinae,
+		1382	Diplolepidini,
+		1383	Rogadinae,
+		1384	Exothecinae,
+		1385	Doryctinae,
+		1386	Blacinae,
+		1387	Helconinae,
+		1388	Orgilinae,
+		1389	Aphidiinae,
+		1390	Cryptinae,
+		1391	Pimplinae,
+		1392	Labeninae,
+		1393	Tryphoninae,
+		1394	Campopleginae,
+		1395	Rhopalosomatidae,
+		1396	Polistinae,
+		1397	Vespa crabro,
+		1398	Vespa orientalis,
+		1399	Vespa basalis,
+		1400	Vespa affinis,
+		1401	Provespa anomala,
+		1402	Provespa barthelemyi,
+		1403	Dolichovespula saxonica,
+		1404	Dolichovespula pacifica,
+		1405	Dolichovespula albida,
+		1406	Dolichovespula arenaria,
+		1407	Dolichovespula sylvestris,
+		1408	Dolichovespula maculata,
+		1409	Dolichovespula media,
+		1410	Vespula intermedia,
+		1411	Vespula consobrina,
+		1412	Vespula acadica,
+		1413	Vespula vidua,
+		1414	Vespula squamosa,
+		1415	Vespula flavopilosa,
+		1416	Vespula alascensis,
+		1417	Vespula maculifrons,
+		1418	Vespula pensylvanica,
+		1419	Vespula germanica,
+		1420	Vespula flaviceps,
+		1421	Bethylidae,
+		1422	Plumariidae,
+		1423	Scolebythidae,
+		1424	Mutillidae,
+		1425	Sapygidae,
+		1426	Scoliidae,
+		1427	Crabronidae,
+		1428	Sphecini,
+		1429	Sceliphrini,
+		1430	Formicoxenus,
+		1431	Leptothorax sp. CSM-2006,
+		1432	Leptothorax muscorum complex,
+		1433	Temnothorax rugatulus,
+		1434	Temnothorax tricarinatus,
+		1435	Mayriella ebbei,
+		1436	Mayriella transfuga,
+		1437	Solenopsis molesta,
+		1438	Solenopsis invicta,
+		1439	Solenopsis xyloni,
+		1440	Trichomyrmex,
+		1441	Cardiocondyla emeryi,
+		1442	Cardiocondyla mauritanica,
+		1443	Atopomyrmex,
+		1444	Nesomyrmex,
+		1445	Carebara sp. CSM-2006,
+		1446	Oligomyrmex,
+		1447	Carebara affinis,
+		1448	Carebara sp. Pheidologeton CSM-2006,
+		1449	Metaponini,
+		1450	Podomyrma,
+		1451	Lophomyrmex,
+		1452	Meranoplus cf. radamae CASENT0486686,
+		1453	Meranoplus mayri,
+		1454	Calyptomyrmex,
+		1455	Tetramorium caespitum,
+		1456	Tetramorium hispidum,
+		1457	Tetramorium validiusculum,
+		1458	Terataner sp. CSM-2006,
+		1459	Terataner sp. MAD02,
+		1460	Crematogaster emeryana,
+		1461	Crematogaster navajoa,
+		1462	Melissotarsus,
+		1463	Rhopalomastix janeti,
+		1464	Rhopalomastix rothneyi,
+		1465	Proatta,
+		1466	Xenomyrmex,
+		1467	Dilobocondyla,
+		1468	Goniomma,
+		1469	Oxyopomyrmex,
+		1470	Aphaenogaster texana,
+		1471	Aphaenogaster occidentalis,
+		1472	Messor denticornis,
+		1473	Aphaenogaster swammerdami,
+		1474	Messor julianus,
+		1475	Stenamma snellingi,
+		1476	Stenamma dyscheres,
+		1477	Messor andrei,
+		1478	Novomessor,
+		1479	Cataulacus sp. MAD02,
+		1480	Cataulacus sp. CSM-2006,
+		1481	Pogonomyrmex subdentatus,
+		1482	Pogonomyrmex maricopa,
+		1483	Ocymyrmex,
+		1484	Colobostruma,
+		1485	Eutetramorium mocquerysi,
+		1486	Eutetramorium sp. CSM-2006,
+		1487	Vollenhovia sp. CSM-2006,
+		1488	Vollenhovia emeryi,
+		1489	Myrmecina,
+		1490	Pristomyrmex,
+		1491	Manica,
+		1492	Myrmica striolagaster,
+		1493	Myrmica incompleta,
+		1494	Myrmica tahoensis,
+		1495	Wasmannia auropunctata,
+		1496	Wasmannia sp. CSM-2006,
+		1497	Megalomyrmex,
+		1498	Monomorium,
+		1499	Myrmicaria exigua,
+		1500	Myrmicaria brunnea,
+		1501	Microdaceton,
+		1502	Acanthognathus,
+		1503	Strumigenys sp. CSM-2006,
+		1504	Strumigenys dicomas,
+		1505	Pyramica hoplites,
+		1506	Pyramica pulchella,
+		1507	Phalacromyrmecini,
+		1508	Myrmicocrypta,
+		1509	Apterostigma auriculatum,
+		1510	Apterostigma sp. CSM-2006,
+		1511	Basiceros,
+		1512	Eurhopalothrix bolaui,
+		1513	Eurhopalothrix sp. CSM-2006,
+		1514	Atta,
+		1515	Acromyrmex,
+		1516	Trachymyrmex jamaicensis,
+		1517	Trachymyrmex arizonensis,
+		1518	Sericomyrmex,
+		1519	Daceton,
+		1520	Cyphomyrmex,
+		1521	Orectognathus,
+		1522	Tranopelta,
+		1523	Pheidole hyatti,
+		1524	Pheidole clydei,
+		1525	Pheidole rhea,
+		1526	Cephalotes,
+		1527	Procryptocerus batesi,
+		1528	Procryptocerus scabriusculus,
+		1529	Brachymyrmex depilis,
+		1530	Brachymyrmex sp. CSM-2006,
+		1531	Myrmelachista sp. JTL01,
+		1532	Myrmelachista sp. CSM-2006,
+		1533	Camponotus maritimus,
+		1534	Camponotus hyatti,
+		1535	Calomyrmex,
+		1536	Polyrhachis vindex,
+		1537	Polyrhachis sp. Hagio01,
+		1538	Polyrhachis sp. Cyrto01,
+		1539	Camponotus ocreatus,
+		1540	Camponotus conithorax,
+		1541	Camponotus sp. BCA01,
+		1542	Opisthopsis respiciens,
+		1543	Opisthopsis sp. CSM-2006,
+		1544	Myrmoteras williamsi,
+		1545	Myrmoteras iriodum,
+		1546	Stigmacros,
+		1547	Euprenolepis,
+		1548	Acropyga acutiventris,
+		1549	Acropyga epedana,
+		1550	Anoplolepis,
+		1551	Oecophyllini,
+		1552	Proformica,
+		1553	Cataglyphis,
+		1554	Polyergus,
+		1555	Formica wheeleri,
+		1556	Formica moki,
+		1557	Myrmecorhynchus,
+		1558	Melophorus,
+		1559	Prolasius,
+		1560	Notoncus sp. CSM-2006,
+		1561	Notoncus capitatus,
+		1562	Notostigma,
+		1563	Plagiolepis,
+		1564	Pseudolasius australis,
+		1565	Pseudolasius typhlops,
+		1566	Prenolepis,
+		1567	Nylanderia,
+		1568	Zatania,
+		1569	Lasius subgenus Lasius,
+		1570	Lasius californicus,
+		1571	Lasius latipes,
+		1572	Myrmecocystus flaviceps,
+		1573	Myrmecocystus mexicanus,
+		1574	Acanthoponera,
+		1575	Heteroponera panamensis,
+		1576	Heteroponera microps,
+		1577	Typhlomyrmecini,
+		1578	Gnamptogenys sp. CSM-2006,
+		1579	Gnamptogenys striatula,
+		1580	Ectatomma opaciventre,
+		1581	Ectatomma quadridens,
+		1582	Rhytidoponera metallica,
+		1583	Rhytidoponera chalybaea,
+		1584	Aneuretinae,
+		1585	Froggattella,
+		1586	Iridomyrmex,
+		1587	Ochetellus,
+		1588	Philidris,
+		1589	Turneria,
+		1590	Papyrius,
+		1591	Anonychomyrma gilberti,
+		1592	Anonychomyrma nitidiceps,
+		1593	Linepithema keiteli,
+		1594	Linepithema humile,
+		1595	Forelius pruinosus,
+		1596	Forelius sp. CSM-2006,
+		1597	Dorymyrmex bicolor,
+		1598	Dorymyrmex elegans,
+		1599	Azteca sp. CSM-2006,
+		1600	Azteca ovaticeps,
+		1601	Leptomyrmex sp. CSM-2006,
+		1602	Leptomyrmex erythrocephalus,
+		1603	Leptomyrmex sp. AU01,
+		1604	Bothriomyrmex,
+		1605	Dolichoderus scabridus,
+		1606	Dolichoderus imitator,
+		1607	Tapinoma opacum,
+		1608	Tapinoma sessile,
+		1609	Liometopum luctuosum,
+		1610	Liometopum apiculatum,
+		1611	Liometopum occidentale,
+		1612	Technomyrmex albipes,
+		1613	Technomyrmex sp. MAD05,
+		1614	Technomyrmex difficilis,
+		1615	Nothomyrmeciinae,
+		1616	Myrmecia fulviculis,
+		1617	Myrmecia pyriformis Smith, 1858,
+		1618	Tetraponera punctulata,
+		1619	Myrcidris,
+		1620	Pseudomyrmex gracilis,
+		1621	Pseudomyrmex apache,
+		1622	Tetraponera rufonigra,
+		1623	Tetraponera sp. CSM-2006,
+		1624	Yunodorylus,
+		1625	Cerapachys larvatus,
+		1626	Sphinctomyrmex sp. CSM-2006,
+		1627	Sphinctomyrmex steinheili,
+		1628	Simopone,
+		1629	Cerapachys augustae,
+		1630	Cylindromyrmecini,
+		1631	Acanthostichini,
+		1632	Leptanilloides mckennae,
+		1633	Leptanilloides nubecula,
+		1634	Leptanilloides nomada,
+		1635	Aenictogitoninae,
+		1636	Dorylus subgenus Dorylus,
+		1637	Dichthadia,
+		1638	Dorylus wilverthi,
+		1639	Dorylus mayri,
+		1640	Aenictus ceylonicus,
+		1641	Aenictus eugenii,
+		1642	Aenictus sp. 1 CSM-2006,
+		1643	Aenictus sp. 2 CSM-2006,
+		1644	Cerapachys sexspinus,
+		1645	Labidus,
+		1646	Neivamyrmex,
+		1647	Nomamyrmex,
+		1648	Cheliomyrmecini,
+		1649	Eciton hamatum,
+		1650	Eciton vagans,
+		1651	Concoctio,
+		1652	Prionopelta sp. 2 CSM-2006,
+		1653	Prionopelta sp. MAD01,
+		1654	Onychomyrmex,
+		1655	Apomyrminae,
+		1656	Amblyopone pallipes,
+		1657	Myopopone,
+		1658	Amblyopone mutica,
+		1659	Mystrium mysticum,
+		1660	Mystrium rogeri,
+		1661	Adetomyrma sp. 2b CSM-2006,
+		1662	Adetomyrma sp. MAD02,
+		1663	Discothyrea sp. MAD07,
+		1664	Discothyrea sp. CSM-2006,
+		1665	Proceratium sp. 1 CSM-2006,
+		1666	Proceratium sp. MAD08,
+		1667	Proceratium stictum,
+		1668	Probolomyrmex sp. CSM-2006,
+		1669	Probolomyrmex tani,
+		1670	Paraponerinae,
+		1671	Tatuidris tatusia,
+		1672	Tatuidris sp. ECU01,
+		1673	Odontomachus coquereli,
+		1674	Odontomachus clarus,
+		1675	Anochetus mayri,
+		1676	Anochetus madagascarensis,
+		1677	Odontoponera,
+		1678	Myopias,
+		1679	Leptogenys diminuta,
+		1680	Leptogenys sp. CSM-2006,
+		1681	Dinoponera,
+		1682	Cryptopone,
+		1683	Pachycondyla sikorae,
+		1684	Pachycondyla stigma,
+		1685	Diacamma,
+		1686	Hypoponera inexorata,
+		1687	Hypoponera opacior,
+		1688	Hypoponera sakalava,
+		1689	Plectroctena,
+		1690	Loboponera,
+		1691	Psalidomyrmex,
+		1692	Centromyrmex feae,
+		1693	Centromyrmex sellaris,
+		1694	Simopelta,
+		1695	Thaumatomyrmecini,
+		1696	Platythyrea mocquerysi,
+		1697	Platythyrea punctata,
+		1698	Protanilla sp. JAP01,
+		1699	Protanilla sp. CSM-2006,
+		1700	Leptanilla sp. GRE01,
+		1701	Leptanilla sp. RSA01,
+		1702	Leptanilla sp. CSM-2006,
+		1703	Bombus avanus,
+		1704	Bombus infrequens,
+		1705	Bombus parthenius,
+		1706	Bombus picipes,
+		1707	Bombus lepidus,
+		1708	Bombus lemniscatus,
+		1709	Pressibombus,
+		1710	Bombus infirmus,
+		1711	Bombus hypnorum,
+		1712	Bombus perplexus,
+		1713	Bombus haematurus,
+		1714	Bombus vosnesenskii,
+		1715	Bombus huntii,
+		1716	Bombus ternarius,
+		1717	Bombus bifarius,
+		1718	Bombus wilmattae,
+		1719	Bombus ephippiatus,
+		1720	Bombus lapponicus,
+		1721	Bombus monticola,
+		1722	Bombus bimaculatus,
+		1723	Bombus sylvicola,
+		1724	Bombus melanopygus,
+		1725	Bombus alboanalis,
+		1726	Bombus frigidus,
+		1727	Bombus cingulatus,
+		1728	Bombus jonellus,
+		1729	Bombus beaticola,
+		1730	Bombus sandersoni,
+		1731	Bombus mixtus,
+		1732	Bombus sitkensis,
+		1733	Bombus pratorum,
+		1734	Bombus brodmannicus,
+		1735	Bombus pyrenaeus,
+		1736	Bombus modestus,
+		1737	Bombus biroi,
+		1738	Bombus ardens,
+		1739	Bombus flavescens,
+		1740	Bombus vandykei,
+		1741	Bombus centralis,
+		1742	Bombus flavifrons,
+		1743	Bombus caliginosus,
+		1744	Bombus cryptarum,
+		1745	Bombus moderatus,
+		1746	Bombus lucorum,
+		1747	Bombus terricola,
+		1748	Bombus patagiatus,
+		1749	Bombus affinis,
+		1750	Bombus franklini,
+		1751	Bombus occidentalis,
+		1752	Bombus hypocrita,
+		1753	Bombus terrestris,
+		1754	Bombus sporadicus,
+		1755	Bombus ignitus,
+		1756	Bombus hyperboreus,
+		1757	Bombus neoboreus,
+		1758	Bombus balteatus,
+		1759	Bombus alpinus,
+		1760	Bombus polaris,
+		1761	Bombus morrisoni,
+		1762	Bombus volucelloides,
+		1763	Bombus melaleucus,
+		1764	Bombus robustus,
+		1765	Bombus vogti,
+		1766	Bombus tucumanus,
+		1767	Bombus hortulanus,
+		1768	Bombus ecuadorius,
+		1769	Bombus macgregori,
+		1770	Funebribombus,
+		1771	Bombus griseocollis,
+		1772	Fraternobombus,
+		1773	Crotchiibombus,
+		1774	Bombus handlirschi,
+		1775	Bombus baeri,
+		1776	Bombus coccineus,
+		1777	Rubicundobombus,
+		1778	Brachycephalobombus,
+		1779	Bombus vagans,
+		1780	Bombus apollineus,
+		1781	Bombus semenoviellus,
+		1782	Bombus rufocinctus,
+		1783	Obertobombus,
+		1784	Bombus sulfureus,
+		1785	Bombus vorticosus,
+		1786	Bombus niveatus,
+		1787	Bombus asiaticus,
+		1788	Bombus sibiricus,
+		1789	Festivobombus,
+		1790	Bombus formosellus,
+		1791	Bombus friseanus,
+		1792	Bombus rufofasciatus,
+		1793	Bombus miniatus,
+		1794	Bombus lapidarius,
+		1795	Bombus incertus,
+		1796	Bombus sichelii,
+		1797	Bombus simillimus,
+		1798	Bombus alagesianus,
+		1799	Bombus keriensis,
+		1800	Bombus ladakhensis,
+		1801	Rufipedibombus,
+		1802	Bombus breviceps,
+		1803	Bombus grahami,
+		1804	Bombus kashmirensis,
+		1805	Bombus nobilis,
+		1806	Bombus wurflenii,
+		1807	Bombus atratus,
+		1808	Bombus pullatus,
+		1809	Bombus transversalis,
+		1810	Bombus brasiliensis,
+		1811	Bombus steindachneri,
+		1812	Bombus mexicanus,
+		1813	Bombus medius,
+		1814	Bombus bellicosus,
+		1815	Bombus diligens,
+		1816	Bombus sonorus,
+		1817	Bombus pensylvanicus,
+		1818	Bombus opifex,
+		1819	Bombus californicus,
+		1820	Bombus fervidus,
+		1821	Bombus weisi,
+		1822	Bombus digressus,
+		1823	Bombus trinominatus,
+		1824	Exilobombus,
+		1825	Bombus imitator,
+		1826	Bombus tricornis,
+		1827	Bombus atripes,
+		1828	Mucidobombus,
+		1829	Eversmannibombus,
+		1830	Laseobombus,
+		1831	Bombus mesomelas,
+		1832	Bombus armeniacus,
+		1833	Bombus pomorum,
+		1834	Bombus morio,
+		1835	Bombus excellens,
+		1836	Bombus dahlbomii,
+		1837	Bombus chinensis,
+		1838	Bombus rupestris,
+		1839	Bombus cornutus,
+		1840	Bombus tibetanus,
+		1841	Bombus insularis,
+		1842	Bombus citrinus,
+		1843	Bombus variabilis,
+		1844	Bombus campestris,
+		1845	Bombus fernaldae,
+		1846	Bombus flavidus,
+		1847	Bombus norvegicus,
+		1848	Bombus quadricolor,
+		1849	Bombus skorikovi,
+		1850	Bombus sylvestris,
+		1851	Bombus bohemicus,
+		1852	Bombus ashtoni,
+		1853	Bombus vestalis,
+		1854	Bombus suckleyi,
+		1855	Bombus barbutellus,
+		1856	Bombus maxillosus,
+		1857	Bombus kulingensis,
+		1858	Bombus bicoloratus,
+		1859	Bombus tichenkoi,
+		1860	Bombus consobrinus,
+		1861	Bombus sushkini,
+		1862	Bombus koreanus,
+		1863	Bombus religiosus,
+		1864	Bombus securus,
+		1865	Bombus portchinsky,
+		1866	Bombus hortorum,
+		1867	Bombus ruderatus,
+		1868	Bombus argillaceus,
+		1869	Bombus gerstaeckeri,
+		1870	Bombus supremus,
+		1871	Bombus diversus,
+		1872	Bombus longipes,
+		1873	Bombus ussurensis,
+		1874	Bombus trifasciatus,
+		1875	Bombus personatus,
+		1876	Bombus appositus,
+		1877	Bombus borealis,
+		1878	Bombus distinguendus,
+		1879	Bombus subterraneus,
+		1880	Bombus melanurus,
+		1881	Bombus fragrans,
+		1882	Bombus difficillimus,
+		1883	Bombus haemorrhoidalis,
+		1884	Bombus funerarius,
+		1885	Kallobombus,
+		1886	Confusibombus,
+		1887	Bombus nevadensis,
+		1888	Bombus auricomus,
+		1889	Bombus handlirschianus,
+		1890	Bombus shaposhnikovi,
+		1891	Bombus mendax,
+		1892	Bombus defector,
+		1893	Bombus avinoviellus,
+		1894	Bombus waltoni,
+		1895	Bombus convexus,
+		1896	Tetragonula fuscobalteata,
+		1897	Tetragonula clypearis,
+		1898	Tetragonula pagdeni,
+		1899	Tetragonula sp. A CR-2006,
+		1900	Tetragonula cf. iridipennis CR-2006,
+		1901	Tetragonula cf. laeviceps CR-2006,
+		1902	Tetragonula sp. C CR-2006,
+		1903	Tetragonula sp. B CR-2006,
+		1904	Tetragonula minor,
+		1905	Tetragonula laeviceps,
+		1906	Tetragonula zucchii,
+		1907	Tetragonula cf. pagdeni CR-2006,
+		1908	Tetragonula sirindhornae,
+		1909	Tetragonula hirashimai,
+		1910	Tetragonilla rufibasalis,
+		1911	Tetragonilla atripes,
+		1912	Tetragonilla fuscibasis,
+		1913	Tetragonilla collina,
+		1914	Tetragonula melanocephala,
+		1915	Tetragonula geissleri,
+		1916	Tetragonula melina,
+		1917	Tetragonula sarawakensis,
+		1918	Tetragonula sapiens,
+		1919	Tetragonula carbonaria,
+		1920	Tetragonula hockingsi,
+		1921	Tetragonula mellipes,
+		1922	Homotrigona,
+		1923	Tetrigona apicalis,
+		1924	Tetrigona binghami,
+		1925	Tetrigona melanoleuca,
+		1926	Odontotrigona,
+		1927	Lophotrigona,
+		1928	Platytrigona,
+		1929	Heterotrigona itama,
+		1930	Heterotrigona bakeri,
+		1931	Heterotrigona erythrogastra,
+		1932	Lepidotrigona ventralis,
+		1933	Lepidotrigona terminata,
+		1934	Geniotrigona thoracica,
+		1935	Geniotrigona incisa,
+		1936	Leurotrigona pusilla,
+		1937	Axestotrigona,
+		1938	Meliponula ferruginea,
+		1939	Plebeiella,
+		1940	Apotrigona,
+		1941	Meliplebeia,
+		1942	Dactylurina,
+		1943	Meliponula bocandei,
+		1944	Plebeina,
+		1945	Lisotrigona,
+		1946	Austroplebeia,
+		1947	Liotrigona mahafalya,
+		1948	Liotrigona madecassa,
+		1949	Hypotrigona ruspolii,
+		1950	Hypotrigona gribodoi,
+		1951	Partamona auripennis,
+		1952	Partamona epiphytophila,
+		1953	Partamona orizabaensis,
+		1954	Meliwillea,
+		1955	Partamona musarum,
+		1956	Partamona vicina,
+		1957	Partamona testacea,
+		1958	Parapartamona fumata,
+		1959	Parapartamona tungurahuana,
+		1960	Nogueirapis butteli,
+		1961	Nogueirapis mirandula,
+		1962	Paratrigona guigliae,
+		1963	Paratrigona onorei,
+		1964	Paratrigona lineatifrons,
+		1965	Paratrigona pacifica,
+		1966	Aparatrigona,
+		1967	Paratrigona lineata,
+		1968	Ptilotrigona pereneae,
+		1969	Ptilotrigona lurida,
+		1970	Tetragona ziegleri,
+		1971	Tetragona dorsalis,
+		1972	Tetragona clavipes,
+		1973	Tetragona dissecta,
+		1974	Tetragona perangulata,
+		1975	Tetragona sp. CR-2009,
+		1976	Tetragona goettei,
+		1977	Trigona crassipes,
+		1978	Trigona hypogea,
+		1979	Trigona cf. recursa CR-2007,
+		1980	Trigona recursa,
+		1981	Trigona sp. MP109,
+		1982	Trigona amalthea,
+		1983	Trigona truculenta,
+		1984	Trigona silvestriana,
+		1985	Trigona hyalinata,
+		1986	Trigona amazonensis,
+		1987	Trigona corvina,
+		1988	Trigona cf. fuscipennis CR-2007a,
+		1989	Trigona cf. fuscipennis CR-2007b,
+		1990	Trigona albipennis,
+		1991	Trigona fuscipennis,
+		1992	Trigona spinipes,
+		1993	Trigona dallatorreana,
+		1994	Trigona nigerrima,
+		1995	Trigona guianae,
+		1996	Trigona williana,
+		1997	Trigona fulviventris,
+		1998	Trigona chanchamayoensis,
+		1999	Trigona pallens,
+		2000	Trigona cilipes,
+		2001	Trigona lacteipennis,
+		2002	Cephalotrigona sp. MP89,
+		2003	Cephalotrigona sp. MP106,
+		2004	Cephalotrigona sp. CR-2006,
+		2005	Cephalotrigona aff. capitata CR-2009,
+		2006	Cephalotrigona capitata,
+		2007	Geotrigona subgrisea,
+		2008	Geotrigona fulvatra,
+		2009	Geotrigona mombuca,
+		2010	Geotrigona kraussi,
+		2011	Geotrigona fulvohirta,
+		2012	Oxytrigona obscura,
+		2013	Oxytrigona mediorufa,
+		2014	Oxytrigona mellicolor,
+		2015	Oxytrigona tataira,
+		2016	Oxytrigona mulfordi,
+		2017	Scaptotrigona sp. A CR-2009,
+		2018	Scaptotrigona sp. B CR-2009,
+		2019	Scaptotrigona sp. C CR-2009,
+		2020	Scaptotrigona pectoralis,
+		2021	Scaptotrigona tricolorata,
+		2022	Scaptotrigona bipunctata,
+		2023	Scaptotrigona depilis,
+		2024	Scaptotrigona sp. MP103,
+		2025	Scaptotrigona mexicana,
+		2026	Scaptotrigona sp. MP102,
+		2027	Scaptotrigona polysticta,
+		2028	Scaptotrigona hellwegeri,
+		2029	Scaura latitarsis,
+		2030	Schwarzula timida,
+		2031	Schwarzula coccidophila,
+		2032	Scaura longula,
+		2033	Scaura tenuis,
+		2034	Plebeia droryana,
+		2035	Plebeia tobagoensis,
+		2036	Plebeia sp. A CR-2009,
+		2037	Plebeia frontalis,
+		2038	Friesella,
+		2039	Lestrimelitta sp. MP115,
+		2040	Lestrimelitta limao,
+		2041	Lestrimelitta sp. JS-2010,
+		2042	Lestrimelitta maracaia,
+		2043	Lestrimelitta aff. limao CR-2009,
+		2044	Plebeia sp. C CR-2009,
+		2045	Plebeia franki,
+		2046	Plebeia sp. B CR-2009,
+		2047	Plebeia minima,
+		2048	Plebeia moureana,
+		2049	Frieseomelitta trichocerata,
+		2050	Frieseomelitta varia,
+		2051	Duckeola,
+		2052	Trichotrigona,
+		2053	Frieseomelitta silvestrii,
+		2054	Tetragonisca angustula,
+		2055	Tetragonisca weyrauchi,
+		2056	Schwarziana,
+		2057	Mourella,
+		2058	Nannotrigona schultzei,
+		2059	Nannotrigona testaceicornis,
+		2060	Nannotrigona sp. MP104,
+		2061	Nannotrigona melanocera,
+		2062	Nannotrigona perilampoides,
+		2063	Melipona aff. mimetica CR-2009,
+		2064	Melipona sp. MP127,
+		2065	Melipona sp. MP85,
+		2066	Melipona sp. MP91,
+		2067	Melipona costaricaensis,
+		2068	Melipona solani,
+		2069	Melipona lateralis,
+		2070	Melipona fuscopilosa,
+		2071	Melipona sp. MP93,
+		2072	Melipona sp. MP70,
+		2073	Melipona aff. costaricaensis MP33,
+		2074	Melipona melanopleura,
+		2075	Melipona seminigra,
+		2076	Melipona panamica,
+		2077	Melipona sp. MP96,
+		2078	Melipona scutellaris,
+		2079	Melipona eburnea,
+		2080	Melipona fulva,
+		2081	Melipona fasciata,
+		2082	Melipona aff. brachychaeta CR-2009,
+		2083	Melipona sp. MP90,
+		2084	Melipona sp. B CR-2009,
+		2085	Melipona aff. rufiventris CR-2009,
+		2086	Melipona ogilviei,
+		2087	Melipona captiosa,
+		2088	Melipona melanoventer,
+		2089	Melipona crinita,
+		2090	Melipona illota,
+		2091	Melipona sp. JS-2010,
+		2092	Melipona rufiventris,
+		2093	Melipona fuliginosa,
+		2094	Melipona titania,
+		2095	Melipona marginata,
+		2096	Melipona bicolor,
+		2097	Melipona tumupasae,
+		2098	Melipona amazonica,
+		2099	Melipona triplaridis,
+		2100	Melipona compressipes,
+		2101	Melipona quinquefasciata,
+		2102	Melipona beecheii,
+		2103	Melipona grandis,
+		2104	Melipona fasciculata,
+		2105	Melipona variegatipes,
+		2106	Melipona mandacaia,
+		2107	Melipona sp. MP98,
+		2108	Melipona favosa,
+		2109	Melipona quadrifasciata,
+		2110	Melipona asilvai,
+		2111	Melipona illustris,
+		2112	Melipona bradleyi,
+		2113	Melipona micheneri,
+		2114	Trigonisca sp. B CR-2009,
+		2115	Trigonisca sp. C CR-2009,
+		2116	Trigonisca sp. A CR-2009,
+		2117	Trigonisca nataliae,
+		2118	Dolichotrigona browni,
+		2119	Dolichotrigona chachapoya,
+		2120	Trigonisca townsendi,
+		2121	Trigonisca buyssoni,
+		2122	Celetrigona,
+		2123	Trigonisca bidentata,
+		2124	Leurotrigona muelleri,
+		2125	Bombus deuteronymus,
+		2126	Bombus humilis,
+		2127	Bombus inexspectatus,
+		2128	Bombus ruderarius,
+		2129	Bombus velox,
+		2130	Bombus zonatus,
+		2131	Bombus sylvarum,
+		2132	Bombus mlokosievitzii,
+		2133	Bombus veteranus,
+		2134	Bombus muscorum,
+		2135	Bombus filchnerae,
+		2136	Bombus impetuosus,
+		2137	Bombus potanini,
+		2138	Bombus remotus,
+		2139	Bombus pascuorum,
+		2140	Bombus honshuensis,
+		2141	Bombus schrencki,
+		2142	Bombus pseudobaicalensis,
+		2143	Bombus hedini,
+		2144	Apis nigrocincta,
+		2145	Apis cerana,
+		2146	Apis koschevnikovi,
+		2147	Apis florea,
+		2148	Apis andreniformis,
+		2149	Apis dorsata,
+		2150	Ceratinidia,
+		2151	Apis mellifera,
+		2152	Eufriesea,
+		2153	Exaerete,
+		2154	Euglossa,
+		2155	Eulaema,
+		2156	Aglae,
+		2157	Centris analis,
+		2158	Centris longimana,
+		2159	Centris sp. MP124,
+		2160	Centris rhodopus,
+		2161	Centris atripes,
+		2162	Centris decolorata,
+		2163	Centris cockerelli,
+		2164	Centris hoffmanseggiae,
+		2165	Centris dimidiata,
+		2166	Epicharis sp. JS-2010,
+		2167	Epicharis sp. MP125,
+		2168	Epicharis analis,
+		2169	Zadontomerus,
+		2170	Inquilina excavata,
+		2171	Exoneura robusta,
+		2172	Exoneura nigrescens,
+		2173	Exoneura bicolor,
+		2174	Exoneura angophorae,
+		2175	Inquilina schwarzi,
+		2176	Exoneurella tridentata,
+		2177	Exoneurella setosa,
+		2178	Exoneurella eremophila,
+		2179	Exoneurella lawsoni,
+		2180	Compsomelissa keiseri,
+		2181	Compsomelissa borneri,
+		2182	Allodapula empeyi,
+		2183	Exoneuridia,
+		2184	Allodape friesei,
+		2185	Braunsapis unicolor,
+		2186	Braunsapis madecassella,
+		2187	Braunsapis vitrea,
+		2188	Macrogalea ellioti,
+		2189	Macrogalea zanzibarica,
+		2190	Manueliini,
+		2191	Xylocopa confusa,
+		2192	Lieftinckiella,
+		2193	Xylocopa provida,
+		2194	Xylocopa aruana,
+		2195	Xylocopa nobilis,
+		2196	Xylocopa lieftincki,
+		2197	Xylocopa sp. India,
+		2198	Xylocopa ogasawarensis,
+		2199	Xylocopa appendiculata,
+		2200	Xylocopa amamensis,
+		2201	Xylocopa albinotum,
+		2202	Xylocopa flavifrons,
+		2203	Xylocopa sp. KWZ10,
+		2204	Platynopoda,
+		2205	Hoploxylocopa,
+		2206	Xylocopa caerulea,
+		2207	Xenoxylocopa,
+		2208	Xylocopa pubescens,
+		2209	Xylocopa scioensis,
+		2210	Mesotrichia,
+		2211	Afroxylocopa,
+		2212	Zonohirsuta,
+		2213	Xylomelissa,
+		2214	Xylocopa auripennis,
+		2215	Xylocopa sp. KWZ5,
+		2216	Xylocopa tranquebarorum,
+		2217	Apoxylocopa,
+		2218	Xylocopa gualanensis,
+		2219	Xylocopa varipuncta,
+		2220	Megaxylocopa,
+		2221	Stenoxylocopa,
+		2222	Xylocopa micans,
+		2223	Diaxylocopa,
+		2224	Notoxylocopa,
+		2225	Xylocopa muscaria,
+		2226	Xylocopa fimbriata,
+		2227	Nyctomelitta,
+		2228	Proxylocopa,
+		2229	Perixylocopa,
+		2230	Xylocopa subgenus Xylocopa,
+		2231	Xylocopa aeratus,
+		2232	Xylocopa bombylans,
+		2233	Gnathoxylocopa,
+		2234	Ctenoxylocopa,
+		2235	Xylocopa virginica,
+		2236	Xylocopa californica,
+		2237	Copoxyla,
+		2238	Tetrapedia cf. diversipes JS-2010,
+		2239	Tetrapedia sp. JS-2010,
+		2240	Tetrapedia maura,
+		2241	Ctenoplectra albolimbata,
+		2242	Ctenoplectra polita,
+		2243	Ctenoplectra armata,
+		2244	Ctenoplectra antinorii,
+		2245	Ctenoplectra kelloggi,
+		2246	Ctenoplectra australica,
+		2247	Ctenoplectrina sp. JS-2010,
+		2248	Ctenoplectrina n. sp. HS-2007,
+		2249	Ctenoplectrina alluaudi,
+		2250	Ctenoplectra bequaerti,
+		2251	Ctenoplectra terminalis,
+		2252	Ctenoplectra florisomnis,
+		2253	Ctenoplectra davidi,
+		2254	Eucera,
+		2255	Anthophora plumipes,
+		2256	Xenoglossa,
+		2257	Peponapis,
+		2258	Tetralonia,
+		2259	Tetraloniella,
+		2260	Martinapis,
+		2261	Svastrides,
+		2262	Svastra,
+		2263	Melissodes sp. Mesp229,
+		2264	Melissodes desponsa,
+		2265	Thygater,
+		2266	Florilegus,
+		2267	Svastrina,
+		2268	Melissoptila,
+		2269	Ancyla holtzi,
+		2270	Ancyla asiatica,
+		2271	Ptilothrix,
+		2272	Diadasina,
+		2273	Melitoma,
+		2274	Alepidosceles,
+		2275	Meliphilopsis,
+		2276	Diadasia afflicta,
+		2277	Diadasia diminuta,
+		2278	Diadasia martialis,
+		2279	Diadasia bituberculata,
+		2280	Diadasia rinconis,
+		2281	Diadasia nigrifrons,
+		2282	Caenonomada,
+		2283	Tapinotaspoides,
+		2284	Paratetrapedia,
+		2285	Arhysoceble,
+		2286	Excolletes,
+		2287	Anthophorula completa,
+		2288	Anthophorula sp. 2 JS-2010,
+		2289	Anthophorula sp. 1 JS-2010,
+		2290	Ancyloscelis sp. 2 JS-2010,
+		2291	Ancyloscelis sp. 1 JS-2010,
+		2292	Townsendiellini,
+		2293	Neopasites,
+		2294	Biastes,
+		2295	Neolarrini,
+		2296	Hexepeolini,
+		2297	Doeringiella,
+		2298	Rhinepeolus,
+		2299	Thalestria,
+		2300	Triepeolus robustus,
+		2301	Triepeolus rozeni,
+		2302	Epeolus sp. JS-2010,
+		2303	Epeolus scutellaris,
+		2304	Epeolus variegatus,
+		2305	Odyneropsis,
+		2306	Paranomada,
+		2307	Brachynomada sp. JS-2010,
+		2308	Triopasites,
+		2309	Brachynomada margaretae,
+		2310	Ammobatoides,
+		2311	Holcopasites arizonicus,
+		2312	Holcopasites ruthae,
+		2313	Holcopasites calliopsidis,
+		2314	Holcopasites stevensi,
+		2315	Holcopasites minimus,
+		2316	Holcopasites insoletus,
+		2317	Nomada fucata,
+		2318	Nomada maculata,
+		2319	Nomada signata,
+		2320	Oreopasites,
+		2321	Ammobates sp. JS-2010,
+		2322	Ammobates punctatus,
+		2323	Pasites,
+		2324	Sphecodopsis,
+		2325	Caenoprosopina,
+		2326	Caenoprosopis,
+		2327	Xeromelecta,
+		2328	Melecta,
+		2329	Thyreus takaonis,
+		2330	Thyreus delumbatus,
+		2331	Zacosmia,
+		2332	Tetralonioidella,
+		2333	Leiopodus trochantericus,
+		2334	Leiopodus abnormis,
+		2335	Leiopodus sp. JS-2010,
+		2336	Leiopodus singularis,
+		2337	Epeoloides pilosula,
+		2338	Epeoloides coecutiens,
+		2339	Melectoides,
+		2340	Isepeolus wagenknechti,
+		2341	Isepeolus luctuosus,
+		2342	Isepeolus atripilis,
+		2343	Isepeolus cortesi,
+		2344	Osiris,
+		2345	Mesocheira,
+		2346	Ctenioschelus,
+		2347	Epiclopus,
+		2348	Mesonychium,
+		2349	Ericrocis,
+		2350	Mesoplia,
+		2351	Hopliphora,
+		2352	Nanorhathymus,
+		2353	Rhathymus sp. JS-2010,
+		2354	Rhathymus unicolor,
+		2355	Parepeolus,
+		2356	Coelioxoides waltheriae,
+		2357	Coelioxoides sp. JS-2010,
+		2358	Anthophora montana,
+		2359	Anthophora urbana,
+		2360	Anthophora pacifica,
+		2361	Amegilla,
+		2362	Deltoptila,
+		2363	Habropoda,
+		2364	Pachymelus,
+		2365	Osmia integra,
+		2366	Osmia xanthomelana,
+		2367	Osmia nemoris,
+		2368	Osmia juxta,
+		2369	Osmia coloradensis,
+		2370	Osmia niveata,
+		2371	Osmia aurulenta,
+		2372	Osmia montana,
+		2373	Osmia latisulcata,
+		2374	Osmia apicata,
+		2375	Osmia cornuta,
+		2376	Osmia lignaria,
+		2377	Osmia glauca,
+		2378	Osmia brevicornis,
+		2379	Osmia gallarum,
+		2380	Osmia ferruginea,
+		2381	Osmia anceps,
+		2382	Osmia difficilis,
+		2383	Osmia rhodoensis,
+		2384	Osmia tergestensis,
+		2385	Osmia bicolor,
+		2386	Osmia tingitana,
+		2387	Osmia rufohirta,
+		2388	Osmia sybarita,
+		2389	Hoplitis nasuta,
+		2390	Hoplosmia pinquis,
+		2391	Hoplosmia spinulosa,
+		2392	Hoplosmia scutellaris,
+		2393	Osmia andrenoides,
+		2394	Atoposmia elongata,
+		2395	Atoposmia hebitis,
+		2396	Atoposmia timberlakei,
+		2397	Atoposmia aff. daleae CJP-2008,
+		2398	Atoposmia mirifica,
+		2399	Ashmeadiella aff. gillettei CJP-2008,
+		2400	Ashmeadiella aridula,
+		2401	Ashmeadiella timberlakei,
+		2402	Ashmeadiella holtii,
+		2403	Ashmeadiella xenomastax,
+		2404	Atoposmia copelandica,
+		2405	Wainia,
+		2406	Hoplitis platalea,
+		2407	Hoplitis robusta,
+		2408	Hoplitis paralias,
+		2409	Hoplitis antalyae,
+		2410	Hoplitis lebanotica,
+		2411	Hoplitis incanescens,
+		2412	Hoplitis mojavensis,
+		2413	Hoplitis zuni,
+		2414	Hoplitis aff. onychophora CJP-2008,
+		2415	Hoplitis illustris,
+		2416	Hoplitis albifrons,
+		2417	Hoplitis tuberculata,
+		2418	Hoplitis leucomelana,
+		2419	Hoplitis pilosifrons,
+		2420	Hoplitis hypocrita,
+		2421	Hoplitis biscutellae,
+		2422	Hoplitis mitis,
+		2423	Hoplitis brachypogon,
+		2424	Hoplitis tridentata,
+		2425	Hoplitis annulata,
+		2426	Hoplitis adunca,
+		2427	Hoplitis tigrina,
+		2428	Hoplitis hemisphaerica,
+		2429	Hoplitis villosa,
+		2430	Hoplitis sp. CJP-2008,
+		2431	Hoplitis bisulca,
+		2432	Hoplitis villiersi,
+		2433	Hoplitis moricei,
+		2434	Stenosmia aff. aravensis CJP-2008,
+		2435	Stenosmia minima,
+		2436	Haetosmia brachyura,
+		2437	Haetosmia circumventa,
+		2438	Othinosmia aff. securicornis CJP-2008,
+		2439	Othinosmia securicornis,
+		2440	Heriades crucifer,
+		2441	Heriades punctulifer,
+		2442	Heriades truncorum,
+		2443	Hofferia,
+		2444	Othinosmia globicola,
+		2445	Protosmia rubifloris,
+		2446	Protosmia longiceps,
+		2447	Protosmia humeralis,
+		2448	Protosmia minutula,
+		2449	Chelostoma sp. 3 CJP-2008,
+		2450	Chelostoma sp. 2 CJP-2008,
+		2451	Chelostoma emarginatum,
+		2452	Chelostoma edentulum,
+		2453	Chelostoma diodon,
+		2454	Chelostoma florisomne,
+		2455	Chelostoma mocsaryi,
+		2456	Chelostoma grande,
+		2457	Chelostoma transversum,
+		2458	Chelostoma lamellum,
+		2459	Chelostoma philadelphi,
+		2460	Chelostoma ventrale,
+		2461	Chelostoma distinctum,
+		2462	Chelostoma campanularum,
+		2463	Chelostoma hellenicum,
+		2464	Chelostoma styriacum,
+		2465	Chelostoma bytinskii,
+		2466	Chelostoma laticaudum,
+		2467	Chelostoma foveolatum,
+		2468	Chelostoma fuliginosum,
+		2469	Chelostoma rapunculi,
+		2470	Chelostoma nasutum,
+		2471	Chelostoma cockerelli,
+		2472	Chelostoma minutum,
+		2473	Chelostoma marginatum,
+		2474	Chelostoma incisulum,
+		2475	Chelostoma phaceliae,
+		2476	Chelostoma californicum,
+		2477	Chelostoma aureocinctum,
+		2478	Noteriades sp. CJP-2008,
+		2479	Noteriades sp. CJP-2011,
+		2480	Megachile bombiformis,
+		2481	Megachile (Chrysosarus) sp. CJP-2011,
+		2482	Megachile microsoma,
+		2483	Megachile zapoteca,
+		2484	Megachile melanopyga,
+		2485	Megachile maritima,
+		2486	Megachile texana,
+		2487	Megachile (Aethomegachile) sp. CJP-2011,
+		2488	Megachile pilidens,
+		2489	Megachile nevadensis,
+		2490	Megachile parallela,
+		2491	Megachile sidalceae,
+		2492	Megachile fimbriata,
+		2493	Megachile patellimana,
+		2494	Megachile mandibularis,
+		2495	Megachile albisecta,
+		2496	Megachile fabricator,
+		2497	Megachile pugnata,
+		2498	Megachile angelarum,
+		2499	Megachile spinotulata,
+		2500	Megachile parietina,
+		2501	Megachile maxillosa,
+		2502	Megachile (Chelostomoda) sp. CJP-2011,
+		2503	Megachile sculpturalis,
+		2504	Megachile (Largella) sp. CJP-2011,
+		2505	Megachile ericetorum,
+		2506	Megachile (Rhodomegachile) sp. CJP-2011,
+		2507	Megachile (Hackeriapis) sp. CJP-2011,
+		2508	Megachile remeata,
+		2509	Megachile aethiops,
+		2510	Megachile (Austrochile) sp. CJP-2011,
+		2511	Radoszkowskiana,
+		2512	Coelioxys alternata,
+		2513	Coelioxys afra,
+		2514	Afroheriades sp. CJP-2008,
+		2515	Afroheriades primus,
+		2516	Ochreriades,
+		2517	Eoanthidium,
+		2518	Benanthis,
+		2519	Pachyanthidium,
+		2520	Icteranthidium,
+		2521	Rhodanthidium,
+		2522	Dianthidium subparvum,
+		2523	Anthidiellum,
+		2524	Dianthidium arizonicum,
+		2525	Paranthidium,
+		2526	Stelis punctulatissima,
+		2527	Stelis sp. paiute,
+		2528	Stelis linsleyi,
+		2529	Notanthidium,
+		2530	Epanthidium,
+		2531	Hypanthidium,
+		2532	Duckeanthidium,
+		2533	Hypanthidioides,
+		2534	Anthodioctes,
+		2535	Pseudoanthidium,
+		2536	Anthidium porterae,
+		2537	Anthidium illustre,
+		2538	Anthidium punctatum,
+		2539	Anthidium oblongatum,
+		2540	Afranthidium,
+		2541	Serapista,
+		2542	Trachusa larreae,
+		2543	Trachusa pubescens,
+		2544	Trachusa byssina,
+		2545	Paradioxys,
+		2546	Dioxys pomonae,
+		2547	Dioxys moesta,
+		2548	Aglaoapis,
+		2549	Aspidosmia arnoldi,
+		2550	Aspidosmia volkmanni,
+		2551	Pararhophites quadratus,
+		2552	Pararhophites orobinus,
+		2553	Lithurgus pullatus,
+		2554	Lithurgus scabrosus,
+		2555	Lithurgus apicalis,
+		2556	Lithurgus echinocacti,
+		2557	Microthurge,
+		2558	Trichothurgus,
+		2559	Lithurgus rubricatus,
+		2560	Lithurgus chrysurus,
+		2561	Lithurgus tibialis,
+		2562	Neofidelia longirostris,
+		2563	Neofidelia profuga,
+		2564	Neofidelia sp. JS-2010,
+		2565	Fidelia villosa,
+		2566	Fidelia kobrowi,
+		2567	Fidelia paradoxa,
+		2568	Fideliopsis ornata,
+		2569	Fideliopsis hessei,
+		2570	Fideliopsis major,
+		2571	Fidelia braunsiana,
+		2572	Fidelia ulrikei,
+		2573	Fidelia pallidula,
+		2574	Fidelia friesei,
+		2575	Leioproctus conospermi,
+		2576	Leioproctus pappus,
+		2577	Protomorpha,
+		2578	Goniocolletes fimbriatinus,
+		2579	Goniocolletes perfasciatus,
+		2580	Colletellus,
+		2581	Glossurocolletes,
+		2582	Odontocolletes asper,
+		2583	Odontocolletes pachydontus,
+		2584	Leioproctus sp. EABA-2006,
+		2585	Andrenopsis,
+		2586	Neopasiphae,
+		2587	Lamprocolletes,
+		2588	Leioproctus megachalcoides,
+		2589	Leioproctus lanceolatus,
+		2590	Leioproctus irroratus,
+		2591	Leioproctus plumosus,
+		2592	Leioproctus platycephalus,
+		2593	Euryglossidia sp. 5 EABA-2006,
+		2594	Euryglossidia sp. 1 EABA-2006,
+		2595	Euryglossidia sp. 2 EABA-2006,
+		2596	Euryglossidia sp. 3 EABA-2006,
+		2597	Euryglossidia sp. 4 EABA-2006,
+		2598	Phenacolletes,
+		2599	Reedapis,
+		2600	Cephalocolletes isabelae,
+		2601	Cephalocolletes laticeps,
+		2602	Leioproctus sp. BND-2004,
+		2603	Chilicolletes,
+		2604	Perditomorpha leucostoma,
+		2605	Perditomorpha brunerii,
+		2606	Brachyglossula,
+		2607	Tetraglossula,
+		2608	Hexantheda,
+		2609	Perditomorpha rufiventris,
+		2610	Perditomorpha stilborhina,
+		2611	Kylopasiphae pruinosa,
+		2612	Kylopasiphae sp. EABA-2006,
+		2613	Hoplocolletes,
+		2614	Eulonchopria simplicicrus,
+		2615	Eulonchopria punctatissima,
+		2616	Nomiocolletes,
+		2617	Niltonia,
+		2618	Spinolapis sp. EABA-2006,
+		2619	Spinolapis caerulescens,
+		2620	Edwyniana,
+		2621	Belopria,
+		2622	Halictanthrena,
+		2623	Perditomorpha sp. EABA-2006,
+		2624	Baeocolletes sp. EABA-2006,
+		2625	Baeocolletes minimus,
+		2626	Lonchopria robertsi,
+		2627	Lonchopria similis,
+		2628	Lonchopria sp. EABA-2006,
+		2629	Trichocolletes sp. BND-2004,
+		2630	Trichocolletes venustus,
+		2631	Paracolletes frederici,
+		2632	Paracolletes robustus,
+		2633	Gongyloprosopis,
+		2634	Hylaeus inquilina,
+		2635	Hylaeus hula,
+		2636	Hylaeus difficilis,
+		2637	Hylaeus pele,
+		2638	Hylaeus anthracinus,
+		2639	Hylaeus solaris,
+		2640	Hylaeus longiceps,
+		2641	Hylaeus kauaiensis,
+		2642	Hylaeus pubescens,
+		2643	Hylaeus connectens,
+		2644	Hylaeus kokeensis,
+		2645	Hylaeus kona,
+		2646	Hylaeus globula,
+		2647	Hylaeus modestus,
+		2648	Hylaeus affinis,
+		2649	Spatulariella,
+		2650	Paraprosopis,
+		2651	Deranchylaeus,
+		2652	Hylaeus subgenus Hylaeus,
+		2653	Hylaeus amiculus,
+		2654	Gnathoprosopoides,
+		2655	Hylaeus albonitens,
+		2656	Hylaeus burnsi,
+		2657	Hylaeus elegans,
+		2658	Hylaeus disjunctus,
+		2659	Hylaeus quadratus,
+		2660	Macrohylaeus,
+		2661	Hylaeus proximus,
+		2662	Hylaeus constrictiformis,
+		2663	Hylaeus cyanurus,
+		2664	Hylaeus ruficeps,
+		2665	Hylaeus eugeniellus,
+		2666	Hylaeus bidentatus,
+		2667	Gephyrohylaeus,
+		2668	Hylaeus primulipictus,
+		2669	Hylaeus extensus,
+		2670	Hylaeus exleyae,
+		2671	Hylaeus vittatifrons,
+		2672	Hylaeus aralis,
+		2673	Pseudhylaeus,
+		2674	Edriohylaeus,
+		2675	Xenohylaeus,
+		2676	Planihylaeus,
+		2677	Hylaeus microphenax,
+		2678	Amphylaeus,
+		2679	Meroglossa itamuca,
+		2680	Meroglossa striaticeps,
+		2681	Hylaeorhiza,
+		2682	Callorhiza,
+		2683	Cnemidorhiza,
+		2684	Palaeorhiza subgenus Palaeorhiza,
+		2685	Heterorhiza,
+		2686	Hyleoides,
+		2687	Xeromelissa,
+		2688	Chilimelissa chusmiza,
+		2689	Chilimelissa rosie,
+		2690	Chilimelissa irwini,
+		2691	Chilimelissa sp. 1 EABA-2006,
+		2692	Chilimelissa nortina,
+		2693	Chilimelissa rozeni,
+		2694	Chilimelissa australis,
+		2695	Geodiscelis,
+		2696	Xenochilicola,
+		2697	Chilicola vicugna,
+		2698	Chilicola inermis,
+		2699	Chilicola rostrata,
+		2700	Chilicola styliventris,
+		2701	Chilicola herbsti,
+		2702	Scrapter erubescens,
+		2703	Scrapter heterodoxus,
+		2704	Scrapter ruficornis,
+		2705	Scrapter algoensis,
+		2706	Scrapter niger,
+		2707	Euhesma crabronica,
+		2708	Euhesma platyrhina,
+		2709	Callohesma,
+		2710	Xanthesma,
+		2711	Euryglossa,
+		2712	Euhesma sp. EABA-2006,
+		2713	Euryglossina,
+		2714	Hemicotelles,
+		2715	Colletes seminitidus,
+		2716	Colletes floralis,
+		2717	Colletes simulans,
+		2718	Colletes inaequalis,
+		2719	Colletes thoracicus,
+		2720	Colletes pascoensis,
+		2721	Colletes distinctus,
+		2722	Colletes skinneri,
+		2723	Colletes dimidiatus,
+		2724	Colletes compactus,
+		2725	Colletes furfuraceus,
+		2726	Colletes sp. EABA-2006,
+		2727	Colletes bicolor,
+		2728	Mourecotelles,
+		2729	Xanthocotelles,
+		2730	Paracolletes crassipes,
+		2731	Caupolicana yarrowi,
+		2732	Willinkapis,
+		2733	Zikanapis,
+		2734	Ptiloglossa thoracica,
+		2735	Ptiloglossa sp. EABA-2006,
+		2736	Ptiloglossa tarsata,
+		2737	Caupolicana vestita,
+		2738	Caupolicana bicolor,
+		2739	Caupolicana quadrifasciata,
+		2740	Cadegualina,
+		2741	Diphaglossa,
+		2742	Cadeguala albopilosa,
+		2743	Cadeguala occidentalis,
+		2744	Ptiloglossidia,
+		2745	Mydrosoma,
+		2746	Callomelitta,
+		2747	Ctenocolletes nigricans,
+		2748	Stenotritus,
+		2749	Ctenocolletes rufescens,
+		2750	Ctenocolletes smaragdinus,
+		2751	Curvinomia,
+		2752	Hoplonomia,
+		2753	Nomia,
+		2754	Lipotriches australica,
+		2755	Lipotriches patellifera,
+		2756	Macronomia aureozonata,
+		2757	Macronomia sanguinolenta,
+		2758	Pseudapis unidentata,
+		2759	Pseudapis obesula,
+		2760	Dieunomia heteropoda,
+		2761	Dieunomia nevadensis,
+		2762	Dieunomia triangulifera,
+		2763	Cellariella,
+		2764	Nomioides no rank Nomioides,
+		2765	Atronomioides,
+		2766	Lasioglossum duplex,
+		2767	Lasioglossum calceatum,
+		2768	Lasioglossum albipes,
+		2769	Lasioglossum nigripes,
+		2770	Lasioglossum lineare,
+		2771	Lasioglossum mediterraneum,
+		2772	Lasioglossum laticeps,
+		2773	Lasioglossum malachurum,
+		2774	Lasioglossum apristum,
+		2775	Lasioglossum truncatum,
+		2776	Lasioglossum noctivagum,
+		2777	Lasioglossum oenotherae,
+		2778	Lasioglossum pauxillum,
+		2779	Lasioglossum subtropicum,
+		2780	Lasioglossum fulvicorne,
+		2781	Lasioglossum comagenense,
+		2782	Lasioglossum quebecense,
+		2783	Lasioglossum boreale,
+		2784	Lasioglossum brevicorne,
+		2785	Lasioglossum limbellum,
+		2786	Lasioglossum lucidulum,
+		2787	Lasioglossum villosulum,
+		2788	Lasioglossum puncticolle,
+		2789	Hemihalictus,
+		2790	Lasioglossum pectorale,
+		2791	Sudila,
+		2792	Lasioglossum inconditum,
+		2793	Lasioglossum cinctipes,
+		2794	Lasioglossum politum,
+		2795	Lasioglossum marginatum,
+		2796	Lasioglossum umbripenne,
+		2797	Lasioglossum gundlachii,
+		2798	Lasioglossum hyalinum,
+		2799	Lasioglossum tegulare,
+		2800	Lasioglossum parvum,
+		2801	Lasioglossum vierecki,
+		2802	Lasioglossum zephyrum,
+		2803	Lasioglossum asteris,
+		2804	Lasioglossum imitatum,
+		2805	Lasioglossum pilosum,
+		2806	Lasioglossum cressonii,
+		2807	Lasioglossum rohweri,
+		2808	Lasioglossum gattaca,
+		2809	Lasioglossum morio,
+		2810	Lasioglossum figueresi,
+		2811	Lasioglossum interruptum,
+		2812	Lasioglossum scitulum,
+		2813	Lasioglossum zonulum,
+		2814	Lasioglossum lanarium,
+		2815	Lasioglossum florale,
+		2816	Ctenonomia,
+		2817	Homalictus megastigmus,
+		2818	Homalictus punctatum,
+		2819	Parasphecodes,
+		2820	Lasioglossum athabascense,
+		2821	Lasioglossum fuscipenne,
+		2822	Lasioglossum titusi,
+		2823	Lasioglossum sisymbrii,
+		2824	Lasioglossum pavonotum,
+		2825	Thrincohalictus,
+		2826	Halictus kessleri,
+		2827	Vestitohalictus,
+		2828	Halictus tripartitus,
+		2829	Halictus rubicundus,
+		2830	Halictus quadricinctus,
+		2831	Halictus scabiosae,
+		2832	Halictus ligatus,
+		2833	Mexalictus,
+		2834	Patellapis n. sp. 66,
+		2835	Patellapis (Chaetalictus) sp. BND-2001,
+		2836	Patellapis minima,
+		2837	Patellapis malachurina,
+		2838	Patellapis (Lomatalictus) sp. BND-2001,
+		2839	Patellapis coccinea,
+		2840	Patellapis lyalli,
+		2841	Patellapis inelegans,
+		2842	Archihalictus,
+		2843	Patellapis castanea,
+		2844	Pachyhalictus,
+		2845	Patellapis zacephala,
+		2846	Patellapis (Zonalictus) sp. BND-2007,
+		2847	Patellapis abessinica,
+		2848	Patellapis andreniformis,
+		2849	Patellapis albofasciata,
+		2850	Patellapis vittata,
+		2851	Patellapis (Zonalictus) sp. BND-2006,
+		2852	Patellapis cf. minutior BND-2007,
+		2853	Patellapis n. sp. 10,
+		2854	Patellapis n. sp. 114,
+		2855	Patellapis montagui,
+		2856	Patellapis braunsella,
+		2857	Thrinchostoma lemuriae,
+		2858	Thrinchostoma conjugens,
+		2859	Thrinchostoma kandti,
+		2860	Parathrincostoma,
+		2861	Thrinchostoma torridum,
+		2862	Sphecodes minor,
+		2863	Sphecodes clematidis,
+		2864	Sphecodes autumnalis,
+		2865	Sphecodes confertus,
+		2866	Eupetersia,
+		2867	Sphecodes ranunculi,
+		2868	Sphecodes pecosensis,
+		2869	Sphecodes sp. Spsp1055,
+		2870	Ruizantheda proxima,
+		2871	Pseudagapostemon pissisi,
+		2872	Pseudagapostemon brasiliensis,
+		2873	Ruizantheda mutabilis,
+		2874	Habralictus,
+		2875	Caenohalictus sp. BND-2,
+		2876	Caenohalictus sp. BND-3,
+		2877	Rhinetula,
+		2878	Dinagapostemon sp. BND-2,
+		2879	Dinagapostemon sp. BND-1,
+		2880	Agapostemon tyleri,
+		2881	Agapostemon kohliellus,
+		2882	Agapostemon leunculus,
+		2883	Megalopta cf. aeneicollis BOLI A5,
+		2884	Megalopta fornix,
+		2885	Megalopta aff. fornix ECUA G1,
+		2886	Megalopta sodalis,
+		2887	Megalopta cf. genalis FRGU E9,
+		2888	Megalopta aff. fornix ECUA E1,
+		2889	Megalopta sp. morph-j,
+		2890	Megalopta cf. fornix PERU C6,
+		2891	Megalopta cf. aeneicollis BOLI A4,
+		2892	Megalopta aeneicollis,
+		2893	Megalopta cf. genalis FRGU A3,
+		2894	Megalopta sp. morph-p,
+		2895	Megalopta cf. genalis ECUA D2,
+		2896	Megalopta cf. genalis ECUA A1,
+		2897	Megalopta genalis,
+		2898	Megalopta byroni,
+		2899	Megalopta centralis,
+		2900	Xenochlora,
+		2901	Megalopta atra,
+		2902	Megaloptidia saulensis,
+		2903	Megaloptidia nocturna,
+		2904	Megommation,
+		2905	Augochlora,
+		2906	Augochlorella,
+		2907	Neocorynura,
+		2908	Augochloropsis,
+		2909	Corynura,
+		2910	Goeletapis,
+		2911	Penapis toroi,
+		2912	Penapis penai,
+		2913	Sphecodosoma beameri,
+		2914	Dufourea spinifera,
+		2915	Dufourea novaeangliae,
+		2916	Dufourea spirula,
+		2917	Dufourea malacothricis,
+		2918	Dufourea mulleri,
+		2919	Dufourea holocyana,
+		2920	Rophites,
+		2921	Systropha glabriventris,
+		2922	Systropha planidens,
+		2923	Systropha curvicornis,
+		2924	Sphecodosoma pratti,
+		2925	Protodufourea,
+		2926	Xeralictus bicuspidariae,
+		2927	Xeralictus timberlakei,
+		2928	Conanthalictus conanthi,
+		2929	Conanthalictus wilmattae,
+		2930	Oxaeinae,
+		2931	Panurgus perezi,
+		2932	Panurgus cephalotes,
+		2933	Panurgus maroccanus,
+		2934	Panurgus banksianus,
+		2935	Panurgus pyropygus,
+		2936	Panurgus niloticus,
+		2937	Panurgus dentatus,
+		2938	Panurgus pici,
+		2939	Panurgus dentipes,
+		2940	Panurgus calcaratus,
+		2941	Panurgus convergens,
+		2942	Panurgus rungsi,
+		2943	Panurgus farinosus,
+		2944	Panurgus nigriscopus,
+		2945	Panurgus canescens,
+		2946	Panurgus calceatus,
+		2947	Perdita californica,
+		2948	Perdita halictoides,
+		2949	Macrotera latior,
+		2950	Macrotera echinocacti,
+		2951	Perdita trisignata,
+		2952	Neffapis,
+		2953	Plesiopanurgus,
+		2954	Meliturgula scriptifrons,
+		2955	Meliturgula minima,
+		2956	Meliturgula haematospila,
+		2957	Panurginus,
+		2958	Clavipanurgus,
+		2959	Melitturga clavicornis,
+		2960	Melitturga albescens,
+		2961	Camptopoeum frontale,
+		2962	Camptopoeum negevense,
+		2963	Pseudopanurgus,
+		2964	Protandrena verbesinae,
+		2965	Protandrena mexicanorum,
+		2966	Arhysosage,
+		2967	Callonychium,
+		2968	Calliopsis anthidia,
+		2969	Calliopsis fracta,
+		2970	Calliopsis subalpina,
+		2971	Calliopsis pugionis,
+		2972	Nolanomelissini,
+		2973	Megandrena,
+		2974	Simandrena,
+		2975	Andrena albopunctata,
+		2976	Andrena cineraria,
+		2977	Callandrena,
+		2978	Alocandrena,
+		2979	Euherbstia,
+		2980	Orphana,
+		2981	Hesperapis regularis,
+		2982	Hesperapis larreae,
+		2983	Hesperapis trochanterata,
+		2984	Hesperapis cockerelli,
+		2985	Hesperapis rhodocerata,
+		2986	Hesperapis sp. Hesp940,
+		2987	Capicola nigerrima,
+		2988	Capicola nanula,
+		2989	Capicola hantamensis,
+		2990	Eremaphanta,
+		2991	Samba fasciata,
+		2992	Samba atra,
+		2993	Samba griseonigra,
+		2994	Samba spinosa,
+		2995	Samba ogilviei,
+		2996	Dasypoda pyrotricha,
+		2997	Dasypoda oraniensis,
+		2998	Dasypoda dusmeti,
+		2999	Dasypoda hirtipes,
+		3000	Dasypoda pyriformis,
+		3001	Dasypoda visnaga,
+		3002	Dasypoda spinigera,
+		3003	Dasypoda argentata,
+		3004	Dasypoda braccata,
+		3005	Dasypoda suripes,
+		3006	Dasypoda frieseana,
+		3007	Redivivoides,
+		3008	Rediviva mcgregori,
+		3009	Rediviva saetigera,
+		3010	Melitta ezoana,
+		3011	Melitta nigricans,
+		3012	Melitta tricincta,
+		3013	Melitta leporina,
+		3014	Melitta dimidiata,
+		3015	Melitta haemorrhoidalis,
+		3016	Melitta eickworti,
+		3017	Melitta capensis,
+		3018	Melitta arrogans,
+		3019	Promelittini,
+		3020	Macropis nuda,
+		3021	Macropis fulvipes,
+		3022	Macropis europaea,
+		3023	Meganomiinae,
+		3024	Gasteruption,
+		3025	Pseudofoenus,
+		3026	Pristaulacus,
+		3027	Aulacus,
+		3028	Brachygaster,
+		3029	Evania,
+		3030	Evaniella,
+		3031	Evaniscus rufithorax,
+		3032	Evaniscus sulcigenis,
+		3033	Evaniscus marginatus,
+		3034	Evaniscus tibialis,
+		3035	Taeniogonalos,
+		3036	Orthogonalys,
+		3037	Megalyroidea,
+		3038	Ceraphronidae,
+		3039	Megaspilus,
+		3040	Lagynodes,
+		3041	Schlettererinae,
+		3042	Stephaninae,
+		3043	Orussus,
+		3044	Orussobaius,
+		3045	Derecyrta,
+		3046	Xiphydria,
+		3047	Anaxyelidae,
+		3048	Sirex,
+		3049	Tremex,
+		3050	Urocerus,
+		3051	Hartigia,
+		3052	Cephus,
+		3053	Sterictiphora,
+		3054	Atomacera,
+		3055	Decameria,
+		3056	Heteroperreyia,
+		3057	Blasticotomidae,
+		3058	Heterarthrinae,
+		3059	Tenthrediniinae,
+		3060	Diprionidae,
+		3061	Cimbicidae,
+		3062	Athalia,
+		3063	Ametastegia,
+		3064	Cephalciinae,
+		3065	Pamphiliinae,
+		3066	Macroxyela,
+		3067	Xyela,
+		3068	Aleyrodiformes,
+		3069	Pachypsylla,
+		3070	Diaphorina,
+		3071	Coccoidea,
+		3072	Toxoptera,
+		3073	Myzus,
+		3074	Acyrthosiphon,
+		3075	Aphis subgenus Aphis,
+		3076	Prosorrhyncha,
+		3077	Tettigellinae,
+		3078	Cicadellinae,
+		3079	Peregrinus,
+		3080	Nilaparvata,
+		3081	Austrogoniodes concii,
+		3082	Austrogoniodes bicornutus,
+		3083	Austrogoniodes hamiltoni,
+		3084	Austrogoniodes keleri,
+		3085	Austrogoniodes macquariensis,
+		3086	Austrogoniodes brevipes,
+		3087	Austrogoniodes mawsoni,
+		3088	Austrogoniodes waterstoni,
+		3089	Austrogoniodes bifasciatus,
+		3090	Austrogoniodes demersus,
+		3091	Austrogoniodes vanalphenae,
+		3092	Austrogoniodes cristati,
+		3093	Austrogoniodes gressitti,
+		3094	Austrogoniodes antarcticus,
+		3095	Austrogoniodes metoecus,
+		3096	Entomobryomorpha,
+		3097	Onychiuridae,
+		3098	Neanuridae
+	;
+	TREE * UNTITLED = [&R] ((1,(2,(3,(4,((((5,(((6,7)NA,8)NA,9,((((((((((((((((((((((((((10,11)NA,12)NA,((13,14)NA,15)NA)NA,16)NA,17)NA,18)NA,(19,(20,21)Archimantini)NA)NA,((((((22,((23,24)NA,(25,26)NA)Vates)NA,(27,28)Phyllovates)NA,(29,(30,31)NA)Parastagmatoptera)NA,32)NA,(33,34)Stagmatoptera)NA,(35,(((36,37)NA,38)NA,((((39,40)NA,41)NA,(42,43)NA)NA,44)NA)Stagmomantinae)NA)NA)NA,((45,(46,47)Sphodromantis)NA,(((48,49)NA,50)NA,(51,52)Tenodera)Polyspilotini)NA)NA,53)NA,54)NA,((55,56)Orthoderinae,(57,58)Choeradodinae)NA)NA,((59,60)NA,(61,((62,63)NA,64)NA)Statilia)NA)NA,((((65,66)NA,(67,68)NA)NA,(69,70)NA)NA,((71,72)NA,(73,((74,75)NA,76)NA)Deroplatyinae)NA)NA)NA,(((((((((((77,78)NA,79)NA,(80,81)NA)NA,82)NA,(83,84)NA)NA,(((((85,86)NA,87)NA,88)NA,89)NA,((90,91)NA,92)Otomantis)NA)NA,((((93,94)NA,(95,96)NA)NA,(97,98)Ceratomantis)NA,(99,((((100,101)NA,102)NA,103)NA,104)Oxypilus)NA)NA)NA,(105,(106,107)Phyllothelys)Phyllotheliinae)NA,(((((108,(109,110)Panurgica)NA,111)NA,((112,113)NA,114)Creobroter)NA,(115,116)NA)NA,(117,(118,119)Anaxarcha)NA)NA)NA,(120,((121,122)NA,123)Sibyllidae)NA)NA,(((124,(125,126)Empusa)NA,127)Empusinae,(128,129)Blepharodinae)Empusidae)NA)NA,((130,131)NA,132)NA)NA,((133,134)NA,(135,(136,((137,138)NA,(139,140)NA)NA)Miomantis)NA)NA)NA,((141,142)NA,(143,144)NA)Hoplocoryphinae)NA,(((((((((145,(146,147)NA)Toxoderidae,(148,149)Oxyothespinae)NA,150)NA,151)NA,(((152,153)NA,154)NA,((155,156)NA,157)Dysaules)NA)NA,((158,159)NA,(160,161)Eremiaphilidae)NA)NA,((((((((162,163)NA,164)NA,165)NA,166)NA,(167,168)NA)NA,169)NA,(170,171)Nothogalepsus)NA,172)NA)NA,173)NA,(174,((175,(176,177)Deiphobe)NA,178)Rivetinini)NA)NA)NA,(((179,180)NA,181)NA,182)NA)NA,(((((183,184)NA,(185,(186,187)Humbertiella)NA)NA,188)NA,(189,(190,191)Elmantis)NA)NA,((192,(193,((194,195)NA,196)NA)Amantis)NA,197)NA)NA)NA,((((((((198,199)NA,(((200,(201,202)Cliomantis)NA,(203,204)Paraoxypilus)Paraoxypilinae,(205,206)Bolbe)NA)NA,((207,208)NA,(209,210)NA)NA)NA,(211,212)NA)NA,((((213,(214,215)NA)Bolbena,(216,217)Hapalomantis)NA,218)NA,((219,(220,221)Eomantis)NA,222)NA)NA)NA,(((((223,224)NA,225)NA,((226,227)NA,228)NA)NA,(229,230)NA)NA,231)NA)NA,(232,((233,234)NA,235)NA)Leptomantella)NA,(((((((236,(237,238)Ligariella)NA,239)NA,(240,(241,242)Ligentella)NA)NA,(243,244)NA)NA,(((245,246)NA,247)NA,(248,249)NA)NA)NA,(250,251)Tarachina)NA,252)NA)NA)NA,(253,254)Metallyticidae)NA,((((((((255,256)NA,257)NA,(258,259)NA)NA,(260,(261,262)Thesprotiella)NA)NA,263)NA,((264,265)NA,266)NA)NA,((267,(268,269)Thrinaconyx)NA,270)NA)NA,(((((((271,272)NA,273)NA,274)NA,275)NA,(((276,277)NA,(278,279)NA)Acanthopinae,(280,(281,(282,283)NA)Raptrix)Acontiothespinae)Acanthopidae)NA,(284,(285,286)Liturgusa)NA)NA,(287,(288,289)Coptopteryx)NA)NA)NA)NA,((290,291)NA,((292,293)NA,294)NA)Mantoididae)NA,295)Mantodea)Dictyoptera)NA,(296,(297,298)Ensifera)Orthoptera)NA,(299,((((((((300,(301,302)Irdex)NA,303)NA,(304,(305,(306,307)Chelisoches)Chelisochidae)NA)NA,((((((308,309)NA,(310,311)NA)NA,312)NA,313)NA,(314,(315,316)Forficula)NA)Forficulidae,(317,318)Hemimerina)NA)NA,((319,(320,321)Forcipula)NA,(322,323)Nala)Labiduridae)NA,(((324,325)NA,326)NA,(327,328)NA)NA)NA,329)NA,((330,331)NA,((332,333)NA,334)Echinosoma)Pygidicranoidea)Dermaptera)NA)NA,(((((((((335,(336,337)Nannochoristidae)NA,(338,339)Boreidae)NA,340)Mecoptera,(341,342)Siphonaptera)NA,(((((((((((((((343,344)NA,345)NA,((346,347)NA,348)NA)NA,349)NA,(350,351)NA)NA,(352,353)NA)NA,354)NA,(355,356)NA)NA,(357,358)Anisopodidae)NA,(((359,(((360,((((((((361,362)NA,363)NA,364)NA,((365,366)NA,((367,368)NA,((((((((((((((((((369,370)NA,371)NA,372)NA,((373,374)NA,375)NA)NA,(((376,(377,378)guarani_subgroup)NA,(379,380)NA)NA,(381,(382,(383,384)dunni_subgroup)NA)cardini_group)NA)NA,385)NA,(((386,387)NA,388)NA,(389,390)NA)NA)NA,(((391,392)NA,393)NA,394)NA)NA,395)NA,(396,397)NA)NA,(398,(((399,(((400,401)NA,(402,403)NA)NA,404)nasuta_subgroup)NA,(405,406)hypocausta_subgroup)NA,407)NA)immigrans_group)NA,((408,(((409,(410,411)tuberculatus_subgroup)NA,412)NA,413)Zaprionus)NA,414)NA)NA,(((415,416)NA,417)NA,(418,419)NA)NA)NA,(((((((((420,421)mesophragmatica_group,(((((422,(423,424)repleta_subgroup)NA,425)NA,((((426,427)NA,428)NA,(429,430)NA)NA,431)mulleri_subgroup)NA,432)NA,433)repleta_group)NA,434)NA,((435,436)bromeliae_group,(437,438)nannoptera_group)NA)NA,439)NA,(440,441)NA)NA,((442,443)NA,(444,(445,446)Drosophila_americana)NA)virilis_group)NA,((((447,448)NA,449)NA,450)NA,(((451,452)NA,453)NA,(454,455)NA)melanica_group)NA)NA,((456,((((457,458)NA,459)NA,460)NA,(461,(462,(463,464)grimshawi_subgroup)grimshawi_clade)NA)NA)Hawaiian_Drosophila,(((465,466)NA,467)NA,468)Scaptomyza)NA)NA)NA,469)NA,470)NA,((((471,(472,(473,474)NA)willistoni_subgroup)willistoni_group,(((475,476)NA,477)NA,478)saltans_group)NA,479)NA,((((((((((480,(481,482)takahashii_subgroup)NA,483)NA,484)NA,485)NA,((((486,487)NA,488)NA,489)NA,(((490,491)NA,492)NA,493)NA)melanogaster_subgroup)NA,494)NA,((495,496)NA,497)NA)NA,((((((498,499)NA,(500,501)NA)NA,((502,503)NA,504)NA)NA,(505,506)NA)NA,507)NA,508)montium_subgroup)NA,((((509,(510,511)ananassae_species_complex)NA,((512,513)NA,514)bipectinata_species_complex)NA,515)NA,516)ananassae_subgroup)melanogaster_group,((((517,518)NA,519)NA,((520,(521,522)NA)pseudoobscura_subgroup,((523,524)NA,525)affinis_subgroup)NA)NA,(526,527)NA)obscura_group)NA)NA)NA,((((528,(529,530)Scaptodrosophila_lebanonensis)NA,531)NA,532)NA,(533,534)Chymomyza)NA)NA)Drosophilidae)NA)NA,((535,536)NA,537)Ephydridae)NA,((((((538,539)NA,(((((540,541)NA,(542,(543,544)Tachininae)NA)NA,545)NA,546)NA,(547,(548,549,(550,(((((((((((551,552)NA,553)NA,(554,555)NA,556)NA,(557,558)NA,559,560,561,(562,563)NA,564,565,566)NA,((567,568)NA,569)NA,(570,571)NA)NA,(((572,573)NA,574,575,576,577,578)NA,(579,580)NA,581,582,583)NA,584,585,586,587,588)NA,589)NA,((((((590,591)NA,(592,593)NA)NA,(594,595)NA)NA,((596,597)NA,598)NA)NA,((599,600)NA,601)NA)NA,602)NA)NA,603)NA,(((((((604,605)NA,606)NA,607)NA,608)NA,609)NA,(610,611)NA)NA,(((((612,613)NA,614)NA,615)NA,616)NA,617)NA)NA)NA,618)NA)Sarcophaga)Sarcophagidae)NA)Oestroidea)NA,(619,(620,621)Muscinae)Muscidae)NA,622)NA,(623,(624,625)Hippoboscidae)NA)NA,626)Calyptratae)NA,((((627,628)Agromyzidae,(629,630)Sphaeroceridae)NA,(631,632)NA)NA,633)NA)NA,((((((((((((((((634,635)NA,636)NA,(637,638)NA)NA,639)NA,(640,641)Dryomyzidae)NA,((642,(643,644)Coelopidae)NA,(645,646)NA)NA)NA,647)NA,(648,649)NA)NA,((650,(651,652)Lauxaniidae)NA,(653,654)Chamaemyiidae)Lauxanioidea)NA,655)NA,(((656,657)NA,658)NA,659)NA)NA,((((660,661)NA,(662,663)NA)NA,664)NA,(((665,666)NA,667)NA,668)NA)NA)NA,(669,670)NA)NA,(((((671,(672,673)Canacidae)NA,674)NA,((675,676)NA,677)Diopsidae)NA,((678,(679,(680,681)Chloropinae)Chloropidae)NA,682)NA)NA,(((683,684)NA,((685,686)NA,(687,688)Micropezidae)Nerioidea)NA,(689,690)NA)NA)NA)NA,((((((((691,692)NA,(693,694)NA)NA,695)NA,696)NA,(697,698)Ulidiidae)NA,699)NA,(700,701)NA)NA,(((702,703)NA,(704,705)Opomyzidae)NA,706)NA)NA)NA,707)NA)Schizophora)NA,((708,709)NA,710)Syrphidae)NA,(((((711,(712,713)Phoridae)NA,714)NA,715)NA,716)NA,(717,718)Lonchopteridae)Platypezoidea)Cyclorrhapha)NA,((((719,(720,721)Oreogetoninae)NA,(722,723)Hybotidae)NA,(724,725)NA)NA,726)Empidoidea)NA,((((((727,(728,729)Therevidae)NA,(730,731)NA)NA,((732,733)NA,734)NA)NA,(735,(736,737,((((((738,739)NA,740)NA,(((((((((741,742)NA,743)NA,744)NA,745)NA,746)NA,((747,748)NA,749)NA)NA,750)Palirika,(((((751,752)NA,753)NA,(754,755)NA)NA,756)NA,757)Balaana)NA,758)NA)NA,(759,760)Muwarna)NA,((761,762)NA,763)Larrpana)NA,(((764,765)NA,766)NA,767)Kapu)NA,((((768,769)NA,770)NA,(771,772)NA)NA,((773,774)NA,775)NA)Wurda)Bombyliidae)NA)NA,((((776,777)NA,778)NA,779)NA,(780,781)NA)NA)NA,((((((782,(783,784)Tabanidae)NA,785)NA,786)NA,(787,788)NA)NA,(789,790)NA)Tabanomorpha,(791,792)Xylophagidae)NA)NA)Brachycera)NA,793)NA,((((794,(795,(796,(797,798)Phlebotomus)Phlebotominae)Psychodoidea)NA,799)NA,(((800,801)NA,(802,803)NA)Chironomoidea,(((804,(805,806)Anophelinae)Culicidae,(807,808)Chaoboridae)NA,809)Culicoidea)Culicomorpha)NA,(810,811)Ptychopteridae)NA)NA,(812,((((813,(814,815)Tipulidae)NA,816)NA,((817,818)NA,819)NA)NA,820)Tipulomorpha)NA)NA,821)NA,822)Diptera)NA,(823,(824,(825,((((((((((((((((((((((((826,827)NA,828)NA,829)NA,(830,831)Heliothinae)NA,((832,833)NA,834)NA)NA,(835,(((836,837)NA,(838,839)Nolinae)NA,(840,841)NA)Nolidae)NA)NA,(((((842,843)NA,844)NA,((845,846)NA,847)NA)NA,848)NA,((849,850)NA,851)Arctiinae)NA)NA,852)NA,(((853,854)NA,((855,856)NA,857)NA,858)Notodontidae,(859,860)Oenosandridae)NA)NA,((((((861,862)NA,(863,(864,865)Anthelinae)Anthelidae)NA,(((866,867)NA,868)NA,869)Endromidae)NA,(((870,((871,(872,873,(874,875,876,877)Antheraea)Saturniinae)NA,(878,879)Oxyteninae)NA)Saturniidae,((880,(881,882,883)Smerinthinae)NA,((884,(885,886)Macroglossini)NA,887)Macroglossinae)Sphingidae)NA,(888,889)Bombycidae)NA)NA,((((890,891)NA,892)NA,((893,894)Panacelinae,(895,896)Janinae)Eupterotidae)NA,(897,898)Apatelodidae)NA)NA,((((899,900)NA,(901,902)Macromphaliinae)NA,(((903,904)NA,905)NA,906)Lasiocampinae)NA,907)Lasiocampidae)Bombycoidea)NA,(((908,(909,910)NA,911)Sematuridae,(912,913)Epicopeiidae)NA,(((914,(915,916)Uraniinae)NA,(917,918)Epipleminae)Uraniidae,((((((((919,920)NA,921)NA,(922,923,924)NA)NA,(925,926,927)Geometrinae)NA,928)NA,929)NA,930)NA,(((931,932)NA,(933,(934,935)Cyclophora)NA)Sterrhinae,(936,((937,938)NA,939)NA)Larentiinae)NA,940)Geometridae)NA)NA)NA,(((941,(942,((((943,(944,945)Lacosoma)NA,946)NA,947)NA,948)NA)Mimallonoidea)NA,949)NA,(((950,((951,952)NA,953)Drepaninae)NA,((954,955)NA,956)Thyatirinae)NA,957)Drepanidae)NA)NA,((((((((958,959)NA,960)NA,961)NA,((962,(963,964)Crambinae)NA,965)NA)NA,966)NA,((967,968)NA,969)NA)NA,((970,971)NA,972,973)NA,974)Crambidae,(((975,(976,977)Pyralinae)NA,(978,979)Phycitinae)NA,((980,981)NA,982)NA)Pyralidae)NA)NA,(((((((983,984)NA,985)NA,986)NA,(987,(988,989)Hyblaeoidea)NA)NA,(((990,((991,992)NA,993)Carposinidae)Copromorphoidea,(994,995)Epermenioidea)NA,996)NA)NA,(997,(998,999)Thyridinae)Thyrididae)NA,(((((((1000,(1001,1002,((1003,1004)NA,1005)NA)Lycaenidae)NA,((((1006,(1007,(1008,1009)Melitaeini)Nymphalinae)NA,1010)NA,(1011,(1012,1013)Heliconiinae)NA)NA,1014,1015)Nymphalidae)NA,(((1016,1017)NA,(1018,1019)Coliadinae)NA,1020)Pieridae)NA,(1021,1022)Hedyloidea)NA,(1023,((((1024,1025)NA,1026)NA,(1027,(1028,1029)Urbanus)Eudaminae)NA,(1030,1031)Hesperiinae)NA,(1032,1033)Coeliadinae)Hesperioidea)NA,(1034,1035,(1036,1037)Papilionini)Papilionidae)NA,(1038,((1039,1040)NA,1041,1042)Pterophorinae)NA)NA)NA)NA,((((((1043,1044)NA,(1045,(1046,1047)Autostichidae)NA)NA,(1048,(1049,1050)Lecithocerinae)NA)NA,((1051,1052)NA,(1053,1054)NA)NA)NA,(((((1055,1056)NA,(1057,(1058,1059)NA)Hypertrophinae)NA,((1060,1061)NA,1062)NA)NA,(1063,(1064,1065)Oditinae)NA)NA,1066)NA)NA,((((((1067,1068)NA,(1069,1070)Scythrididae)NA,1071)NA,1072)NA,(1073,(1074,1075)Elachistinae)NA)NA,(((1076,((1077,1078)Cosmopteriginae,(1079,1080)Antequerinae)Cosmopterigidae)NA,((1081,(1082,((((1083,1084)NA,1085)NA,1086)NA,(1087,1088)NA)NA)Gelechiinae)NA,1089)Gelechiidae)NA,((1090,1091)NA,1092)NA)NA)NA,1093)NA)NA,(((((((((1094,1095)NA,(1096,1097)NA)NA,((1098,1099)NA,1100)Epipyropidae)NA,((((1101,1102)NA,1103)NA,(1104,1105)Metarbelinae)NA,(1106,(1107,(1108,1109)NA)Castniinae)Castnioidea)NA)NA,((((1110,1111)NA,(1112,1113)NA)NA,((1114,(1115,1116)Brachodidae)NA,1117)NA)NA,1118)NA)NA,(1119,(1120,(1121,(1122,1123)Synanthedonini)NA)Sesiinae)Sesiidae)NA,1124)NA,((((((1125,1126)NA,1127)NA,1128,1129)NA,(1130,(1131,(1132,(1133,1134)Acraga)NA,1135)Dalceridae)NA)NA,((1136,((1137,((1138,1139)NA,1140,1141)Megalopyge)NA,1142)Megalopygidae)NA,1143)NA)NA,(((1144,1145)NA,1146)NA,((1147,(1148,1149)Procridinae)NA,(1150,1151)Zygaeninae)NA)NA)NA,1152)NA,(1153,((((1154,1155)NA,1156)NA,((1157,(((1158,1159)NA,(1160,1161)NA)NA,((1162,(1163,(1164,1165)Grapholita)Grapholitini)NA,(1166,1167)NA)NA)NA)Olethreutinae,(((1168,((1169,1170)NA,1171,1172)Archipini)NA,(1173,1174)NA)NA,((1175,(1176,1177)Cnephasiini)NA,((1178,1179)Euliini,(1180,1181)Cochylini)NA)NA)Tortricinae)NA)NA,(1182,1183)NA)Tortricoidea)NA)NA)NA,(1184,(1185,1186)Immoidea)NA)NA,((1187,1188)NA,(1189,((1190,1191)NA,((1192,1193)NA,1194)NA)Choreutinae)NA)NA)NA,((1195,1196)Wockia,(1197,1198)Urodus)Urodoidea)NA,(((((((((((1199,1200)NA,1201)NA,(1202,1203)NA)NA,((1204,1205)NA,1206)NA)NA,1207)NA,(1208,1209)Ypsolophidae)NA,((((1210,1211)NA,(1212,1213)Heliodinidae)NA,(1214,1215)NA)NA,(1216,1217)Attevinae)NA)NA,(((1218,1219)NA,(1220,1221)Eucalantica)NA,1222)NA)NA,(1223,1224)NA)NA,((1225,1226)NA,(((1227,1228)NA,(((1229,1230)NA,1231)Lithocolletinae,(1232,1233)Phyllocnistinae)NA)NA,(1234,1235)NA)NA)Gracillariidae)NA,(1236,1237)Roeslerstammiidae)NA)NA,((((((((1238,1239)NA,1240)NA,1241)NA,1242)NA,((1243,1244)NA,1245)NA)NA,(((1246,1247)NA,(1248,1249)Scardiinae)NA,(1250,1251)NA)NA)NA,(1252,1253)NA)NA,(((1254,1255)NA,(1256,(1257,1258)Acrolophidae)NA)NA,(1259,1260)NA)NA)NA)NA,(1261,1262)Eriocottidae)NA,((((1263,1264)NA,1265)NA,1266)NA,((1267,(1268,1269)Oiketicinae)NA,1270)NA)NA)NA,1271)Ditrysia)Heteroneura)Lepidoptera)Amphiesmenoptera)NA,(((1272,1273)Strepsiptera,(((1274,1275)NA,(((((((((((((((1276,1277)NA,(1278,1279)NA)NA,1280)NA,(1281,1282)NA)NA,1283)NA,(1284,1285)NA)NA,(1286,1287)NA)NA,((((1288,1289)NA,1290)NA,1291)NA,((1292,1293)NA,(1294,1295)NA)NA)NA)NA,((1296,1297)NA,1298)NA)NA,1299)NA,(1300,1301)NA)NA,((((((((((1302,1303)NA,1304)NA,1305)NA,(1306,1307)NA,1308,1309)NA,(1310,1311)NA)NA,1312)NA,(1313,1314)NA)NA,1315)NA,1316)NA,1317)NA)NA,(1318,1319)NA)NA,((((1320,1321)NA,1322)NA,(1323,1324)NA)NA,(1325,1326)NA)NA)NA,1327)NA)Staphyliniformia,(1328,1329,1330)Cucujiformia)Coleoptera)NA,((1331,1332)NA,((1333,1334)NA,1335)Neuroptera)Neuropterida)NA)NA,(((((((((((((((((1336,1337)NA,1338)NA,(1339,1340)NA)NA,1341)NA,(((((((((1342,(1343,1344)Coccophaginae)NA,1345)NA,(1346,(1347,(1348,1349)Nasonia)Pteromalinae)NA)NA,(1350,1351)NA)NA,(1352,1353)NA)NA,(1354,1355)NA)NA,1356)NA,(1357,1358)Mymaridae)Chalcidoidea,(1359,1360)Mymarommatoidea)Chaldicoidea_group)NA,(1361,1362,1363,1364,1365,1366,((1367,1368,1369)NA,1370)Proctotrupidae)NA)NA,((((1371,1372)NA,1373)Platygastridae,(1374,1375)Scelionidae)Platygastroidea,(((((1376,1377)NA,1378)NA,1379)NA,(1380,1381)NA)NA,1382)Cynipoidea)NA)NA,((((((1383,1384)NA,1385)NA,1386)NA,1387)NA,1388,1389)Braconidae,((((1390,1391)NA,1392)NA,1393)NA,1394)Ichneumonidae)Ichneumonoidea)NA,(((((((1395,(1396,((((((1397,1398)NA,1399)NA,1400)Vespa,(1401,1402)Provespa)NA,(((((1403,1404)NA,1405)NA,1406)NA,1407)NA,(1408,1409)NA)Dolichovespula)NA,(((((1410,1411)NA,1412)NA,1413)NA,1414)NA,((((1415,1416)NA,1417)NA,(1418,1419)NA)NA,1420)NA)Vespula)Vespinae)Vespidae)NA,((1421,1422)NA,1423)Chrysidoidea)NA,(1424,1425)NA)NA,(1426,(1427,(1428,1429)Sphecidae)Sphecoidea)NA,(((((((((((((((((1430,(1431,1432)Leptothorax)NA,(1433,1434)Temnothorax)NA,((1435,1436)Mayriella,(1437,1438,1439)Solenopsis)NA)NA,(1440,(1441,1442)Cardiocondyla)NA)NA,(1443,1444,((1445,1446)NA,1447,1448)Pheidologetonini)NA)NA,(((1449,1450)NA,1451)NA,(1452,1453)Meranoplus)NA)NA,((((1454,(1455,1456,1457)Tetramoriini)NA,(1458,1459)Terataner)NA,((1460,1461)Crematogastrini,(1462,(1463,1464)Rhopalomastix)Melissotarsini)NA)NA,((1465,1466)NA,1467)NA)NA)NA,((((1468,1469)NA,1470)NA,(((1471,1472)NA,1473)NA,1474,(1475,1476)Stenamma)NA,(1477,1478)NA)NA,(((1479,1480)Cataulacini,(1481,1482)Pogonomyrmex)NA,1483)NA)NA)NA,(((((1484,(1485,1486)Eutetramorium)NA,(1487,1488)Vollenhovia)NA,(1489,1490)Myrmecinini)NA,((1491,(1492,1493,1494)Myrmica)NA,(1495,1496)Blepharidattini)NA)NA,(1497,1498,(1499,1500)Myrmicariini)NA)NA)NA,(1501,1502)NA,(((((((1503,1504)Strumigenys,(1505,1506)Pyramica)NA,1507)NA,(1508,(1509,1510)Apterostigma)NA)NA,(1511,(1512,1513)Eurhopalothrix)Basicerotini)NA,(((1514,1515,(1516,1517)Trachymyrmex)NA,1518,1519)NA,1520,1521)NA)NA,((1522,(1523,1524,1525)Pheidole)NA,(1526,(1527,1528)Procryptocerus)Cephalotini)NA)NA)Myrmicinae,(((1529,1530)Brachymyrmecini,(1531,1532)Myrmelachistini)NA,(((((((((((1533,1534)NA,1535)NA,(1536,1537,1538)Polyrhachis)NA,1539,(1540,1541)NA)NA,(1542,1543)Opisthopsis)NA,(1544,1545)Myrmoteratini)NA,1546)NA,((1547,(1548,1549)Acropyga)NA,1550)NA)NA,(1551,((1552,1553)NA,(1554,(1555,1556)Formica)NA)Formicini)NA)NA,((1557,1558)NA,(1559,(1560,1561)Notoncus)NA)NA,1562)NA,(((1563,(1564,1565)Pseudolasius)NA,((1566,1567)NA,1568)NA)NA,((1569,(1570,1571)Acanthomyops)Lasius,(1572,1573)Myrmecocystus)NA)NA)NA)Formicinae)NA,((1574,(1575,1576)Heteroponera)Heteroponerinae,((1577,(1578,1579)Gnamptogenys)NA,((1580,1581)Ectatomma,(1582,1583)Rhytidoponera)NA)Ectatomminae)NA)NA,(1584,(((((((((1585,1586)NA,1587)NA,1588,1589)NA,(1590,(1591,1592)Anonychomyrma)NA)NA,(1593,1594)Linepithema)NA,(((1595,1596)Forelius,(1597,1598)Dorymyrmex)NA,(1599,1600)Azteca)NA)NA,(1601,1602,1603)Leptomyrmex)NA,(1604,(1605,1606)Dolichoderus)NA)NA,(((1607,1608)Tapinoma,(1609,1610,1611)Liometopum)NA,(1612,1613,1614)Technomyrmex)NA)Dolichoderinae)NA)NA,((1615,(1616,1617)Myrmeciinae)NA,(1618,((1619,(1620,1621)Pseudomyrmex)NA,1622)NA,1623)Pseudomyrmecinae)NA)NA,(((1624,1625,(1626,1627)Sphinctomyrmex)NA,((1628,1629)NA,((1630,1631)NA,(1632,1633,1634)Leptanilloidinae)NA)NA)NA,(((1635,(1636,1637,(1638,1639)Anomma)Dorylinae)NA,(1640,1641,1642,1643)Aenictinae)NA,1644,((1645,1646)NA,(1647,1648,(1649,1650)Eciton)NA)Ecitoninae)NA)NA)NA,((((((1651,(1652,1653)Prionopelta)NA,1654)NA,1655)NA,((1656,1657)NA,((1658,(1659,1660)Mystrium)NA,(1661,1662)Adetomyrma)NA)NA)NA,(((1663,1664)Discothyrea,(1665,1666,1667)Proceratium)Proceratiini,(1668,1669)Probolomyrmecini)Proceratiinae)NA,((1670,(1671,1672)Agroecomyrmecinae)NA,(((((((1673,1674)Odontomachus,(1675,1676)Anochetus)NA,1677)NA,((1678,(1679,1680)Leptogenys)NA,1681)NA)NA,(((1682,(1683,1684)Pachycondyla)NA,1685)NA,(1686,1687,1688)Hypoponera)NA)NA,(((1689,1690)NA,1691)NA,(1692,1693)Centromyrmex)NA,(1694,1695)NA)NA,(1696,1697)Platythyreini)Ponerinae)NA)NA)NA,((1698,1699)Anomalomyrmini,(1700,1701,1702)Leptanillini)Leptanillinae)Formicidae,((((((((((((((((((((((((((((1703,1704)NA,1705)NA,1706)NA,(1707,1708)NA)NA,1709)NA,1710)NA,((1711,1712)NA,1713)NA)NA,((((1714,1715)NA,(1716,1717)NA)NA,(1718,1719)NA)NA,((((1720,1721)NA,1722)NA,1723)NA,1724)NA)NA)NA,((((((((((((1725,1726)NA,1727)NA,1728)NA,1729)NA,1730)NA,1731)NA,1732)NA,1733)NA,1734)NA,(1735,1736)NA)NA,1737)NA,(1738,1739)NA)NA)NA,((1740,1741)NA,(1742,1743)NA)NA)NA,(((((((((1744,1745)NA,1746)NA,(1747,1748)NA)NA,(1749,1750)NA)NA,1751)NA,1752)NA,1753)NA,(1754,1755)NA)NA,(((1756,1757)NA,1758)NA,(1759,1760)NA)Alpinobombus)NA)NA,(((((((((((1761,((1762,1763)NA,(((1764,1765)NA,1766)NA,(1767,1768)NA)NA)Robustobombus)NA,1769)NA,1770)NA,((1771,1772)NA,1773)NA)NA,(((1774,(1775,1776)Coccineobombus)NA,1777)NA,1778)NA)NA,1779)NA,(1780,1781)NA)NA,1782)NA,(1783,((((1784,1785)NA,1786)NA,1787)NA,1788)Sibiricobombus)NA)NA,((1789,(((1790,1791)NA,(1792,1793)NA)NA,(((((1794,1795)NA,1796)NA,1797)NA,(1798,1799)NA)NA,1800)NA)Melanobombus)NA,1801)NA)NA,(((1802,1803)NA,(1804,1805)NA)NA,1806)Alpigenobombus)NA)NA,(((((((((((((1807,1808)NA,1809)NA,1810)NA,((1811,1812)NA,1813)NA)NA,(1814,1815)NA)NA,((1816,1817)NA,1818)NA)NA,(1819,1820)NA)NA,((1821,1822)NA,1823)NA)NA,(1824,(1825,(1826,1827)NA)Tricornibombus)NA)NA,((((1828,1829)NA,1830)NA,((1831,1832)NA,1833)Rhodobombus)NA,((1834,1835)NA,1836)NA)NA)NA,((((1837,1838)NA,(1839,1840)NA)NA,(((1841,1842)NA,1843)NA,1844)NA)NA,(((((1845,1846)NA,1847)NA,((1848,1849)NA,1850)NA)NA,((1851,1852)NA,(1853,1854)NA)NA)NA,(1855,1856)NA)NA)Psithyrus)NA,(((1857,1858)Senexibombus,(((((((1859,1860)NA,1861)NA,1862)NA,(1863,1864)NA)NA,(1865,1866)NA)NA,(1867,1868)NA)NA,(1869,1870)NA)Megabombus)NA,(1871,((1872,1873)NA,1874)NA)Diversobombus)NA)NA,((1875,((((((1876,1877)NA,1878)NA,1879)NA,1880)NA,1881)NA,1882)NA)Subterraneobombus,(1883,1884)Orientalibombus)NA)NA)NA,1885)NA,(1886,(1887,1888)Bombias)NA)NA,(((((1889,1890)NA,1891)NA,1892)NA,1893)NA,(1894,1895)NA)Mendacibombus)NA,(((((((((((((1896,1897)NA,1898)NA,((1899,1900)NA,1901)NA)NA,(1902,1903)NA)NA,1904)NA,((((1905,1906)NA,1907)NA,1908)NA,1909)NA)NA,((1910,1911)NA,(1912,1913)NA)Tetragonilla)NA,(((1914,1915)NA,(1916,1917)NA)NA,1918)NA)NA,((1919,1920)NA,1921)NA)NA,(((((1922,1923)NA,(1924,1925)NA)NA,1926)NA,1927)NA,((((1928,(1929,(1930,1931)NA)Heterotrigona)NA,(1932,1933)Lepidotrigona)NA,1934)NA,1935)NA)NA)NA,1936)NA,((((((((1937,1938)NA,1939)NA,1940)NA,1941)NA,(1942,1943)NA)NA,1944)NA,((1945,1946)NA,(1947,1948)Liotrigona)NA)NA,(1949,1950)Hypotrigona)NA)NA,(((((((((((((((1951,1952)NA,1953)NA,(1954,1955)NA)NA,(1956,1957)NA)NA,(1958,1959)Parapartamona)NA,(1960,1961)Nogueirapis)NA,(((1962,1963)NA,1964)NA,1965)NA)NA,1966)NA,1967)NA,((((((1968,1969)Ptilotrigona,((1970,1971)NA,(((1972,1973)NA,1974)NA,(1975,1976)NA)NA)Tetragona)NA,(((((((1977,1978)NA,(1979,1980)NA)NA,((1981,1982)NA,(1983,1984)NA)NA)NA,((1985,1986)NA,1987)NA)NA,(((1988,1989)NA,(1990,1991)NA)NA,1992)NA)NA,(1993,1994)NA)NA,((((1995,1996)NA,1997)NA,(1998,1999)NA)NA,(2000,2001)NA)NA)Trigona)NA,(2002,(((2003,2004)NA,2005)NA,2006)NA)Cephalotrigona)NA,((((2007,2008)NA,2009)NA,2010)NA,2011)Geotrigona)NA,((2012,(((2013,2014)NA,2015)NA,2016)NA)Oxytrigona,(((((((2017,2018)NA,2019)NA,2020)NA,(2021,2022)NA)NA,2023)NA,(((2024,2025)NA,2026)NA,2027)NA)NA,2028)Scaptotrigona)NA)NA)NA,((2029,(2030,2031)Schwarzula)NA,(2032,2033)NA)NA)NA,(((((((2034,2035)NA,2036)NA,2037)NA,2038)NA,(2039,(((2040,2041)NA,2042)NA,2043)NA)Lestrimelitta)NA,((((2044,2045)NA,2046)NA,2047)NA,2048)NA)NA,(((((2049,2050)NA,(2051,2052)NA)NA,2053)NA,(2054,2055)Tetragonisca)NA,(2056,2057)NA)NA)NA)NA,(2058,(((2059,2060)NA,2061)NA,2062)NA)Nannotrigona)NA,((((((((((((((((((2063,2064)NA,2065)NA,(2066,2067)NA)NA,2068)NA,2069)NA,((2070,2071)NA,2072)NA)NA,2073)NA,2074)NA,2075)NA,(((2076,2077)NA,2078)NA,2079)NA)NA,2080)NA,2081)NA,(((((2082,2083)NA,2084)NA,((2085,2086)NA,2087)NA)NA,(((2088,2089)NA,2090)NA,2091)NA)NA,2092)NA)NA,(2093,2094)NA)NA,((2095,2096)NA,(2097,2098)NA)NA)NA,(((((2099,2100)NA,2101)NA,2102)NA,2103)NA,2104)NA)NA,((((2105,2106)NA,(2107,2108)NA)NA,2109)NA,2110)NA)NA,((2111,2112)NA,2113)NA)Melipona)NA,(((((((2114,2115)NA,2116)NA,(2117,(2118,2119)Dolichotrigona)NA)NA,(2120,2121)NA)NA,2122)NA,2123)NA,2124)NA)NA)Meliponinae)NA,((((((((((2125,2126)NA,2127)NA,((2128,2129)NA,2130)NA)NA,(((2131,2132)NA,2133)NA,(2134,2135)NA)NA)NA,((2136,2137)NA,2138)NA)NA,2139)NA,2140)NA,(2141,2142)NA)NA,2143)NA,((((2144,2145)NA,2146)NA,((2147,2148)NA,2149)NA)NA,(2150,2151)NA)NA)NA)NA,(2152,(((2153,2154)NA,2155)NA,2156)NA)Euglossini)NA,(((2157,2158)NA,2159)NA,(((((2160,2161)NA,2162)NA,2163)NA,2164)NA,2165)NA)Centris)NA,((2166,2167)NA,2168)Epicharis)NA,(((((2169,(((((((2170,(((2171,2172)NA,2173)NA,2174)Exoneura)NA,2175)NA,(2176,((2177,2178)NA,2179)NA)Exoneurella)NA,2180)NA,((2181,2182)NA,2183)NA)NA,(2184,(2185,(2186,2187)NA)Braunsapis)NA)NA,(2188,2189)Macrogalea)Allodapini)NA,2190)NA,((((((((((((((2191,2192)NA,2193)NA,(2194,2195)NA)NA,2196)NA,2197)NA,(((((2198,2199)NA,2200)NA,2201)NA,2202)NA,2203)NA)NA,(2204,2205)NA)NA,2206)NA,2207)NA,(((2208,2209)NA,2210)NA,2211)NA)NA,2212)NA,((2213,(2214,(2215,2216)NA)Biluna)NA,2217)NA)NA,(((((2218,2219)NA,(2220,2221)NA)NA,(2222,2223)NA)NA,((2224,2225)NA,2226)NA)NA,((2227,2228)NA,2229)NA)NA)NA,(((((2230,(2231,2232)Lestis)NA,2233)NA,2234)NA,(2235,2236)Xylocopoides)NA,2237)NA)Xylocopini)NA,((2238,2239)NA,2240)Tetrapedia)NA,(((((((2241,2242)NA,2243)NA,2244)NA,(2245,2246)NA)NA,((2247,2248)NA,2249)Ctenoplectrina)NA,(2250,2251)NA)NA,(2252,2253)NA)Ctenoplectrini)NA)NA,((((((((((2254,2255)NA,(2256,2257)NA)NA,(2258,2259)NA)NA,((2260,2261)NA,(2262,(2263,2264)Melissodes)NA)NA)NA,2265)NA,(2266,2267)NA)NA,2268)NA,(2269,2270)Ancylini)NA,(((((2271,2272)NA,2273)NA,2274)NA,(2275,(2276,((((2277,2278)NA,2279)NA,2280)NA,2281)NA)Diadasia)NA)NA,((2282,2283)NA,(2284,2285)NA)Tapinotaspidini)NA)NA,((2286,(2287,(2288,2289)NA)Exomalopsini)NA,(2290,2291)Ancyloscelis)NA)NA)NA,((((((((2292,(2293,2294)Biastini)NA,2295)NA,2296)NA,(((((((2297,2298)NA,2299)NA,(2300,2301)Triepeolus)NA,(2302,(2303,2304)NA)Epeolus)NA,2305)Epeolini,(((2306,2307)NA,2308)NA,2309)Brachynomadini)NA,(2310,((((2311,2312)NA,2313)NA,(2314,2315)NA)NA,2316)Holcopasites)Ammobatoidini)NA)NA,((2317,2318)NA,2319)Nomadini)NA,((2320,(2321,2322)Ammobates)NA,(2323,2324)NA)Ammobatini)NA,((2325,2326)Caenoprosopidini,((((2327,2328)NA,(2329,2330)Thyreus)NA,2331)NA,2332)Melectini)NA)NA,((((((2333,((2334,2335)NA,2336)NA)Protepeolini,(2337,2338)Epeoloides)NA,(2339,(((2340,2341)NA,2342)NA,2343)Isepeolus)Isepeolini)NA,2344)NA,((((((2345,2346)NA,(2347,2348)NA)NA,2349)NA,2350)NA,2351)Ericrocidini,(2352,(2353,2354)Rhathymus)Rhathymini)NA)NA,(2355,(2356,2357)Coelioxoides)NA)NA)NA)NA,(((((2358,2359)NA,2360)NA,2361)NA,(2362,2363)NA)NA,2364)NA)NA,((((((((((((((((((((((2365,2366)NA,2367)NA,2368)NA,((2369,2370)NA,2371)NA)NA,(2372,2373)NA)NA,(((((2374,2375)NA,2376)NA,2377)NA,2378)NA,(2379,2380)NA)NA)NA,((2381,2382)NA,(2383,2384)NA)NA)NA,((((((2385,2386)NA,2387)NA,2388)NA,2389)NA,(2390,(2391,2392)NA)Hoplosmia)NA,2393)NA)NA,((((((2394,2395)NA,2396)NA,2397)NA,2398)NA,((2399,2400)NA,((2401,2402)NA,2403)NA)Ashmeadiella)NA,2404)NA)NA,2405)NA,(((((((((2406,2407)NA,2408)NA,(2409,2410)NA)NA,((2411,2412)NA,2413)NA)NA,(2414,2415)NA)NA,((((((2416,2417)NA,2418)NA,2419)NA,2420)NA,(2421,2422)NA)NA,(2423,2424)NA)NA)NA,(2425,2426)NA)NA,2427)NA,((((2428,2429)NA,2430)NA,2431)NA,((2432,2433)NA,(2434,2435)Stenosmia)NA)NA)NA)NA,(2436,2437)Haetosmia)NA,((((2438,2439)NA,((2440,2441)NA,2442)Heriades)NA,(2443,2444)NA)NA,(((2445,2446)NA,2447)NA,2448)Protosmia)NA)NA,((((((((((((2449,2450)NA,2451)NA,2452)NA,2453)NA,2454)NA,2455)NA,(2456,2457)NA)NA,((2458,2459)NA,2460)NA)NA,(((((2461,2462)NA,2463)NA,2464)NA,(2465,2466)NA)NA,2467)NA)NA,((2468,2469)NA,2470)NA)NA,((((2471,2472)NA,2473)NA,2474)NA,(2475,2476)NA)NA)NA,2477)Chelostoma)NA,(((2478,2479)Noteriades,(2480,((((((((((((((2481,2482)NA,2483)NA,2484)NA,((2485,2486)NA,2487)NA)NA,2488)NA,((2489,2490)NA,2491)NA)NA,(2492,2493)NA)NA,2494)NA,(2495,2496)NA)NA,2497)NA,(2498,2499)NA)NA,(((2500,2501)NA,(2502,2503)NA)NA,(2504,2505)NA)NA)NA,((((2506,2507)NA,2508)NA,2509)NA,2510)NA)NA,(2511,(2512,2513)Coelioxys)NA)NA)Megachilini)NA,(2514,2515)Afroheriades)NA)NA,2516)NA,((((((((2517,2518)NA,2519)NA,(2520,2521)NA)NA,(((2522,2523)NA,2524)NA,2525)NA)NA,(2526,(2527,2528)NA)Stelis)NA,((((2529,2530)NA,(2531,2532)NA)NA,2533)NA,2534)NA)NA,(((2535,(((2536,2537)NA,2538)NA,2539)Anthidium)NA,2540)NA,2541)NA)NA,((2542,2543)NA,2544)Trachusa)NA)NA,((((2545,2546)NA,2547)NA,2548)Dioxyini,(2549,2550)Aspidosmia)NA)NA,(2551,2552)Pararhophitini)NA,((2553,2554)NA,((((2555,2556)NA,(2557,2558)NA)NA,(2559,2560)NA)NA,2561)NA)Lithurgini)NA,(2562,(2563,2564)NA)Neofideliini)NA,(((((2565,2566)NA,2567)NA,((2568,2569)NA,2570)Fideliopsis)NA,(2571,2572)NA)NA,(2573,2574)NA)Fideliini)Megachilidae)NA,((((((((((((((((((((2575,2576)NA,2577)NA,(2578,2579)Goniocolletes)NA,2580)NA,(2581,(2582,2583)Odontocolletes)NA)NA,((((2584,2585)NA,2586)NA,(2587,2588)NA)NA,2589)NA)NA,((2590,2591)NA,2592)NA)NA,(((2593,2594)NA,(2595,2596)NA)NA,2597)Euryglossidia)NA,2598)NA,(((2599,(2600,2601)Cephalocolletes)NA,2602)NA,2603)NA)NA,(((((((((2604,2605)NA,(2606,2607)NA)NA,2608)NA,2609)NA,2610)NA,(2611,2612)Kylopasiphae)NA,(((2613,(2614,2615)Eulonchopria)NA,2616)NA,(2617,(2618,2619)Spinolapis)NA)NA)NA,(2620,2621)NA)NA,(2622,2623)NA)NA)NA,(2624,2625)Baeocolletes)NA,(2626,(2627,2628)NA)Lonchopria)NA,(2629,2630)Trichocolletes)NA,(2631,2632)NA)NA,((((((((((((((((2633,(((((((2634,2635)NA,(2636,2637)NA)NA,((2638,2639)NA,2640)NA)NA,((2641,2642)NA,2643)NA)NA,2644)NA,2645)NA,2646)Nesoprosopis)NA,(2647,2648)Prosopis)NA,2649)NA,(2650,2651)NA)NA,2652)NA,((2653,2654)NA,2655)NA)NA,(2656,(2657,2658)Euprosopis)NA)NA,2659)NA,((2660,(2661,2662)Rhodohylaeus)NA,(2663,2664)Euprosopoides)NA)NA,(((((2665,2666)NA,2667)NA,2668)NA,(2669,2670)Heterapoides)NA,((2671,2672)NA,(2673,2674)NA)NA)NA)NA,((2675,2676)NA,2677)NA)NA,((2678,(2679,2680)Meroglossa)NA,(2681,(((2682,2683)NA,2684)NA,2685)Palaeorhiza)NA)NA)NA,2686)Hylaeinae,((((((((2687,2688)NA,2689)NA,(2690,2691)NA)NA,2692)NA,2693)NA,2694)NA,2695)NA,(2696,(((2697,2698)NA,(2699,2700)NA)NA,2701)Chilicola)NA)Xeromelissinae)NA,((2702,((2703,2704)NA,(2705,2706)NA)NA)Scraptrinae,((((2707,2708)NA,2709)NA,(2710,2711)NA)NA,(2712,2713)NA)Euryglossinae)NA)NA,(((2714,(2715,((((((2716,2717)NA,(2718,2719)NA)NA,((2720,2721)NA,2722)NA)NA,2723)NA,2724)NA,((2725,2726)NA,2727)NA)NA)Colletes)NA,2728)NA,2729)Colletinae)NA)NA,((2730,((((((2731,2732)NA,(2733,((2734,2735)NA,2736)Ptiloglossa)NA)NA,(2737,2738)NA)NA,2739)Caupolicanini,((2740,2741)NA,(2742,2743)Cadeguala)Diphaglossini)NA,(2744,2745)Dissoglottini)Diphaglossinae)NA,2746)NA)NA,(((2747,2748)NA,2749)NA,2750)Stenotritidae)NA,((((((((((2751,2752)NA,2753)NA,2754)NA,2755)NA,2756)NA,2757)NA,(2758,2759)Pseudapis)NA,((2760,2761)NA,2762)Dieunomia)NA,(((2763,2764)NA,2765)NA,((((((((((((((((2766,2767)NA,(2768,2769)NA)NA,2770)NA,(((2771,2772)NA,2773)NA,2774)NA)NA,((((2775,(2776,2777)Sphecodogastra)NA,2778)NA,(2779,2780)NA)NA,((2781,2782)NA,2783)NA)NA)NA,(((((((2784,2785)NA,(2786,2787)NA)NA,2788)NA,((2789,2790)NA,2791)NA)NA,2792)NA,2793)NA,(2794,2795)NA)NA)NA,(((((2796,2797)NA,2798)NA,((2799,2800)NA,2801)NA)NA,(((2802,2803)NA,2804)NA,((2805,2806)NA,2807)NA)NA)NA,(2808,2809)NA)NA)NA,2810)NA,2811)NA,(((((2812,2813)NA,(2814,2815)Chilalictus)NA,(2816,(2817,2818)Homalictus)NA)NA,2819)NA,(((2820,2821)NA,(2822,2823)NA)NA,2824)NA)NA)NA,(2825,(((2826,2827)NA,2828)NA,(((2829,2830)NA,2831)NA,2832)Halictus_subgenus_Halictus)Halictus)NA)NA,(2833,(((((2834,2835)NA,(2836,(2837,2838)Lomatalictus)NA)NA,(2839,2840)NA)NA,((((2841,2842)NA,2843)NA,2844)NA,(2845,2846)NA)NA)NA,((((2847,2848)NA,(2849,2850)NA)NA,2851)NA,((((2852,2853)NA,2854)NA,2855)NA,2856)Patellapis_subgenus_Patellapis)NA)Patellapis)NA)NA,(((2857,2858)NA,(2859,2860)NA)NA,2861)Thrinchostomini)NA,(((((2862,2863)NA,(2864,2865)NA)NA,2866)NA,(2867,2868)NA)NA,2869)Sphecodini)NA,((((2870,(2871,2872)Pseudagapostemon)NA,2873)NA,(2874,(2875,2876)Caenohalictus)NA)NA,((2877,(2878,2879)Dinagapostemon)NA,((2880,2881)NA,2882)Agapostemon)NA)NA)NA,(((((((((((((((((((2883,2884)NA,2885)NA,2886)NA,2887)NA,2888)NA,(((2889,2890)NA,2891)NA,2892)NA)NA,((2893,2894)NA,2895)NA)NA,2896)NA,2897)NA,2898)NA,2899)NA,(2900,2901)NA)NA,2902)NA,2903)NA,2904)NA,(2905,2906)NA)NA,2907)NA,2908)NA,2909)Augochlorini)Halictinae)NA)NA,((2910,(2911,2912)Penapis)NA,((((((2913,((2914,2915)NA,(((2916,2917)NA,2918)NA,2919)NA)Dufourea)NA,2920)NA,(2921,(2922,2923)NA)Systropha)NA,2924)NA,(2925,(2926,2927)Xeralictus)NA)NA,(2928,2929)Conanthalictus)NA)Rophitinae)Halictidae)NA,((2930,(((((((((((((((2931,2932)NA,2933)NA,2934)NA,2935)NA,(((2936,2937)NA,2938)NA,2939)NA)NA,2940)NA,(((((2941,2942)NA,2943)NA,2944)NA,2945)NA,2946)NA)Panurgus,(((2947,2948)NA,(2949,2950)Macrotera)NA,2951)Perditini)NA,2952)NA,(2953,((2954,2955)NA,2956)Meliturgula)NA)NA,(2957,2958)NA)NA,((2959,2960)Melitturga,(2961,2962)Camptopoeum)NA)NA,(2963,(2964,2965)Protandrena)NA)NA,((2966,2967)NA,(((2968,2969)NA,2970)NA,2971)Calliopsis)Calliopsini)NA,2972)Panurginae)NA,(((2973,((2974,(2975,2976)Melandrena)NA,2977)Andrena)NA,2978)NA,(2979,2980)NA)Andreninae)Andrenidae)NA)NA,(((((((2981,2982)NA,2983)NA,(2984,2985)NA)NA,(((2986,2987)NA,2988)NA,2989)NA)NA,2990)NA,(((2991,2992)NA,((2993,2994)NA,2995)NA)Sambini,(2996,(((((2997,2998)NA,2999)NA,3000)NA,3001)NA,(((3002,3003)NA,3004)NA,(3005,3006)NA)NA)NA)Dasypoda)NA)NA,(((((3007,3008)NA,3009)NA,(3010,(((((3011,3012)NA,3013)NA,(3014,3015)NA)NA,3016)NA,(3017,3018)NA)NA)Melitta)NA,(3019,(3020,(3021,3022)NA)Macropis)NA)NA,3023)NA)Melittidae)Apoidea)Aculeata,(((3024,3025)Gasteruptiidae,(3026,3027)Aulacidae)NA,(3028,(3029,3030)NA,(((3031,3032)NA,3033)NA,3034)Evaniscus)Evaniidae)Evanioidea)NA,(3035,3036)Trigonaloidea)NA,(3037,(3038,(3039,3040)Megaspilidae)Ceraphronoidea)NA)NA)NA,(3041,3042)Stephanoidea)Apocrita,(3043,3044)Orussoidea)NA,(3045,3046)Xiphydrioidea)NA,(3047,(3048,3049,3050)Siricidae)Siricoidea)NA,(3051,3052)Cephoidea)NA,((((3053,3054)Argidae,(3055,3056)Pergidae)NA,3057)NA,(((3058,3059)NA,(3060,3061)NA)NA,(3062,3063)Allantinae)NA)Tenthredinoidea)NA,(3064,3065)Pamphilioidea)NA,(3066,3067)Xyeloidea)Hymenoptera)Endopterygota,((((3068,(3069,3070)Psylliformes)NA,(3071,((3072,(3073,3074)Macrosiphini)NA,3075)Aphidomorpha)Aphidiformes)Sternorrhyncha,(3076,((3077,3078)Clypeorrhyncha,(3079,3080)Archaeorrhyncha)NA)Euhemiptera)Hemiptera,(((((((((3081,3082)NA,3083)NA,3084)NA,3085)NA,(3086,3087)NA)NA,3088)NA,((3089,3090)NA,(3091,3092)NA)NA)NA,3093,3094)NA,3095)Phthiraptera)Paraneoptera)NA)Neoptera)NA)Dicondylia)Insecta)NA,(3096,(3097,3098)Poduromorpha)Collembola)Hexapoda;
+END;

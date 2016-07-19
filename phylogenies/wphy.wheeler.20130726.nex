@@ -1,0 +1,3883 @@
+#NEXUS
+[R-package APE, Fri Jul 26 12:24:15 2013]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 1935;
+	TAXLABELS
+		Neomachilellus_scandens
+		Neomachilellus_amazonicus
+		Neomachilellus_adisi
+		Meinertellus_adisi
+		Lepisma_saccharina
+		Thermobia_domestica
+		Baetis_pumilus
+		Centroptilum_luteolum
+		Cloeon_dipterum
+		Cloeon_simile
+		Siphlonurus_lacustris
+		Ecdyonurus_fluminum
+		Ecdyonurus_helviticus
+		Heptagenia_lateralis
+		Ephoron_virgo
+		Hexagenia_limbata
+		Habrophlebia_modesta
+		Leptophlebia_vespertina
+		Caenis_horaria
+		Caenis_moesta
+		Binoculus_pennigerus
+		Ephemerella_ignita
+		Gomphus_externus
+		Platycnemis_pennipes
+		Eteobalea_intermediella
+		Gryllus_campestris
+		Gryllus_domesticus
+		Brachytrupes_achatinus
+		Brachytrupes_membranaceus
+		Brachytrupes_megacephalus
+		Brachytrupes_grandidieri
+		Anurogryllus_arboreus
+		Anurogryllus_celerinictus
+		Anurogryllus_muticus
+		Gymnogryllus_humeralis
+		Gymnogryllus_sp
+		Scapsipedus_aspersus
+		Gryllodes_sigillatus
+		Miogryllus_lineatus
+		Nemobius_sylvestris
+		Gryllotalpa_gryllotalpa
+		Gryllotalpa_africana
+		Gryllotalpa_borealis
+		Gryllotalpa_hexadactyla
+		Tachycines_asynomorus
+		Conocephalus_fuscus
+		Conocephalus_ensiferum
+		Conocephalus_saltator
+		Tettigonia_viridissima
+		Euthypoda_acutipennis
+		Isophya_pyrenaea
+		Phaneroptera_pistillata
+		Locusta_migratoria
+		Locusta_migratorioides
+		Locustana_pardalina
+		Nomadacris_septemfasciata
+		Schistocerca_gregaria
+		Aeropus_sibericus
+		Taeniopoda_eques
+		Romalea_microptera
+		Poicilocerus_bufonius
+		Poicilocerus_pictus
+		Zonocerus_variegatus
+		Zonocerus_elegans
+		Phymateus_saxosus
+		Maphyteus_sp
+		Maura_sp
+		Phyteumas_sp
+		Taphronota_sp
+		Dictyophorus_sp
+		Aularches_sp
+		Tridactylus_apicalis
+		Didymuria_violescens
+		Extatosoma_tiaratum
+		Phyllium_bioculatum
+		Podacanthus_typhon
+		Tropidoderus_childreni
+		Carausius_morosus
+		Palophus_sp
+		Bactrododema_krugeri
+		Graeffia_crouani
+		Megacrania_alpheus
+		Megacrania_wegneri
+		Ophicrania_leveri
+		Orxines_macklotti
+		Anisomorpha_buprestoides
+		Necroscia_sparaxes
+		Palophus_tiaratus
+		Palophus_episcopalis
+		Metriotes_diocles
+		Pseudosermyle_truncata
+		Timema_californica
+		Eurycantha_calcarata
+		Anchiale_maculata
+		Cyphocrania_gigas
+		Phalces_longiscaphus
+		Ctenomorphodes_tessulatus
+		Eurycnema_goliath
+		Perlodes_mortoni
+		Dinocras_cephalotes
+		Pteronarcys_proteus
+		Clothoda_urichi
+		Monotylota_ramburi
+		Embia_major
+		Oligotoma_nigra
+		Oligotoma_greeniana
+		Oligotoma_ceylonica
+		Oligotoma_humbertiana
+		Anisembia_texana
+		Anechura_bipunctata
+		Chelidurella_acanthopygia
+		Euboriella_annulipes
+		Forficula_auricularia
+		Labidura_riparia
+		Anisolabis_littorea
+		Anisolabis_maritima
+		Euboriella_cincticollis
+		Euboriella_stali
+		Chelisoches_morio
+		Chelidura_pyrenaica
+		Forficula_pubescens
+		Forficula_tomis
+		Pseudochelidura_sinuata
+		Marava_arachidis
+		Diplatys_sp
+		Zorotypus_hubbardi
+		Zorotypus_gurneyi
+		Zorotypus_barberi
+		Nocticola_sp
+		Nocticola_australiensis
+		Eurycotis_floridana
+		Periplaneta_australasiae
+		Periplaneta_americana
+		Blatta_orientalis
+		Cryptocercus_clevelandi
+		Cryptocercus_kyebangensis
+		Cryptocercus_punctulatus
+		Cryptocercus_primarius
+		Cryptocercus_matilei
+		Cryptocercus_darwini
+		Cryptocercus_wrighti
+		Cryptocercus_garciai
+		Ectobius_panzeri
+		Sliferia_lineaticollis
+		Pseudobalta_pusilla
+		Pseudobalta_queenslandica
+		Pseudobalta_cinctella
+		Blattella_germanica
+		Blattella_humbertiana
+		Blattella_vaga
+		Supella_supellectilium
+		Supella_longipalpa
+		Ischnoptera_deropeltiformis
+		Pseudoanaplectinia_yumotoi
+		Symploce_hospes
+		Stayella_bimaculata
+		Stayella_medleri
+		Stayella_cinnamomea
+		Stayella_rohdei
+		Stayella_mckittrickae
+		Stayella_abnormalis
+		Stayella_schmitzi
+		Stayella_enghoffi
+		Diploptera_punctata
+		Perisphaerus_glomeriformis
+		Perisphaerus_semilunatus
+		Perisphaerus_sp
+		Trichoblatta_sericea
+		Salganea_taylori
+		Salganea_rossi
+		Salganea_obtusespinosa
+		Salganea_inaequaliterspinosa
+		Salganea_matsumotoi
+		Salganea_raggei
+		Salganea_gressiti
+		Salganea_esakii
+		Salganea_taiwanensis
+		Panesthia_australis
+		Panesthia_cribrata
+		Panesthia_laevicollis
+		Neogeoscapheus_hirsutus
+		Parapanesthia_gigantea
+		Macropanesthia_rhinoceros
+		Geoscapheus_dilatatus
+		Geoscapheus_robustus
+		Thanatophyllum_akinetum
+		Pycnoscelus_surinamensis
+		Epilampra_wheeleri
+		Epilampra_burmeisteri
+		Pseudophoraspis_nebulosa
+		Thorax_porcellana
+		Phlebonotus_pallens
+		Phoraspis_sp
+		Blaberus_craniifer
+		Blaberus_giganteus
+		Byrsotria_fumigata
+		Leucophaea_maderae
+		Gromphadorhina_portentosa
+		Gromphadorhina_laevigata
+		Nauphoeta_cinerea
+		Acanthops_falcata
+		Ciulfina_rentzi
+		Ciulfina_klassi
+		Gonypetella_ivoirensis
+		Astape_denticollis
+		Galepsus_toganus
+		Tarachodula_pantherina
+		Tarachodes_maurus
+		Tarachodes_afzelii
+		Tarachodes_bicornis
+		Pyrgomantis_pallida
+		Eremiaphila_dagi
+		Oxyophthalmellus_somalicus
+		Hoplocorypha_nigerica
+		Miomantis_lamtoensis
+		Pseudoharpax_virescens
+		Hemiempusa_capensis
+		Gongylus_gongyloides
+		Phyllocrania_paradoxa
+		Hymenopus_coronatus
+		Theopropus_elegans
+		Oxypilus_gillonae
+		Anasigerpes_bifasciata
+		Danuria_buchholzi
+		Mantis_religiosa
+		Statilia_apicalis
+		Sphodromantis_lineola
+		Paramantis_prasina
+		Paramantis_togana
+		Polyspilota_aeruginosa
+		Epitenodera_brevipennis
+		Paratenodera_sinensis
+		Hierodula_parviceps
+		Hierodula_crassa
+		Hierodula_notata
+		Homalodisca_coagulata
+		Acinopterus_angulatus
+		Aconophora_pallescens
+		Aconophora_laminata
+		Aconophora_nigricornis
+		Aconophora_compressa
+		Aconophora_mexicana
+		Aconophora_robusta
+		Aconophora_marginata
+		Aconophora_femoralis
+		Calloconophora_sp
+		Calloconophora_caliginosa
+		Guayaquila_xiphias
+		Guayaquila_sp
+		Guayaquila_compressa
+		Guayaquila_pallescens
+		Guayaquila_emarginata
+		Dysyncritus_sp
+		Alchisme_sp
+		Alchisme_virescens
+		Alchisme_grossa
+		Alchisme_apicalis
+		Ochropepla_sp
+		Ochropepla_inaequalis
+		Potnia_gladiator
+		Potnia_sp
+		Metcalfiella_monogramma
+		Stalotypa_fairmairii
+		Ramosella_thalli
+		Platycotis_minax
+		Platycotis_tuberculata
+		Platycotis_vittata
+		Platycotis_sp
+		Umbonia_crassicornis
+		Umbonia_reducta
+		Umbonia_ataliba
+		Umbonia_spinosa
+		Bolbonota_aspidistrae
+		Bolbonota_sp
+		Bolbonota_insignis
+		Tritropidia_sp
+		Erechtia_gibbosa
+		Erechtia_abbreviata
+		Erechtia_pruinosa
+		Erechtia_sp
+		Campylenchia_latipes
+		Campylenchia_nutans
+		Campylenchia_sp
+		Kronides_incumbens
+		Tylopelta_sp
+		Enchenopa_ignidorsum
+		Enchenopa_caruata
+		Enchenopa_binotata
+		Enchenopa_bifenestrata
+		Enchenopa_sericea
+		Enchophyllum_sp
+		Membracis_caguetaensis
+		Membracis_mexicana
+		Membracis_c-album
+		Membracis_foliata
+		Membracis_dorsata
+		Membracis_flava
+		Membracis_trimaculata
+		Membracis_orteguazaensis
+		Membracis_tectigera
+		Leioscyta_nitida
+		Leioscyta_spiralis
+		Cladonota_sp
+		Cladonota_biclavata
+		Hypsoprora_sp
+		Philya_sp
+		Notocera_sp
+		Hyphinoe_asphaltina
+		Nassunia_sp
+		Acutalis_sp
+		Antianthe_foliacea
+		Antianthe_expansa
+		Thelia_bimaculata
+		Bilimekia_broomfieldi
+		Bilimekia_styliformis
+		Entylia_sinuata
+		Entylia_bactriana
+		Polyglypta_lineata
+		Polyglypta_dorsalis
+		Polyglypta_dispar
+		Publilia_reticulata
+		Publilia_modesta
+		Publilia_concava
+		Cymbomorpha_sp
+		Darnis_partita
+		Darnis_lator
+		Stictopelta_sp
+		Micrutalis_calva
+		Gargara_semibrunnea
+		Gargara_citrea
+		Sipylus_dilatatus
+		Tricentrus_sp
+		Centrochares_horrifica
+		Centrochares_sp
+		Ebhul_notatum
+		Ebhul_varium
+		Gigantorhabdus_enderleini
+		Pyrgauchenia_brunnea
+		Pyrgauchenia_tristaniopsis
+		Oxyrhachis_sp
+		Oxyrhachis_tarandus
+		Sextus_virescens
+		Pyrgonota_bulbosa
+		Dingkana_sp
+		Centrotypus_sp
+		Leptocentrus_sp
+		Leptocentrus_altifrons
+		Leptocentrus_jacobsoni
+		Telingana_sp
+		Leptobelus_damai
+		Leptobelus_sauteri
+		Nessorhinus_sp
+		Platycentrus_acuticornis
+		Platycentrus_sp
+		Centrodontus_atlas
+		Centruchoides_laticornis
+		Microcentrus_caryae
+		Aetalion_reticulatum
+		Endiastus_caviceps
+		Gerridus_armatus
+		Tropidaspis_carinatus
+		Tropidaspis_cornuta
+		Tropidaspis_minor
+		Dalbulus_quinquenotatus
+		Euscelis_plebejus
+		Aphrophora_flavipes
+		Cicadetta_dimissa
+		Yanga_guttulata
+		Hilda_patruelis
+		Euphyonarthex_phyllostoma
+		Hyalesthes_obsoletus
+		Oliarus_felis
+		Myndus_crudus
+		Bothriocera_signoreti
+		Mnemosyne_cubana
+		Oecleus_borealis
+		Ricania_speculum
+		Anthocoris_confusus
+		Cimex_lectularius
+		Orius_insidiosus
+		Orius_tristicolor
+		Nabis_alternatus
+		Nabis_rugosus
+		Corythucha_ciliata
+		Corythucha_marmorata
+		Corythucha_pruni
+		Corythucha_hewitti
+		Gargaphia_solani
+		Gargaphia_tiliae
+		Gargaphia_iridescens
+		Urentius_echinus
+		Leptobyrsa_decora
+		Compseuta_picta
+		Deraeocoris_nebulosus
+		Psallus_ambiguus
+		Phymata_pennsylvanica
+		Stenolemus_giraffa
+		Stenolemus_arachniphagus
+		Empicoris_culiciformis
+		Ghilianella_sp
+		Ectomocoris_sp
+		Peirates_sp
+		Ectrichodia_sp
+		Maraenaspis_sp
+		Glymmatophora_sp
+		Triatoma_maculata
+		Triatoma_pallidipennis
+		Triatoma_infestans
+		Rhodnius_neivai
+		Rhodnius_pictipes
+		Rhodnius_prolixus
+		Panstrongylus_geniculatus
+		Cosmolestes_pictus
+		Sycanus_collaris
+		Endochus_inornatus
+		Irantha_armipes
+		Rhaphidosoma_circumvagans
+		Rhinocoris_marginatus
+		Rhinocoris_rapax
+		Rhinocoris_carmelita
+		Rhinocoris_segmentarius
+		Rhinocoris_bicolor
+		Rhinocoris_fuscipes
+		Rhinocoris_albopunctatus
+		Rhinocoris_albopilosus
+		Rhinocoris_tristis
+		Sphedanolestes_signatus
+		Arilus_cristatus
+		Atopozelus_pallens
+		Zelus_exsanguis
+		Castolus_sp
+		Pisilus_tipuliformis
+		Occamus_typicus
+		Platymeris_biguttata
+		Petalochirus_sp
+		Lisarda_sp
+		Megacopta_cribraria
+		Parastrachia_japonensis
+		Pachycoris_klugii
+		Pachycoris_torridus
+		Pachycoris_fabricii
+		Pachycoris_stallii
+		Tectocoris_diophthalmus
+		Augocoris_sp
+		Cantao_ocellatus
+		Hotea_subfasciata
+		Caternaultiella_rugosa
+		Phloeophana_corticata
+		Phloeophana_longirostris
+		Phloeophana_sp
+		Sehirus_albonotatus
+		Sehirus_bicolor
+		Sehirus_cinctus
+		Sehirus_sexmaculatus
+		Sehirus_niveimarginatus
+		Ctenoneurus_hochstetteri
+		Brachypelta_aterrima
+		Legnotus_limbatus
+		Adomerus_triguttulus
+		Canthophorus_sp
+		Canthophorus_niveimarginatus
+		Tritomegas_bicolor
+		Elasmostethus_humeralis
+		Elasmostethus_interstinctus
+		Elasmucha_ferrugata
+		Elasmucha_dorsalis
+		Elasmucha_signoreti
+		Elasmucha_putoni
+		Elasmucha_grisea
+		Elasmucha_fieberi
+		Elasmucha_lateralis
+		Sastragala_scutellata
+		Sastragala_esakii
+		Anaxandra_sp
+		Pygoplatys_sp
+		Pygoplatys_acutus
+		Geocoris_punctipes
+		Geocoris_pallens
+		Nysius_huttoni
+		Oncopeltus_fasciatus
+		Lygaeus_pandurus
+		Physomerus_grossipes
+		Leptoglossus_phyllopus
+		Plunentis_porosus
+		Plunentis_yurupucu
+		Phyllomorpha_lacerata
+		Phyllomorpha_laciniata
+		Amblypelta_sp
+		Scolopocerus_uhleri
+		Neomegalotomus_parvus
+		Dysdercus_ruficollis
+		Dysdercus_obscuratus
+		Pyrrhocoris_apterus
+		Aradus_cinnamomeus
+		Neuroctenus_simplex
+		Neuroctenus_elongatus
+		Neuroctenus_pseudonymus
+		Neuroctenus_hochstetteri
+		Aepophilus_bonnairei
+		Aepophilus_sp
+		Belostoma_malkini
+		Belostoma_flumineum
+		Lethocerus_griseus
+		Lethocerus_maximus
+		Lethocerus_indicus
+		Lethocerus_deyrollei
+		Lethocerus_mazzai
+		Abedus_herberti
+		Telmatotrephes_sculpticollis
+		Telmatotrephes_grandicollis
+		Telmatotrephes_carvolhoi
+		Nepa_cinerea
+		Laccotrephes_ater
+		Laccotrephes_griseus
+		Ranatra_macrophthalma
+		Ranatra_fusca
+		Austronepa_sp
+		Ranatra_gracilis
+		Ranatra_stali
+		Ranatra_parvipes
+		Ranatra_lubwae
+		Ranatra_linearis
+		Ranatra_filiformis
+		Cercotmetus
+		Rhagadotarsus_sp
+		Halobates_sp
+		Aquarius_remigis
+		Gerris_buenoi
+		Gerris_odontogaster
+		Smynthurodes_betae
+		Schizolachnus_piniradiatae
+		Aphis_fabae
+		Lecanium_nigrofasciatum
+		Aulacaspis_tegalensis
+		Ceroplastes_pseudoceriferus
+		Coccus_magniferae
+		Pseudococcus_vastator
+		Rhodococcus_bulgariensis
+		Vryburgia_lounsburyi
+		Porphyrophora_polonica
+		Aleyrodes_singularis
+		Neomaskellia_bergii
+		Trioza_erytreae
+		Palmicola_solitaria
+		Peripsocus_nitens
+		Peripsocus_quadrifasciatus
+		Ceratipsocus_trifasciatus
+		Ceratipsocus_venosus
+		Pseudocaecilius_citricola
+		Archipsocus_floridanus
+		Archipsocus_panama
+		Archipsocus_gurneyi
+		Archipsocus_minutillus
+		Archipsocus_gibberophallus
+		Archipsocopsis_inornata
+		Liposcelis_granicola
+		Liposcelis_bostrychophilus
+		Liposcelis_divergens
+		Pediculus_humanus
+		Haematopinus_eurysternus
+		Trichodectes_scalaris
+		Trichodectes_canis
+		Ptomascopus_morio
+		Ablattaria_laevigata
+		Ablattaria_arenaria
+		Phosphuga_atrata
+		Nicrophorus_defodiens
+		Nicrophorus_humator
+		Nicrophorus_interruptus
+		Nicrophorus_investigator
+		Nicrophorus_orbicollis
+		Nicrophorus_vespillo
+		Nicrophorus_vespilloides
+		Nicrophorus_germanicus
+		Nicrophorus_tomentosus
+		Nicrophorus_quadripunctatus
+		Nicrophorus_pustulatus
+		Nicrophorus_mexicanus
+		Nicrophorus_americanus
+		Nicrophorus_nigrita
+		Bledius_spectabilis
+		Bledius_longulus
+		Bledius_opacus
+		Bledius_pygmaeus
+		Bledius_furcatus
+		Bledius_tricornis
+		Bledius_bicornis
+		Bledius_diota
+		Bledius_arenoides
+		Platystethus_arenarius
+		Oxyporus_spp
+		Tachyporus_hypnorum
+		Aleochara_bilineata
+		Necrophilus_subterraneus
+		Necrophilus_hidrophiloides
+		Helochares_lividus
+		Helochares_maculicollis
+		Spercheus_emarginatus
+		Epimetopus_hintoni
+		Epimetopus_obscurus
+		Chondrocephalus_debilis
+		Chondrocephalus_granulifrons
+		Chondrocephalus_purulensis
+		Vindex_sp
+		Heliscus_tropicus
+		Odontotaenius_striatopunctatus
+		Odontotaenius_zodiacus
+		Odontotaenius_disjunctus
+		Ogyges_furcillatus
+		Ogyges_championi
+		Ogyges_adamsi
+		Ogyges_hondurensis
+		Ogyges_crassulus
+		Oileus_sargi
+		Petrejoides_tenuis
+		Petrejoides_reyesi
+		Petrejoides_michoacanae
+		Petrejoides_guatemalae
+		Popilius_disjunctus
+		Popilius_haagi
+		Popilius_eclipticus
+		Proculejus_brevis
+		Proculus_opacus
+		Proculus_opacipennis
+		Proculus_jicaquei
+		Proculus_burmeisteri
+		Proculus_goryi
+		Proculus_mniszechi
+		Pseudacanthus_grannulipennis
+		Pseudoarrox_karreni
+		Spurius_bicornis
+		Verres_hageni
+		Verres_corticicola
+		Verres_cavicollis
+		Verres_furcilabris
+		Veturius_boliviae
+		Passalus_interstitialis
+		Passalus_caelatus
+		Passalus_cornutus
+		Passalus_spp
+		Passalus_coniferus
+		Passalus_spiniger
+		Passalus_guatemalensis
+		Passalus_unicornis
+		Passalus_morio
+		Passalus_punctatostriatus
+		Passalus_punctiger
+		Paxillus_leachi
+		Paxillus_recticarinatus
+		Leptaulax_bicolor
+		Taeniocerus_platypus
+		Taeniocerus_bicanthatus
+		Nigidius_sp
+		Prosopocoilus_inclinatus
+		Odonteus_darlingtoni
+		Amphicoma_vulpes
+		Lichnanthe_vulpina
+		Geotrupes_vernalis
+		Geotrupes_mutator
+		Geotrupes_spiniger
+		Geotrupes_stercorarius
+		Typhaeus_typhoeus
+		Typhaeus_hiostius
+		Frickius_variolosus
+		Taurocerastes_patagonicus
+		Lethrus_apterus
+		Lethrus_jacobsoni
+		Hybosorus_illigeri
+		Chaetodus_sp
+		Cryptogenius_fryi
+		Phaeochrous_emarginatus
+		Anaides_simplicicollis
+		Anaides_sp
+		Cyphopisthes_descarpertriesi
+		Paulianostes_acromialis
+		Astaenomoechus_sp1
+		Astaenomoechus_sp2
+		Pterorthochaetes_insularis
+		Madrasostes_variolosum
+		Madrasostes_sculpturatum
+		Ceratocanthus_relucens
+		Germarostes_aphodioides
+		Germarostes_globosus
+		Germarostes_macleayi
+		Anomala_horticola
+		Oryctes_rhinoceros
+		Oryctes_boas
+		Oryctes_elegans
+		Clemora_smithi
+		Melolontha_melolontha
+		Amphimallon_majalis
+		Amphimallon_caucasium
+		Aphodius_fimetarius
+		Aphodius_fossor
+		Aphodius_prodromus
+		Aphodius_sphacelatus
+		Aphodius_ater
+		Aphodius_haroldianus
+		Aphodius_elegans
+		Aphodius_lividus
+		Aphodius_rufipes
+		Ataenius_sp
+		Acanthoscelides_obtectus
+		Bruchus_pisorum
+		Bruchus_quadrimaculatus
+		Zabrotes_subfasciatus
+		Bruchidius_obtectus
+		Eugonycha_melanostoma
+		Labidomera_suturella
+		Leptinotarsa_decemlineata
+		Proseicela_crucigera
+		Platyphora_conviva
+		Platyphora_quadrisignata
+		Platyphora_fasciatomaculata
+		Platyphora_semiviridis
+		Chrysochloa_superba
+		Chrysolina_varians
+		Chrysolina_hyperici
+		Ambrostoma_quadriimpressum
+		Gonioctena_americana
+		Gonioctena_japonica
+		Gonioctena_nigroplagiata
+		Gonioctena_olivacea
+		Gonioctena_rubripennis
+		Gonioctena_springlovae
+		Gonioctena_sibirica
+		Gonioctena_rufipes
+		Phytodecta_rufipes
+		Phytodecta_viminalis
+		Chrysophtharta_sp
+		Paropsis_sp
+		Phratora_sp
+		Galerucella_calmariensis
+		Galerucella_pusilla
+		Galerucella_cavicollis
+		Agasicles_hygrophila
+		Aphthona_cyparissiae
+		Aphthona_abdominalis
+		Aphthona_czwalinae
+		Aphthona_flava
+		Aphthona_lacertosa
+		Aphthona_nigriscutus
+		Chrysomela_crotchi
+		Plagiodera_versicolor
+		Gastrophysa_viridula
+		Promecotheca_reichi
+		Pseudomesomphalia_thallassina
+		Stolas_thalassina
+		Cassida_canaliculata
+		Omaspides_pallidipennis
+		Omaspides_tricolorata
+		Eugenysa_columbiana
+		Acromis_spinifex
+		Acromis_sparsa
+		Euryope_terminalis
+		Lema_praeusta
+		Hoplocerambyx_spinicornis
+		Prionus_californicus
+		Epepeotus_luscus
+		Saperda_carcharias
+		Oberia_erythrocephala
+		Eunausibius_wheeleri
+		Nepharis_sp
+		Nepharinus_sp
+		Uleiota_debilis
+		Nausibius_major
+		Coccidotrophus_socialis
+		Cryptolestes_ferrugineus
+		Oryzaephilus_surinamensis
+		Dacne_californica
+		Languria_mozardi
+		Caenolanguria_sp
+		Encaustes_verticalis
+		Encaustes_cruenta
+		Coptengis_sp
+		Aulacochilus_flavocinctus
+		Aulacochilus_papuanus
+		Episcaphula_sp
+		Megalodacne_fasciata
+		Megalodacne_heros
+		Triplax_thoracica
+		Toramus_pulchellus
+		Spondotriplax_antennalis
+		Tritoma_erythrocephala
+		Tritoma_unicolor
+		Mycotretus_scitulus
+		Pselaphacus_puncticollis
+		Pselaphacus_signatus
+		Pselaphacus_viticollis
+		Mycotretus_sp
+		Tritoma_pulchra
+		Lybas_sp
+		Aegithus_cardinalis
+		Iphiclus_conspicillatus
+		Prepopharus_xanthomelas
+		Iphiclus_sp
+		Iphiclus_delineatus
+		Iphiclus_pulcher
+		Iphiclus_sedecimmaculatus
+		Erotylina_jaspidea
+		Ellipticus_testaceus
+		Adalia_bipunctata
+		Chilocorus_nigritus
+		Chilocorus_stigma
+		Chilocorus_kuwanae
+		Coccinella_septempunctata
+		Coccinella_novemnotata
+		Epilachna_chrysomelina
+		Exochomus_flavipes
+		Harmonia_axyridis
+		Leis_conformis
+		Stethorus_punctum
+		Callineda_testudinaria
+		Cryptolaemus_montrouzieri
+		Cycloneda_limbifer
+		Hippodamia_convergens
+		Rodolia_cardinalis
+		Coleomegilla_maculata
+		Pseudoscymnus_tsugae
+		Brachypterolus_pulicarius
+		Carpophilus_hemipterus
+		Carpophilus_humeralis
+		Carpophilus_obsoletus
+		Carpophilus_longiventris
+		Byturus_tomentosus
+		Cybocephalus_semiflavus
+		Deporaus_spp
+		Rhynchites_auratus
+		Apoderus_spp
+		Paroplapoderus_spp
+		Phymatapoderus_spp
+		Byctiscus_spp
+		Attelabus_spp
+		Protocylas_coimbatorensis
+		Anthonomus_pomorum
+		Bangasternus_fausti
+		Larinus_obtusus
+		Larinus_minutus
+		Cyphocleonus_achates
+		Rhinocyllus_conicus
+		Trichosirocalus_horridus
+		Hypera_nigrirostris
+		Hypera_variabilis
+		Hypera_brunnipennis
+		Phytonomus_meles
+		Gymnetron_antirrhini
+		Gymnetron_linariae
+		Gymnetron_netum
+		Mecinus_janthinus
+		Hylobius_transversovittatus
+		Alcidodes_bubo
+		Alcidodes_affaber
+		Paramecops_farinosa
+		Conotrachelus_nenuphar
+		Myllocerus_maculosus
+		Polydrusus_mollis
+		Oxyops_vitiosa
+		Neochetina_eichhorniae
+		Neochetina_bruchi
+		Lagria_hirta
+		Anatolica_polita
+		Phrenapates_bennetti
+		Bolitotherus_cornutus
+		Parastizopus_armaticeps
+		Mesomorphus_villiger
+		Tenebrio_molitor
+		Tenebrio_obscurus
+		Tribolium_castaneum
+		Gyriosomus_luczotii
+		Mylabris_pustulatus
+		Necrobia_rufipes
+		Enoclerus_barri
+		Enoclerus_lecontei
+		Tenebroides_mauritanicus
+		Agriotes_mancus
+		Agriotes_ponticus
+		Melanotus_longulus
+		Melanotus_fuscipes
+		Drilus_flavescens
+		Lamprophorus_tenebrosus
+		Capnodis_tenebrionis
+		Coraebus_rubi
+		Agrilus_arcuatus
+		Sphenoptera_jugoslavica
+		Macrosiagon_tricuspidata
+		Heterocerus_flexuosus
+		Lapsus_tristis
+		Neoheterocerus_pallidus
+		Dampfius_collaris
+		Stenelmis_sexlineata
+		Anobium_punctatum
+		Lasioderma_serricorne
+		Anthrenus_museorum
+		Anthrenus_verbasci
+		Attagenus_pellio
+		Attagenus_piceus
+		Dermestes_frischi
+		Dermestes_lardarius
+		Dermestes_maculatus
+		Trogoderma_granarium
+		Trogoderma_versicolor
+		Trogoderma_varium
+		Trinodes_rufescens
+		Lyctus_brunneus
+		Lyctus_linearis
+		Dinoderus_minutus
+		Rhizopertha_dominica
+		Ptinus_fur
+		Ptinus_sexpunctatus
+		Laricobius_erichsonii
+		Calosoma_sycophanta
+		Carabus_auronitens
+		Carabus_nemoralis
+		Bembidion_pallidipenne
+		Scarites_liostracus
+		Scarites_subterraneus
+		Scarites_substriatus
+		Scarites_madagascariensis
+		Distichus_perrieri
+		Discaris_striolifrons
+		Typhloscaris_andringitrae
+		Dyscherus_peyrierasi
+		Tapinoscaris_sp
+		Dinoscaris_sp
+		Dinoscaris_gallienii
+		Mormolyce_phyllodes
+		Lebia_grandis
+		Carterus_calydonus
+		Pterostichus_multipunctatus
+		Pterostichus_diligendus
+		Pterostichus_jurinei
+		Pterostichus_anthracinus
+		Notonomus_gravis
+		Notonomus_philippi
+		Molops_sp
+		Abax_ater
+		Abax_parallelepipedus
+		Percus_passerinii
+		Dytiscus_marginalis
+		Agabus_bipustulatus
+		Chrysopa_madestes
+		Chrysopa_oculata
+		Chrysopa_rufilabris
+		Chrysopa_formosana
+		Chrysopa_plorabunda
+		Chrysopa_perla
+		Chrysoperla_carnea
+		Sympherobius_amicus
+		Micromus_posticus
+		Hemerobius_humuli
+		Hemerobius_stigma
+		Climaciella_brunnea
+		Mantispa_interrupta
+		Sialis_lutaria
+		Corydalus_cornutus
+		Xyela_gallicaulis
+		Dielocerus_diasi
+		Digelasinus_diversipes
+		Perga_affinis
+		Perga_lewisi
+		Thermos_olfersii
+		Pontania_capreae
+		Nematus_tiliae
+		Trichiocampus_viminalis
+		Hoplocampa_crataegi
+		Aglaostigma_occipitosa
+		Athalia_rosae
+		Cephalcia_fuscipennis
+		Cephalcia_isshikii
+		Pamphilus_latifrons
+		Pamphilus_betulae
+		Helorus_paradoxus
+		Phanurus_beneficiens
+		Trissolcus_basalis
+		Anacharis_immunis
+		Xyalaspis_sp
+		Callaspidia_sp
+		Prosaspicera_sp
+		Figites_sp
+		Neralsia_sp
+		Xyalophora_sp
+		Phaenoglyphis_viliosa
+		Alloxysta_pleuralis
+		Parnips_nigripes
+		Leptopilina_boulardi
+		Kleidotoma_dolichocera
+		Diplolepis_rosae
+		Periclistus_brandtii
+		Synergus_albipes
+		Xestophanes_potentillae
+		Barbotinia_oraniensis
+		Andricus_quercusradicis
+		Aulacidea_tragoponis
+		Isocolus_lichtensteini
+		Ibalia_rufipes
+		Amblymerus_bruchophagi
+		Catolaccus_grandis
+		Dirhicnus_alboannulatus
+		Eupteromalus_nidulans
+		Habrocytus_cerealellae
+		Muscidifurax_raptor
+		Kapala_terminalis
+		Stilbula_cynipiformis
+		Melittobia_clavicornis
+		Melittobia_digitata
+		Melittobia_acasta
+		Melittobia_australica
+		Pediobius_foveolatus
+		Brachymeria_femorata
+		Prospaltella_perniciosa
+		Aphelinus_mali
+		Aphelinus_semiflavus
+		Aphelinus_asychis
+		Eurytoma_amygdali
+		Eurytoma_aciculata
+		Harmolita_tritici
+		Metaphycus_alberti
+		Ooencyrtus_kuwanai
+		Eretmocerus_eremicus
+		Trichogramma_minutum
+		Trichogramma_embryophagum
+		Trichogramma_evanescens
+		Trichogramma_cacoeciae
+		Trichogramma_ostriniae
+		Trichogramma_semblidis
+		Encarsia_inaron
+		Encarsia_formosa
+		Anaphes_flavipes
+		Exeristes_roborator
+		Phaeogenes_nigridens
+		Phaeogenes_cynarae
+		Aptesis_nigrocincta
+		Bathyplectes_anurus
+		Bathyplectes_curculionis
+		Campoplex_haywardi
+		Eriborus_terebrans
+		Diadegma_insulare
+		Nythobia_insularis
+		Angitia_fenestralis
+		Hyposoter_disparis
+		Mesoleius_tenthredinis
+		Cedria_paradoxa
+		Bracon_mellitor
+		Bracon_lineatellae
+		Habrobracon_juglandis
+		Apharaeta_genevensis
+		Aphidius_gomezi
+		Lysiphlebus_testaceipes
+		Nealiolus_curculionis
+		Peristenus_digoneutis
+		Cotesia_glomerata
+		Apanteles_glomeratus
+		Apanteles_melanoscelus
+		Pholetesor_ornigis
+		Microplitis_plutellae
+		Chelonus_annulipes
+		Goniozus_gallicola
+		Goniozus_emigratus
+		Goniozus_montanus
+		Goniozus_swirskiana
+		Parasierola_nephantidis
+		Parasierola_nigrifemur
+		Prosierola_bicarinata
+		Bethylus_distigma
+		Bethylus_sp
+		Cephalonomia_gallicola
+		Prorops_nasuta
+		Sclerodermus_domesticus
+		Sclerodermus_immigrans
+		Sclerodermus_harmandi
+		Pristocera_rufa
+		Laelius_pedatus
+		Trichrysis_cyanea
+		Chrysis_shanghaiensis
+		Sceliphron_assimile
+		Sceliphron_laetum
+		Dynatus_nigripes
+		Trigonopsis_cameronii
+		Sphecius_speciosus
+		Sphecius_pectoralis
+		Ammophila_pubescens
+		Ammophila_sabulosa
+		Ammophila_campestris
+		Moniaecera_asperata
+		Podagritus_parrotti
+		Lindenius_colombianus
+		Lindenius_armaticeps
+		Lindenius_buccandensis
+		Oxybelus_sericeus
+		Oxybelus_subulatus
+		Trypoxylon_palliditarse
+		Trypoxylon_politum
+		Trypoxylon_tenoctitlan
+		Trypoxylon_attenuatum
+		Trypoxylon_beaumonti
+		Trypoxylon_superbum
+		Trypoxylon_rogenhoferi
+		Trypoxylon_lactitarse
+		Trypoxylon_xanthandrum
+		Trypoxylon_subimpressum
+		Trypoxylon_collinum
+		Pison_spinolae
+		Psenulus_interstitialis
+		Psenulus_concolor
+		Arpactophilus_mimi
+		Microstigmus_comes
+		Bembecinus_egens
+		Bembecinus_antipodum
+		Bembecinus_hirtulus
+		Bembix_mareeba
+		Bembix_promontorii
+		Austrogorytes_bellicosus
+		Clitemnestra_plomleyi
+		Philanthus_triangulum
+		Cerceris_truncata
+		Megalopta_genalis
+		Halictus_marginatus
+		Lasioglossum_malachurum
+		Osmia_papaveris
+		Osmia_rufa
+		Chalicodoma_muraria
+		Exoneurella_eremophila
+		Tiphia_popilliavora
+		Myrmosula_parvula
+		Pseudomethoca_frigida
+		Auplopus_semialatus
+		Pepsis_thisbe
+		Scolia_hirta
+		Scolia_manilae
+		Abispa_ephippium
+		Ancistrocerus_adiabatus
+		Euodynerus_foraminatus
+		Synagris_cornuta
+		Zethus_miniatus
+		Antepipona_tropicalis
+		Calligaster_cyanoptera
+		Paraleptomenes_mephitis
+		Anischnogaster_sp
+		Anischnogaster_laticeps
+		Liostenogaster_flavolineata
+		Drusus_annulatus
+		Limnephilus_flavicornis
+		Limnephilus_lunatus
+		Potamophylax_stellatus
+		Phryganaea_grandis
+		Brachycentrus_subnubilus
+		Mystacides_longicornis
+		Athripsodes_cinereus
+		Athripsodes_senilis
+		Hydropsyche_angustipennis
+		Oecetis_lacustris
+		Notidobia_ciliaris
+		Bereodes_minuta
+		Agapeta_zoegana
+		Archips_rosanus
+		Enarmonia_formosana
+		Pammene_juliana
+		Pandemis_ribeana
+		Spilonota_ocellana
+		Herpystis_cuscutae
+		Epiphyas_postvittana
+		Pelochrista_medullana
+		Agrotis_segetum
+		Agrotis_repleta
+		Calophasia_lunula
+		Heliothis_armigera
+		Heliothis_zea
+		Heliothis_zeae
+		Actebia_fennica
+		Laphygma_frugiperda
+		Lithophane_laticinerea
+		Orthosia_hibisci
+		Othreis_materna
+		Tiracola_plagiata
+		Trichoplusia_ni
+		Euproctis_chrysorrhoea
+		Lymantria_dispar
+		Lymantria_ampla
+		Stilpnotia_salicis
+		Orgyia_postica
+		Celama_sorghiella
+		Diacrisia_virginica
+		Phalera_bucephala
+		Thaumetopoea_processionea
+		Antheraea_yamamai
+		Antheraea_pernyi
+		Graellsia_isabellae
+		Actias_selene
+		Saturnia_pyri
+		Saturnia_atlantica
+		Saturnia_pavonia
+		Saturnia_pavoniella
+		Saturnia_spini
+		Saturnia_cephalariae
+		Caligula_lindia
+		Perisomena_caecigena
+		Neoris_huttoni
+		Samia_cynthia
+		Aglia_tau
+		Protoparce_maculata
+		Protoparce_sexta
+		Hyles_euphorbiae
+		Bombyx_mori
+		Malacosoma_disstria
+		Chiasmia_clathrata
+		Pieris_napi
+		Pieris_rapae
+		Polygonia_c-album
+		Hypolimnas_anomala
+		Hypolimnas_antilope
+		Papilio_demoleus
+		Papilio_polyxenes
+		Quinta_cannae
+		Corcyra_cephalonica
+		Cryptoblabes_gnidiella
+		Ectomyelois_ceratoniae
+		Etiella_zinckenella
+		Margaronia_unionalis
+		Nomophila_noctuella
+		Plodia_interpunctella
+		Crambus_laqueatellus
+		Diatraea_lineolata
+		Diatraea_saccharalis
+		Vitula_edmandsii
+		Anagasta_kuhniella
+		Chilo_auricilia
+		Chilo_suppresalis
+		Cossus_cossus
+		Zeuzera_pyrina
+		Zeuzera_coffeae
+		Azygophleps_scalaris
+		Eulophonotus_myrmeleon
+		Aegeria_pictipes
+		Chamaesphecia_hungarica
+		Tineola_bisselliella
+		Oiketicus_kirbyi
+		Phthorimaea_operculella
+		Metzneria_paucipunctella
+		Hepialus_humuli
+		Oxycanus_cervinata
+		Pulex_irritans
+		Ctenocephalides_felis
+		Panorpa_pryeri
+		Panorpa_helena
+		Boreus_sp
+		Hylobittacus_apicalis
+		Vermileo_vermileo
+		Pterodonta_flavipes
+		Paramenia_semiauriceps
+		Silbomyia_sp
+		Stilbomyella_sp
+		Platytropesa_sp
+		Dermatobia_sp
+		Gasterophilus_sp
+		Ruttenia_sp
+		Strobiloestrus_sp
+		Hypoderma_lineatum
+		Hypoderma_bovis
+		Hypoderma_tarandi
+		Oestromyia_sp
+		Oestroderma_sp
+		Pharyngomyia_sp
+		Cephenemyia_sp
+		Pharyngobolus_sp
+		Tracheomyia_sp
+		Kirkioestrus_sp
+		Cephalopina_sp
+		Gedoelstia_sp
+		Rhinoestrus_sp
+		Oestrus_sp
+		Oestrus_ovis
+		Macronychia_aurata
+		Euphyto_pollinaris
+		Phrosinella_fulvicornis
+		Wohlfartia_opaca
+		Boettscherisca_formosensis
+		Sarcophaga_bullata
+		Sarcophaga_shermani
+		Sarcophaga_cooleyi
+		Sarcophaga_stercoraria
+		Sarcophaga_nigriventris
+		Bengalia_depressa
+		Eggisops_pecchiolii
+		Dinera_takanoi
+		Dexia_fulvifera
+		Voria_ruralis
+		Hermya_beelzebul
+		Ectophasia_rotundiventris
+		Gymnosoma_rotundatum
+		Atylostoma_towadensis
+		Thelairoleskia_sp
+		Ceromya_silacea
+		Peribaea_tibialis
+		Nemoraea_takanoi
+		Panzeria_melanopyga
+		Janthinomyia_elegans
+		Mikia_patellipalpis
+		Tachina_minuta
+		Tachina_nupta
+		Winthemia_venusta
+		Nemorilla_floralis
+		Mycteromyiella_marginalis
+		Paratryphera_minor
+		Phorocerosoma_vicarium
+		Zenilliana_sp
+		Trigonospila_transvittata
+		Chaetexorista_sp
+		Exorista_larvarum
+		Exorista_mimula
+		Parasetigena_silvestris
+		Exorista_bisetosa
+		Phorocera_obscura
+		Phorinia_spinulosa
+		Ctenophorinia_adiscalis
+		Uroeuantha_longipes
+		Uromedina_eumorphophaga
+		Prodegeeria_japonica
+		Meigenia_majuscula
+		Admontia_sp
+		Lixophaga_latigena
+		Blondelia_nigripes
+		Vibrissina_turrita
+		Degeeriopsis_sp
+		Compsiluroides_flavipalpis
+		Biomeigenia_sp
+		Istocheta_sp
+		Urodexia_uramyoides
+		Medina_sp
+		Medinodexia_sp
+		Aplomya_confinis
+		Carcelia_sp
+		Senometopia_cariniforceps
+		Phebellia_glauca
+		Prooppia_nigripalpis
+		Epicampocera_succincta
+		Isosturmia_japonica
+		Phryxe_heraclei
+		Sturmia_bella
+		Suensonomyia_nudinerva
+		Eumea_linearicornis
+		Gonia_chinensis
+		Pseudogonia_rufifrons
+		Blepharipa_sturmioides
+		Frontina_laeta
+		Pales_pavida
+		Nealsomyia_rufella
+		Phryno_katoi
+		Pexopsis_pilosa
+		Bothria_japonica
+		Calozenillia_tamara
+		Zenillia_dolosa
+		Tricyclea_fasciata
+		Rhynchomya_soyauxi
+		Stegosoma_vinculatum
+		Villeneuviella_weissi
+		Protophormia_terra-novae
+		Phormia_regina
+		Protocalliphora_avium
+		Chrysomya_bezziana
+		Hemipyrellia_ligurriens
+		Dyscritomyia_fasciata
+		Phaenicia_sericata
+		Cynomopsis_cadaverina
+		Eucalliphora_lilaea
+		Xenocalliphora_hortona
+		Pericallimyia_flavicauda
+		Paradichosia_sp
+		Euphumosia_papua
+		Gulmargia_angustisquama
+		Stomorhina_lunata
+		Stomorhina_rugosa
+		Stomorhina_cribrata
+		Lucilia_sericata
+		Lucilia_cuprina
+		Bellardia_vulgaris
+		Bellardia_austriaca
+		Bellardia_floralis
+		Calliphora_erythrocephala
+		Calliphora_croceipalpis
+		Calliphora_vomitoria
+		Calliphora_stygia
+		Calliphora_augur
+		Calliphora_vicina
+		Calliphora_terrae-novae
+		Phumosia_imitans
+		Phumosia_stabulans
+		Phumosia_abdominalis
+		Eurychaeta_muscaria
+		Eurychaeta_palpalis
+		Eurychaeta_nigrapex
+		Amenia_imperialis
+		Amenia_leonina
+		Amenia_chrysame
+		Catapicephala_michikoae
+		Catapicephala_splendens
+		Catapicephala_sinica
+		Mesembrinella_fulvipes
+		Mesembrinella_vaga
+		Mesembrinella_spicata
+		Fannia_scalaris
+		Fannia_leucosticta
+		Fannia_canicularis
+		Fannia_fulgida
+		Fannia_femoralis
+		Haematobia_stimulans
+		Mesembrina_meridiana
+		Morellia_hortorum
+		Orthellia_caesarion
+		Eudasyphora_sp
+		Philornis_torquans
+		Neomuscina_nudinervis
+		Ophyra_aenescens
+		Gymnopapuaia_sp
+		Dichaetomyia_luteiventris
+		Charadrella_malacophaga
+		Aethiopomyia_gigas
+		Stomoxys_calcitrans
+		Stomoxys_sitiens
+		Stomoxys_ochrosoma
+		Lyperosia_sp
+		Lyperosia_irritans
+		Polietes_lardaria
+		Polietes_hirticrura
+		Polietina_flavithorax
+		Polietina_nigra
+		Polietina_distincta
+		Musca_domestica
+		Musca_fergusoni
+		Musca_lusoria
+		Musca_bezzii
+		Musca_convexifrons
+		Musca_planiceps
+		Neomyia_sp
+		Neomyia_australis
+		Pyrellia_sp
+		Pyrellia_cyanicolor
+		Dasyphora_albofasciata
+		Dasyphora_pratorum
+		Dasyphora_asiatica
+		Dasyphora_gussakovskii
+		Dasyphora_stackelbergiana
+		Dasyphora_cyanela
+		Cyrtoneurina_gemina
+		Cyrtoneurina_maculipennis
+		Cyrtoneurina_polystigma
+		Cyrtoneurina_bequaerti
+		Hebecnema_uniseta
+		Hebecnema_rufula
+		Hebecnema_infuscata
+		Papuaia_asternata
+		Papuaia_curvinervis
+		Papuaia_marginata
+		Coenosopsia_floridensis
+		Coenosopsia_peruviana
+		Phaonantho_sp
+		Pegoplata_palposa
+		Pegoplata_pictipes
+		Delia_antiqua
+		Erioischia_brassicae
+		Emmesomyia_socia
+		Emmesomyia_kurahashii
+		Emmesomyia_flavitarsis
+		Emmesomyia_suwai
+		Spathephilus_nigriventris
+		Scathophaga_sp
+		Nanna_brevifrons
+		Nanna_longicornis
+		Nanna_bispinosa
+		Nanna_puberula
+		Cordilura_ontario
+		Cordilura_setosa
+		Cordilura_variabilis
+		Cordilura_pudica
+		Cordilura_preusta
+		Cordilura_gagatina
+		Cordilura_carbonaria
+		Cordilura_gracilipes
+		Cordilura_pleuriticia
+		Strobilomyia_sp
+		Hylemya_vagans
+		Hylemya_variata
+		Hylemya_longiostris
+		Hylemya_takagii
+		Hylemya_detracta
+		Hylemya_femoralis
+		Hylemya_probilis
+		Glossina_morsitans
+		Glossina_fuscipes
+		Glossina_palpalis
+		Basilia_nana
+		Penicillidia_fulvida
+		Dipseliopoda_setosa
+		Paratrichobius_longicrus
+		Megistopoda_aranea
+		Trichobius_major
+		Hippobosca_equina
+		Lipoptena_cervi
+		Melophagus_ovinus
+		Ornithomya_biloba
+		Crataerina_pallida
+		Stenepterys_hirundinis
+		Aedes_aegyptii
+		Anopheles_atroparvus
+		Culex_fatigans
+		Corynoneura_scutellata
+		Cricotopus_trifasciatus
+		Smittia_gracilis
+		Chironomus_plumosus
+		Chironomus_tentans
+		Chironomus_tepperi
+		Simulium_spp
+		Simulium_pinctipes
+		Porricondyla_nigripennis
+		Porricondyla_media
+		Rasnitsia_verticosa
+		Frirenia_manca
+		Cecidomyia_sp
+		Spurgia_esulae
+		Anabremia_inquilina
+		Contarinia_nasturtii
+		Aphidoletes_aphidimyza
+		Bradysia_impatiens
+		Sciara_coprophila
+		Philosepodon_humeralis
+		Psychoda_alternata
+		Erioptera_lutea
+		Ctenophora_guttata
+		Rhipidia_maculata
+		Tipula_flavolineata
+		Tipula_luna
+		Goniops_chrysacoma
+		Tabanus_macer
+		Tabanus_rubidus
+		Tabanus_tenens
+		Neoplasta_parahebes
+		Megagrapha_exquisita
+		Wiedemannia_lepida
+		Ocydromia_glabricula
+		Platypalpus_holosericus
+		Platypalpus_aequalis
+		Platypalpus_melleus
+		Termitophilomyia_zimbraunsi
+		Spiniphora_punctipennis
+		Megaselia_aequalis
+		Rhingia_rostrata
+		Rhingia_campestris
+		Merodon_equestris
+		Sericomyia_silentis
+		Platycheirus_albimanus
+		Baccha_obscuripennis
+		Baccha_elongata
+		Syrphus_ribesii
+		Syrphus_vitripennis
+		Chrysotoxum_cautum
+		Rhagoletis_juglandis
+		Rhagoletis_cerasi
+		Rhagoletis_boycei
+		Dacus_tryoni
+		Urophora_affinis
+		Urophora_quadrifasciata
+		Terellia_virens
+		Chaetorellia_acrolophi
+		Lochmostylia_borgmeieri
+		Tauroscypson_sp
+		Ramuliseta_lindneri
+		Ramuliseta_madagascariensis
+		Nothybus_kempi
+		Nothybus_longithorax
+		Ortalischema_sp
+		Paratoxopoda_depilis
+		Themira_annulipes
+		Themira_minor
+		Themira_superba
+		Dicranosepsis_sp
+		Australosepsis_sp
+		Sepsis_cynipsea
+		Sepedon_sphegea
+		Sepedon_neili
+		Diacea_sp
+		Dichromyia_sanguiniceps
+		Amphidysis_hesperia
+		Heleomyza_sp
+		Thyreophorella_sp
+		Tapeigaster_sp
+		Trixoscelis_sp
+		Spilochroa_sp
+		Axinota_uniformis
+		Curtonota_helvum
+		Curtonota_sp
+		Cyrtona_sp
+		Chloropinae_sp-pachylophus
+		Eurina_minuta
+		Platycephala_scapularum
+		Meromyzella_sp
+		Phyladelphus_sp
+		Parectecephala_sp1
+		Parectecephala_sp2
+		Parectecephala_sp
+		Ectecephala_flavescens
+		Ectecephala_coeruleifrons
+		Homaluroides_quinquepunctatus
+		Pachylophus_frontalis
+		Pachylophus_punctifemur
+		Pachylophus_lugens
+		Pachylophus_beckeri
+		Pachylophus_proximus
+		Pachylophus_flavipes
+		Pachylophus_femoratus
+		Pachylophus_fossulatus
+		Pachylophus_obscurior
+		Pachylophus_pellucidus
+		Pachylophus_punctifrons
+		Pachylophus_splendidus
+		Pachylophus_varipes
+		Amiota_sp
+		Titanochaeta_contestata
+		Cladochaeta_sp
+		Diathoneura_cruciata
+		Colocasiomyia_colocasiae
+		Zaprionus_indianus
+		Mycodrosophila_dimidiata
+		Drosophila_undulata
+		Drosophila_reducta
+		Drosophila_inflata
+		Drosophila_crassifemur
+		Drosophila_nasalis
+		Scaptomyza_caliginosa
+		Scaptomyza_throckmortoni
+		Scaptomyza_oahuensis
+		Scaptomyza_mauiensis
+		Scaptomyza_nigrita
+		Scaptomyza_apicata
+		Scaptomyza_adusta
+		Scaptodrosophila_sp1
+		Scaptodrosophila_sp2
+		Scaptodrosophila_leoni
+		Drosophila_sp-affinis
+		Drosophila_affinis
+		Drosophila_athabasca
+		Drosophila_aguape
+		Drosophila_melanogaster
+		Drosophila_obscura
+		Drosophila_pseudoobscura
+		Drosophila_sp-flavopilosa
+		Drosophila_flavopilosa
+		Drosophila_nesiota
+		Drosophila_incompta
+		Drosophila_cestri
+		Drosophila_crossoptera
+		Drosophila_lauta
+		Drosophila_gentica
+		Drosophila_sp-onychophora
+		Drosophila_desbaratabaile
+		Drosophila_arboloco
+		Drosophila_funebris
+		Drosophila_hyalipennis
+		Drosophila_margarita
+		Poecilips_spp
+		Stephanoderes_hampei
+		Hylesinus_californicus
+		Polygraphus_sp
+		Pteleobius_sp
+		Chaetophloeus_minimus
+		Pseudohylesinus_sp
+		Myelophilus_piniperda
+		Chramesus_exul
+		Chramesus_hicoriae
+		Phloeosimus_sp
+		Corthylus_spp
+		Gnathotrichus_materiarius
+		Minarthrum_sp
+		Scolytoplatypus_sp
+		Scolytoplatypus_kivuensis
+		Trypodendron_betulae
+		Trypodendron_lineatum
+		Scolytus_sp
+		Scolytus_rugulosus
+		Scolytus_intricatus
+		Scolytus_scolytus
+		Scolytus_mali
+		Scolytus_multistriatus
+		Scolytus_ventralis
+		Camptocerus_sp
+		Conophthorus_radiatae
+		Platypus_sp
+		Platypus_cylindrus
+		Platypus_severini
+		Platypus_compositus
+		Crossotarsus_saundersi
+		Australoplatypus_incompertus
+		Doliopygus_sp
+		Doliopygus_contradti
+		Pityokteines_sp
+		Ips_pini
+		Ips_typographus
+		Pityogenes_chalcographus
+		Xyleborus_germanus
+		Xyleborus_agnaticeps
+		Xyleborus_alluaudi
+		Xyleborus_asperatus
+		Xyleborus_compatus
+		Xyleborus_comparabilis
+		Xyleborus_cruciformis
+		Xyleborus_fornicatus
+		Xyleborus_integer
+		Xyleborus_monographus
+		Xyleborus_subscribosus
+		Xyleborus_xanthopus
+		Xyleborus_xylographus
+		Xyleborus_affinis
+		Anisandrus_obesus
+		Coccotrypes_carpophagus
+		Ozopemon_brownei
+		Dendroctonus_ponderosae
+		Dendroctonus_brevicomis
+		Dendroctonus_valens
+		Dendroctonus_piceaperda
+		Dendroctonus_pseudotsugae
+		Coptorhina_sp
+		Deltochilum_spp
+		Megathoposoma_candezei
+		Gymnopleurus_mopsus
+		Anachalcos_cupreus
+		Pachylomerus_femoralis
+		Circellium_bacchus
+		Pedaria_sp
+		Coptodactyla_sp
+		Stiptopodius_sp
+		Euoniticellus_intermedius
+		Cyptochirus_distinctus
+		Tragiscus_dimidiatus
+		Cheironitis_sp
+		Synapsis_tmolus
+		Dichotomius_anaglypticus
+		Dichotomius_haroldi
+		Dichotomius_micans
+		Dichotomius_semiaeneus
+		Dichotomius_torulosus
+		Gromphas_lacordairei
+		Gromphas_spp
+		Canthon_bispinus
+		Canthon_cyanellus
+		Canthon_muticus
+		Canthon_edentulus
+		Canthon_pilularius
+		Catharsius_molossus
+		Catharsius_spp
+		Eurysternus_deplanatus
+		Eurysternus_inflexus
+		Eurysternus_magnus
+		Eurysternus_marmoreus
+		Eurysternus_mexicanus
+		Eurysternus_balachowskyi
+		Eurysternus_caribaeus
+		Eurysternus_foedus
+		Eurysternus_jessopi
+		Ontherus_sulcator
+		Ontherus_appendiculatus
+		Coprophanaeus_milon
+		Coprophanaeus_ecuadoriensis
+		Bolbites_onitoides
+		Bolbites_spp
+		Phanaeus_daphnis
+		Phanaeus_spp
+		Sulcophanaeus_carnifex
+		Sulcophanaeus_batesi
+		Sulcophanaeus_menelas
+		Sulcophanaeus_imperator
+		Sceliages_hippias
+		Sceliages_adamastor
+		Sceliages_brittoni
+		Scarabaeus_cicatricosus
+		Scarabaeus_sacer
+		Scarabaeus_semipunctatus
+		Scarabaeus_catenatus
+		Scarabaeus_funebris
+		Scarabaeus_galenus
+		Scarabaeus_westwoodi
+		Scarabaeus_rusticus
+		Scarabaeus_hippocrates
+		Scarabaeus_gariepinus
+		Scarabaeus_striatum
+		Scarabaeus_proboscideus
+		Scarabaeus_rugosus
+		Scarabaeus_aesculapius
+		Scarabaeus_bennigseni
+		Scarabaeus_denticollis
+		Scarabaeus_endroedyi
+		Scarabaeus_fitzsimoni
+		Scarabaeus_glentoni
+		Scarabaeus_rodriguesi
+		Scarabaeus_schinzi
+		Scarabaeus_valeflorae
+		Scarabaeus_cristatus
+		Scarabaeus_laevistriatus
+		Kheper_platynotus
+		Kheper_nigroaeneus
+		Kheper_aeratus
+		Kheper_aegyptiorum
+		Kheper_lamarcki
+		Kheper_subaeneus
+		Kheper_cupreus
+		Kheper_clericus
+		Cephalodesmius_armiger
+		Cephalodesmius_laticollis
+		Cephalodesmius_quadridens
+		Onthophagus_hirculus
+		Onthophagus_vacca
+		Onthophagus_taurus
+		Onthophagus_gazella
+		Onthophagus_binodis
+		Onthophagus_granulatus
+		Oniticellus_cinctus
+		Oniticellus_planatus
+		Oniticellus_formosus
+		Oniticellus_pictus
+		Oniticellus_pseudoplanatus
+		Oniticellus_egregius
+		Oniticellus_rhadamistus
+		Bubas_bison
+		Bubas_bubalus
+		Onitis_belial
+		Onitis_ion
+		Onitis_caffer
+		Copris_hispanus
+		Copris_lunaris
+		Copris_minutus
+		Copris_tullius
+		Copris_incertus
+		Copris_arizonensis
+		Copris_armatus
+		Copris_fricator
+		Copris_lugubris
+		Copris_remotus
+		Copris_sp
+		Copris_diversus
+		Copris_boucardi
+		Copris_laeviceps
+		Copris_gopheri
+		Copris_aspericollis
+		Heliocopris_sp
+		Heliocopris_dilloni
+		Heliocopris_hamadryas
+		Heliocopris_japetus
+		Heliocopris_neptunus
+		Heliocopris_andersoni
+		Erga_longitudinalis
+		Agapophyta_viridula
+		Musgraveia_sulciventris
+		Cumare_pallida
+		Garceus_fidelis
+		Peltocopta_crassiventris
+		Stilida_indecora
+		Lyramorpha_rosea
+		Lyramorpha_parens
+		Heliothrips_haemorrhoidalis
+		Hercinothrips_femoralis
+		Parthenothrips_dracaenae
+		Frankliniella_occidentalis
+		Frankliniella_schultzei
+		Frankliniella_tenuicornis
+		Anactinothrips_gustaviae
+		Elaphrothrips_brevicornis
+		Elaphrothrips_tuberculatus
+		Elaphrothrips_procer
+		Elaphrothrips_denticollis
+		Tiarothrips_subramanii
+		Sporothrips_sp
+		Priesneriana_kabandha
+		Loyolaia_indica
+		Csirothrips_watsoni
+		Panoplothrips_australiensis
+		Lichanothrips_sp2
+		Lichanothrips_sp1
+		Dunatothrips_aneurae
+		Dunatothrips_skene
+		Dunatothrips_aulidis
+		Dunatothrips_vestitor
+		Dunatothrips_armatus
+		Dactylothrips_sp1
+		Dactylothrips_sp2
+		Katothrips_sp
+		Gigantothrips_elegans
+		Liothrips_oleae
+		Torvothrips_kosztarabi
+		Suocerathrips_linguis
+		Hoplothrips_karnyi
+		Hoplothrips_pedicularis
+		Idolothrips_sp
+		Diceratothrips_sp
+		Bactridothrips_brevitubus
+		Megathrips_lativentris
+		Caudothrips_buffai
+		Phloea_paradoxa
+		Phloea_sp
+		Phloea_subquadrata
+		Phloea_corticata
+		Antiteuchus_tripterus
+		Antiteuchus_piceus
+		Antiteuchus_mixtus
+		Antiteuchus_variolus
+		Antiteuchus_macraspis
+		Antiteuchus_amplus
+		Antiteuchus_sepulcralis
+		Antiteuchus_innocens
+		Carbula_humerigera
+		Eysarcoris_inconspicous
+		Halyomorpha_mista
+		Nezara_viridula
+		Oebalus_pognax
+		Perillus_bioculatus
+		Picromerus_bidens
+		Piezodorus_guildinii
+		Podisus_maculiventris
+		Podisus_modestus
+		Thyanta_perditor
+		Brachystethus_sp
+		Pantochlora_vivida
+		Lopadusa_augur
+		Edessa_nigropunctata
+		Chlorocoris_sp
+		Chlorocoris_atrispinus
+		Chlorocoris_depressus
+		Eumecopus_sp
+		Scotinophora_sp
+		Dinocoris_tripterus
+		Euschistus_heros
+		Aspongopus_sp
+		Cyclopelta_sp
+		Arvelius_atropunctatus
+		Bromocoris_souefi
+		Stenus_spp
+		Stenus_juno
+		Stenus_comma
+		Stenus_pubescens
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Neomachilellus_scandens,
+		2	Neomachilellus_amazonicus,
+		3	Neomachilellus_adisi,
+		4	Meinertellus_adisi,
+		5	Lepisma_saccharina,
+		6	Thermobia_domestica,
+		7	Baetis_pumilus,
+		8	Centroptilum_luteolum,
+		9	Cloeon_dipterum,
+		10	Cloeon_simile,
+		11	Siphlonurus_lacustris,
+		12	Ecdyonurus_fluminum,
+		13	Ecdyonurus_helviticus,
+		14	Heptagenia_lateralis,
+		15	Ephoron_virgo,
+		16	Hexagenia_limbata,
+		17	Habrophlebia_modesta,
+		18	Leptophlebia_vespertina,
+		19	Caenis_horaria,
+		20	Caenis_moesta,
+		21	Binoculus_pennigerus,
+		22	Ephemerella_ignita,
+		23	Gomphus_externus,
+		24	Platycnemis_pennipes,
+		25	Eteobalea_intermediella,
+		26	Gryllus_campestris,
+		27	Gryllus_domesticus,
+		28	Brachytrupes_achatinus,
+		29	Brachytrupes_membranaceus,
+		30	Brachytrupes_megacephalus,
+		31	Brachytrupes_grandidieri,
+		32	Anurogryllus_arboreus,
+		33	Anurogryllus_celerinictus,
+		34	Anurogryllus_muticus,
+		35	Gymnogryllus_humeralis,
+		36	Gymnogryllus_sp,
+		37	Scapsipedus_aspersus,
+		38	Gryllodes_sigillatus,
+		39	Miogryllus_lineatus,
+		40	Nemobius_sylvestris,
+		41	Gryllotalpa_gryllotalpa,
+		42	Gryllotalpa_africana,
+		43	Gryllotalpa_borealis,
+		44	Gryllotalpa_hexadactyla,
+		45	Tachycines_asynomorus,
+		46	Conocephalus_fuscus,
+		47	Conocephalus_ensiferum,
+		48	Conocephalus_saltator,
+		49	Tettigonia_viridissima,
+		50	Euthypoda_acutipennis,
+		51	Isophya_pyrenaea,
+		52	Phaneroptera_pistillata,
+		53	Locusta_migratoria,
+		54	Locusta_migratorioides,
+		55	Locustana_pardalina,
+		56	Nomadacris_septemfasciata,
+		57	Schistocerca_gregaria,
+		58	Aeropus_sibericus,
+		59	Taeniopoda_eques,
+		60	Romalea_microptera,
+		61	Poicilocerus_bufonius,
+		62	Poicilocerus_pictus,
+		63	Zonocerus_variegatus,
+		64	Zonocerus_elegans,
+		65	Phymateus_saxosus,
+		66	Maphyteus_sp,
+		67	Maura_sp,
+		68	Phyteumas_sp,
+		69	Taphronota_sp,
+		70	Dictyophorus_sp,
+		71	Aularches_sp,
+		72	Tridactylus_apicalis,
+		73	Didymuria_violescens,
+		74	Extatosoma_tiaratum,
+		75	Phyllium_bioculatum,
+		76	Podacanthus_typhon,
+		77	Tropidoderus_childreni,
+		78	Carausius_morosus,
+		79	Palophus_sp,
+		80	Bactrododema_krugeri,
+		81	Graeffia_crouani,
+		82	Megacrania_alpheus,
+		83	Megacrania_wegneri,
+		84	Ophicrania_leveri,
+		85	Orxines_macklotti,
+		86	Anisomorpha_buprestoides,
+		87	Necroscia_sparaxes,
+		88	Palophus_tiaratus,
+		89	Palophus_episcopalis,
+		90	Metriotes_diocles,
+		91	Pseudosermyle_truncata,
+		92	Timema_californica,
+		93	Eurycantha_calcarata,
+		94	Anchiale_maculata,
+		95	Cyphocrania_gigas,
+		96	Phalces_longiscaphus,
+		97	Ctenomorphodes_tessulatus,
+		98	Eurycnema_goliath,
+		99	Perlodes_mortoni,
+		100	Dinocras_cephalotes,
+		101	Pteronarcys_proteus,
+		102	Clothoda_urichi,
+		103	Monotylota_ramburi,
+		104	Embia_major,
+		105	Oligotoma_nigra,
+		106	Oligotoma_greeniana,
+		107	Oligotoma_ceylonica,
+		108	Oligotoma_humbertiana,
+		109	Anisembia_texana,
+		110	Anechura_bipunctata,
+		111	Chelidurella_acanthopygia,
+		112	Euboriella_annulipes,
+		113	Forficula_auricularia,
+		114	Labidura_riparia,
+		115	Anisolabis_littorea,
+		116	Anisolabis_maritima,
+		117	Euboriella_cincticollis,
+		118	Euboriella_stali,
+		119	Chelisoches_morio,
+		120	Chelidura_pyrenaica,
+		121	Forficula_pubescens,
+		122	Forficula_tomis,
+		123	Pseudochelidura_sinuata,
+		124	Marava_arachidis,
+		125	Diplatys_sp,
+		126	Zorotypus_hubbardi,
+		127	Zorotypus_gurneyi,
+		128	Zorotypus_barberi,
+		129	Nocticola_sp,
+		130	Nocticola_australiensis,
+		131	Eurycotis_floridana,
+		132	Periplaneta_australasiae,
+		133	Periplaneta_americana,
+		134	Blatta_orientalis,
+		135	Cryptocercus_clevelandi,
+		136	Cryptocercus_kyebangensis,
+		137	Cryptocercus_punctulatus,
+		138	Cryptocercus_primarius,
+		139	Cryptocercus_matilei,
+		140	Cryptocercus_darwini,
+		141	Cryptocercus_wrighti,
+		142	Cryptocercus_garciai,
+		143	Ectobius_panzeri,
+		144	Sliferia_lineaticollis,
+		145	Pseudobalta_pusilla,
+		146	Pseudobalta_queenslandica,
+		147	Pseudobalta_cinctella,
+		148	Blattella_germanica,
+		149	Blattella_humbertiana,
+		150	Blattella_vaga,
+		151	Supella_supellectilium,
+		152	Supella_longipalpa,
+		153	Ischnoptera_deropeltiformis,
+		154	Pseudoanaplectinia_yumotoi,
+		155	Symploce_hospes,
+		156	Stayella_bimaculata,
+		157	Stayella_medleri,
+		158	Stayella_cinnamomea,
+		159	Stayella_rohdei,
+		160	Stayella_mckittrickae,
+		161	Stayella_abnormalis,
+		162	Stayella_schmitzi,
+		163	Stayella_enghoffi,
+		164	Diploptera_punctata,
+		165	Perisphaerus_glomeriformis,
+		166	Perisphaerus_semilunatus,
+		167	Perisphaerus_sp,
+		168	Trichoblatta_sericea,
+		169	Salganea_taylori,
+		170	Salganea_rossi,
+		171	Salganea_obtusespinosa,
+		172	Salganea_inaequaliterspinosa,
+		173	Salganea_matsumotoi,
+		174	Salganea_raggei,
+		175	Salganea_gressiti,
+		176	Salganea_esakii,
+		177	Salganea_taiwanensis,
+		178	Panesthia_australis,
+		179	Panesthia_cribrata,
+		180	Panesthia_laevicollis,
+		181	Neogeoscapheus_hirsutus,
+		182	Parapanesthia_gigantea,
+		183	Macropanesthia_rhinoceros,
+		184	Geoscapheus_dilatatus,
+		185	Geoscapheus_robustus,
+		186	Thanatophyllum_akinetum,
+		187	Pycnoscelus_surinamensis,
+		188	Epilampra_wheeleri,
+		189	Epilampra_burmeisteri,
+		190	Pseudophoraspis_nebulosa,
+		191	Thorax_porcellana,
+		192	Phlebonotus_pallens,
+		193	Phoraspis_sp,
+		194	Blaberus_craniifer,
+		195	Blaberus_giganteus,
+		196	Byrsotria_fumigata,
+		197	Leucophaea_maderae,
+		198	Gromphadorhina_portentosa,
+		199	Gromphadorhina_laevigata,
+		200	Nauphoeta_cinerea,
+		201	Acanthops_falcata,
+		202	Ciulfina_rentzi,
+		203	Ciulfina_klassi,
+		204	Gonypetella_ivoirensis,
+		205	Astape_denticollis,
+		206	Galepsus_toganus,
+		207	Tarachodula_pantherina,
+		208	Tarachodes_maurus,
+		209	Tarachodes_afzelii,
+		210	Tarachodes_bicornis,
+		211	Pyrgomantis_pallida,
+		212	Eremiaphila_dagi,
+		213	Oxyophthalmellus_somalicus,
+		214	Hoplocorypha_nigerica,
+		215	Miomantis_lamtoensis,
+		216	Pseudoharpax_virescens,
+		217	Hemiempusa_capensis,
+		218	Gongylus_gongyloides,
+		219	Phyllocrania_paradoxa,
+		220	Hymenopus_coronatus,
+		221	Theopropus_elegans,
+		222	Oxypilus_gillonae,
+		223	Anasigerpes_bifasciata,
+		224	Danuria_buchholzi,
+		225	Mantis_religiosa,
+		226	Statilia_apicalis,
+		227	Sphodromantis_lineola,
+		228	Paramantis_prasina,
+		229	Paramantis_togana,
+		230	Polyspilota_aeruginosa,
+		231	Epitenodera_brevipennis,
+		232	Paratenodera_sinensis,
+		233	Hierodula_parviceps,
+		234	Hierodula_crassa,
+		235	Hierodula_notata,
+		236	Homalodisca_coagulata,
+		237	Acinopterus_angulatus,
+		238	Aconophora_pallescens,
+		239	Aconophora_laminata,
+		240	Aconophora_nigricornis,
+		241	Aconophora_compressa,
+		242	Aconophora_mexicana,
+		243	Aconophora_robusta,
+		244	Aconophora_marginata,
+		245	Aconophora_femoralis,
+		246	Calloconophora_sp,
+		247	Calloconophora_caliginosa,
+		248	Guayaquila_xiphias,
+		249	Guayaquila_sp,
+		250	Guayaquila_compressa,
+		251	Guayaquila_pallescens,
+		252	Guayaquila_emarginata,
+		253	Dysyncritus_sp,
+		254	Alchisme_sp,
+		255	Alchisme_virescens,
+		256	Alchisme_grossa,
+		257	Alchisme_apicalis,
+		258	Ochropepla_sp,
+		259	Ochropepla_inaequalis,
+		260	Potnia_gladiator,
+		261	Potnia_sp,
+		262	Metcalfiella_monogramma,
+		263	Stalotypa_fairmairii,
+		264	Ramosella_thalli,
+		265	Platycotis_minax,
+		266	Platycotis_tuberculata,
+		267	Platycotis_vittata,
+		268	Platycotis_sp,
+		269	Umbonia_crassicornis,
+		270	Umbonia_reducta,
+		271	Umbonia_ataliba,
+		272	Umbonia_spinosa,
+		273	Bolbonota_aspidistrae,
+		274	Bolbonota_sp,
+		275	Bolbonota_insignis,
+		276	Tritropidia_sp,
+		277	Erechtia_gibbosa,
+		278	Erechtia_abbreviata,
+		279	Erechtia_pruinosa,
+		280	Erechtia_sp,
+		281	Campylenchia_latipes,
+		282	Campylenchia_nutans,
+		283	Campylenchia_sp,
+		284	Kronides_incumbens,
+		285	Tylopelta_sp,
+		286	Enchenopa_ignidorsum,
+		287	Enchenopa_caruata,
+		288	Enchenopa_binotata,
+		289	Enchenopa_bifenestrata,
+		290	Enchenopa_sericea,
+		291	Enchophyllum_sp,
+		292	Membracis_caguetaensis,
+		293	Membracis_mexicana,
+		294	Membracis_c-album,
+		295	Membracis_foliata,
+		296	Membracis_dorsata,
+		297	Membracis_flava,
+		298	Membracis_trimaculata,
+		299	Membracis_orteguazaensis,
+		300	Membracis_tectigera,
+		301	Leioscyta_nitida,
+		302	Leioscyta_spiralis,
+		303	Cladonota_sp,
+		304	Cladonota_biclavata,
+		305	Hypsoprora_sp,
+		306	Philya_sp,
+		307	Notocera_sp,
+		308	Hyphinoe_asphaltina,
+		309	Nassunia_sp,
+		310	Acutalis_sp,
+		311	Antianthe_foliacea,
+		312	Antianthe_expansa,
+		313	Thelia_bimaculata,
+		314	Bilimekia_broomfieldi,
+		315	Bilimekia_styliformis,
+		316	Entylia_sinuata,
+		317	Entylia_bactriana,
+		318	Polyglypta_lineata,
+		319	Polyglypta_dorsalis,
+		320	Polyglypta_dispar,
+		321	Publilia_reticulata,
+		322	Publilia_modesta,
+		323	Publilia_concava,
+		324	Cymbomorpha_sp,
+		325	Darnis_partita,
+		326	Darnis_lator,
+		327	Stictopelta_sp,
+		328	Micrutalis_calva,
+		329	Gargara_semibrunnea,
+		330	Gargara_citrea,
+		331	Sipylus_dilatatus,
+		332	Tricentrus_sp,
+		333	Centrochares_horrifica,
+		334	Centrochares_sp,
+		335	Ebhul_notatum,
+		336	Ebhul_varium,
+		337	Gigantorhabdus_enderleini,
+		338	Pyrgauchenia_brunnea,
+		339	Pyrgauchenia_tristaniopsis,
+		340	Oxyrhachis_sp,
+		341	Oxyrhachis_tarandus,
+		342	Sextus_virescens,
+		343	Pyrgonota_bulbosa,
+		344	Dingkana_sp,
+		345	Centrotypus_sp,
+		346	Leptocentrus_sp,
+		347	Leptocentrus_altifrons,
+		348	Leptocentrus_jacobsoni,
+		349	Telingana_sp,
+		350	Leptobelus_damai,
+		351	Leptobelus_sauteri,
+		352	Nessorhinus_sp,
+		353	Platycentrus_acuticornis,
+		354	Platycentrus_sp,
+		355	Centrodontus_atlas,
+		356	Centruchoides_laticornis,
+		357	Microcentrus_caryae,
+		358	Aetalion_reticulatum,
+		359	Endiastus_caviceps,
+		360	Gerridus_armatus,
+		361	Tropidaspis_carinatus,
+		362	Tropidaspis_cornuta,
+		363	Tropidaspis_minor,
+		364	Dalbulus_quinquenotatus,
+		365	Euscelis_plebejus,
+		366	Aphrophora_flavipes,
+		367	Cicadetta_dimissa,
+		368	Yanga_guttulata,
+		369	Hilda_patruelis,
+		370	Euphyonarthex_phyllostoma,
+		371	Hyalesthes_obsoletus,
+		372	Oliarus_felis,
+		373	Myndus_crudus,
+		374	Bothriocera_signoreti,
+		375	Mnemosyne_cubana,
+		376	Oecleus_borealis,
+		377	Ricania_speculum,
+		378	Anthocoris_confusus,
+		379	Cimex_lectularius,
+		380	Orius_insidiosus,
+		381	Orius_tristicolor,
+		382	Nabis_alternatus,
+		383	Nabis_rugosus,
+		384	Corythucha_ciliata,
+		385	Corythucha_marmorata,
+		386	Corythucha_pruni,
+		387	Corythucha_hewitti,
+		388	Gargaphia_solani,
+		389	Gargaphia_tiliae,
+		390	Gargaphia_iridescens,
+		391	Urentius_echinus,
+		392	Leptobyrsa_decora,
+		393	Compseuta_picta,
+		394	Deraeocoris_nebulosus,
+		395	Psallus_ambiguus,
+		396	Phymata_pennsylvanica,
+		397	Stenolemus_giraffa,
+		398	Stenolemus_arachniphagus,
+		399	Empicoris_culiciformis,
+		400	Ghilianella_sp,
+		401	Ectomocoris_sp,
+		402	Peirates_sp,
+		403	Ectrichodia_sp,
+		404	Maraenaspis_sp,
+		405	Glymmatophora_sp,
+		406	Triatoma_maculata,
+		407	Triatoma_pallidipennis,
+		408	Triatoma_infestans,
+		409	Rhodnius_neivai,
+		410	Rhodnius_pictipes,
+		411	Rhodnius_prolixus,
+		412	Panstrongylus_geniculatus,
+		413	Cosmolestes_pictus,
+		414	Sycanus_collaris,
+		415	Endochus_inornatus,
+		416	Irantha_armipes,
+		417	Rhaphidosoma_circumvagans,
+		418	Rhinocoris_marginatus,
+		419	Rhinocoris_rapax,
+		420	Rhinocoris_carmelita,
+		421	Rhinocoris_segmentarius,
+		422	Rhinocoris_bicolor,
+		423	Rhinocoris_fuscipes,
+		424	Rhinocoris_albopunctatus,
+		425	Rhinocoris_albopilosus,
+		426	Rhinocoris_tristis,
+		427	Sphedanolestes_signatus,
+		428	Arilus_cristatus,
+		429	Atopozelus_pallens,
+		430	Zelus_exsanguis,
+		431	Castolus_sp,
+		432	Pisilus_tipuliformis,
+		433	Occamus_typicus,
+		434	Platymeris_biguttata,
+		435	Petalochirus_sp,
+		436	Lisarda_sp,
+		437	Megacopta_cribraria,
+		438	Parastrachia_japonensis,
+		439	Pachycoris_klugii,
+		440	Pachycoris_torridus,
+		441	Pachycoris_fabricii,
+		442	Pachycoris_stallii,
+		443	Tectocoris_diophthalmus,
+		444	Augocoris_sp,
+		445	Cantao_ocellatus,
+		446	Hotea_subfasciata,
+		447	Caternaultiella_rugosa,
+		448	Phloeophana_corticata,
+		449	Phloeophana_longirostris,
+		450	Phloeophana_sp,
+		451	Sehirus_albonotatus,
+		452	Sehirus_bicolor,
+		453	Sehirus_cinctus,
+		454	Sehirus_sexmaculatus,
+		455	Sehirus_niveimarginatus,
+		456	Ctenoneurus_hochstetteri,
+		457	Brachypelta_aterrima,
+		458	Legnotus_limbatus,
+		459	Adomerus_triguttulus,
+		460	Canthophorus_sp,
+		461	Canthophorus_niveimarginatus,
+		462	Tritomegas_bicolor,
+		463	Elasmostethus_humeralis,
+		464	Elasmostethus_interstinctus,
+		465	Elasmucha_ferrugata,
+		466	Elasmucha_dorsalis,
+		467	Elasmucha_signoreti,
+		468	Elasmucha_putoni,
+		469	Elasmucha_grisea,
+		470	Elasmucha_fieberi,
+		471	Elasmucha_lateralis,
+		472	Sastragala_scutellata,
+		473	Sastragala_esakii,
+		474	Anaxandra_sp,
+		475	Pygoplatys_sp,
+		476	Pygoplatys_acutus,
+		477	Geocoris_punctipes,
+		478	Geocoris_pallens,
+		479	Nysius_huttoni,
+		480	Oncopeltus_fasciatus,
+		481	Lygaeus_pandurus,
+		482	Physomerus_grossipes,
+		483	Leptoglossus_phyllopus,
+		484	Plunentis_porosus,
+		485	Plunentis_yurupucu,
+		486	Phyllomorpha_lacerata,
+		487	Phyllomorpha_laciniata,
+		488	Amblypelta_sp,
+		489	Scolopocerus_uhleri,
+		490	Neomegalotomus_parvus,
+		491	Dysdercus_ruficollis,
+		492	Dysdercus_obscuratus,
+		493	Pyrrhocoris_apterus,
+		494	Aradus_cinnamomeus,
+		495	Neuroctenus_simplex,
+		496	Neuroctenus_elongatus,
+		497	Neuroctenus_pseudonymus,
+		498	Neuroctenus_hochstetteri,
+		499	Aepophilus_bonnairei,
+		500	Aepophilus_sp,
+		501	Belostoma_malkini,
+		502	Belostoma_flumineum,
+		503	Lethocerus_griseus,
+		504	Lethocerus_maximus,
+		505	Lethocerus_indicus,
+		506	Lethocerus_deyrollei,
+		507	Lethocerus_mazzai,
+		508	Abedus_herberti,
+		509	Telmatotrephes_sculpticollis,
+		510	Telmatotrephes_grandicollis,
+		511	Telmatotrephes_carvolhoi,
+		512	Nepa_cinerea,
+		513	Laccotrephes_ater,
+		514	Laccotrephes_griseus,
+		515	Ranatra_macrophthalma,
+		516	Ranatra_fusca,
+		517	Austronepa_sp,
+		518	Ranatra_gracilis,
+		519	Ranatra_stali,
+		520	Ranatra_parvipes,
+		521	Ranatra_lubwae,
+		522	Ranatra_linearis,
+		523	Ranatra_filiformis,
+		524	Cercotmetus,
+		525	Rhagadotarsus_sp,
+		526	Halobates_sp,
+		527	Aquarius_remigis,
+		528	Gerris_buenoi,
+		529	Gerris_odontogaster,
+		530	Smynthurodes_betae,
+		531	Schizolachnus_piniradiatae,
+		532	Aphis_fabae,
+		533	Lecanium_nigrofasciatum,
+		534	Aulacaspis_tegalensis,
+		535	Ceroplastes_pseudoceriferus,
+		536	Coccus_magniferae,
+		537	Pseudococcus_vastator,
+		538	Rhodococcus_bulgariensis,
+		539	Vryburgia_lounsburyi,
+		540	Porphyrophora_polonica,
+		541	Aleyrodes_singularis,
+		542	Neomaskellia_bergii,
+		543	Trioza_erytreae,
+		544	Palmicola_solitaria,
+		545	Peripsocus_nitens,
+		546	Peripsocus_quadrifasciatus,
+		547	Ceratipsocus_trifasciatus,
+		548	Ceratipsocus_venosus,
+		549	Pseudocaecilius_citricola,
+		550	Archipsocus_floridanus,
+		551	Archipsocus_panama,
+		552	Archipsocus_gurneyi,
+		553	Archipsocus_minutillus,
+		554	Archipsocus_gibberophallus,
+		555	Archipsocopsis_inornata,
+		556	Liposcelis_granicola,
+		557	Liposcelis_bostrychophilus,
+		558	Liposcelis_divergens,
+		559	Pediculus_humanus,
+		560	Haematopinus_eurysternus,
+		561	Trichodectes_scalaris,
+		562	Trichodectes_canis,
+		563	Ptomascopus_morio,
+		564	Ablattaria_laevigata,
+		565	Ablattaria_arenaria,
+		566	Phosphuga_atrata,
+		567	Nicrophorus_defodiens,
+		568	Nicrophorus_humator,
+		569	Nicrophorus_interruptus,
+		570	Nicrophorus_investigator,
+		571	Nicrophorus_orbicollis,
+		572	Nicrophorus_vespillo,
+		573	Nicrophorus_vespilloides,
+		574	Nicrophorus_germanicus,
+		575	Nicrophorus_tomentosus,
+		576	Nicrophorus_quadripunctatus,
+		577	Nicrophorus_pustulatus,
+		578	Nicrophorus_mexicanus,
+		579	Nicrophorus_americanus,
+		580	Nicrophorus_nigrita,
+		581	Bledius_spectabilis,
+		582	Bledius_longulus,
+		583	Bledius_opacus,
+		584	Bledius_pygmaeus,
+		585	Bledius_furcatus,
+		586	Bledius_tricornis,
+		587	Bledius_bicornis,
+		588	Bledius_diota,
+		589	Bledius_arenoides,
+		590	Platystethus_arenarius,
+		591	Oxyporus_spp,
+		592	Tachyporus_hypnorum,
+		593	Aleochara_bilineata,
+		594	Necrophilus_subterraneus,
+		595	Necrophilus_hidrophiloides,
+		596	Helochares_lividus,
+		597	Helochares_maculicollis,
+		598	Spercheus_emarginatus,
+		599	Epimetopus_hintoni,
+		600	Epimetopus_obscurus,
+		601	Chondrocephalus_debilis,
+		602	Chondrocephalus_granulifrons,
+		603	Chondrocephalus_purulensis,
+		604	Vindex_sp,
+		605	Heliscus_tropicus,
+		606	Odontotaenius_striatopunctatus,
+		607	Odontotaenius_zodiacus,
+		608	Odontotaenius_disjunctus,
+		609	Ogyges_furcillatus,
+		610	Ogyges_championi,
+		611	Ogyges_adamsi,
+		612	Ogyges_hondurensis,
+		613	Ogyges_crassulus,
+		614	Oileus_sargi,
+		615	Petrejoides_tenuis,
+		616	Petrejoides_reyesi,
+		617	Petrejoides_michoacanae,
+		618	Petrejoides_guatemalae,
+		619	Popilius_disjunctus,
+		620	Popilius_haagi,
+		621	Popilius_eclipticus,
+		622	Proculejus_brevis,
+		623	Proculus_opacus,
+		624	Proculus_opacipennis,
+		625	Proculus_jicaquei,
+		626	Proculus_burmeisteri,
+		627	Proculus_goryi,
+		628	Proculus_mniszechi,
+		629	Pseudacanthus_grannulipennis,
+		630	Pseudoarrox_karreni,
+		631	Spurius_bicornis,
+		632	Verres_hageni,
+		633	Verres_corticicola,
+		634	Verres_cavicollis,
+		635	Verres_furcilabris,
+		636	Veturius_boliviae,
+		637	Passalus_interstitialis,
+		638	Passalus_caelatus,
+		639	Passalus_cornutus,
+		640	Passalus_spp,
+		641	Passalus_coniferus,
+		642	Passalus_spiniger,
+		643	Passalus_guatemalensis,
+		644	Passalus_unicornis,
+		645	Passalus_morio,
+		646	Passalus_punctatostriatus,
+		647	Passalus_punctiger,
+		648	Paxillus_leachi,
+		649	Paxillus_recticarinatus,
+		650	Leptaulax_bicolor,
+		651	Taeniocerus_platypus,
+		652	Taeniocerus_bicanthatus,
+		653	Nigidius_sp,
+		654	Prosopocoilus_inclinatus,
+		655	Odonteus_darlingtoni,
+		656	Amphicoma_vulpes,
+		657	Lichnanthe_vulpina,
+		658	Geotrupes_vernalis,
+		659	Geotrupes_mutator,
+		660	Geotrupes_spiniger,
+		661	Geotrupes_stercorarius,
+		662	Typhaeus_typhoeus,
+		663	Typhaeus_hiostius,
+		664	Frickius_variolosus,
+		665	Taurocerastes_patagonicus,
+		666	Lethrus_apterus,
+		667	Lethrus_jacobsoni,
+		668	Hybosorus_illigeri,
+		669	Chaetodus_sp,
+		670	Cryptogenius_fryi,
+		671	Phaeochrous_emarginatus,
+		672	Anaides_simplicicollis,
+		673	Anaides_sp,
+		674	Cyphopisthes_descarpertriesi,
+		675	Paulianostes_acromialis,
+		676	Astaenomoechus_sp1,
+		677	Astaenomoechus_sp2,
+		678	Pterorthochaetes_insularis,
+		679	Madrasostes_variolosum,
+		680	Madrasostes_sculpturatum,
+		681	Ceratocanthus_relucens,
+		682	Germarostes_aphodioides,
+		683	Germarostes_globosus,
+		684	Germarostes_macleayi,
+		685	Anomala_horticola,
+		686	Oryctes_rhinoceros,
+		687	Oryctes_boas,
+		688	Oryctes_elegans,
+		689	Clemora_smithi,
+		690	Melolontha_melolontha,
+		691	Amphimallon_majalis,
+		692	Amphimallon_caucasium,
+		693	Aphodius_fimetarius,
+		694	Aphodius_fossor,
+		695	Aphodius_prodromus,
+		696	Aphodius_sphacelatus,
+		697	Aphodius_ater,
+		698	Aphodius_haroldianus,
+		699	Aphodius_elegans,
+		700	Aphodius_lividus,
+		701	Aphodius_rufipes,
+		702	Ataenius_sp,
+		703	Acanthoscelides_obtectus,
+		704	Bruchus_pisorum,
+		705	Bruchus_quadrimaculatus,
+		706	Zabrotes_subfasciatus,
+		707	Bruchidius_obtectus,
+		708	Eugonycha_melanostoma,
+		709	Labidomera_suturella,
+		710	Leptinotarsa_decemlineata,
+		711	Proseicela_crucigera,
+		712	Platyphora_conviva,
+		713	Platyphora_quadrisignata,
+		714	Platyphora_fasciatomaculata,
+		715	Platyphora_semiviridis,
+		716	Chrysochloa_superba,
+		717	Chrysolina_varians,
+		718	Chrysolina_hyperici,
+		719	Ambrostoma_quadriimpressum,
+		720	Gonioctena_americana,
+		721	Gonioctena_japonica,
+		722	Gonioctena_nigroplagiata,
+		723	Gonioctena_olivacea,
+		724	Gonioctena_rubripennis,
+		725	Gonioctena_springlovae,
+		726	Gonioctena_sibirica,
+		727	Gonioctena_rufipes,
+		728	Phytodecta_rufipes,
+		729	Phytodecta_viminalis,
+		730	Chrysophtharta_sp,
+		731	Paropsis_sp,
+		732	Phratora_sp,
+		733	Galerucella_calmariensis,
+		734	Galerucella_pusilla,
+		735	Galerucella_cavicollis,
+		736	Agasicles_hygrophila,
+		737	Aphthona_cyparissiae,
+		738	Aphthona_abdominalis,
+		739	Aphthona_czwalinae,
+		740	Aphthona_flava,
+		741	Aphthona_lacertosa,
+		742	Aphthona_nigriscutus,
+		743	Chrysomela_crotchi,
+		744	Plagiodera_versicolor,
+		745	Gastrophysa_viridula,
+		746	Promecotheca_reichi,
+		747	Pseudomesomphalia_thallassina,
+		748	Stolas_thalassina,
+		749	Cassida_canaliculata,
+		750	Omaspides_pallidipennis,
+		751	Omaspides_tricolorata,
+		752	Eugenysa_columbiana,
+		753	Acromis_spinifex,
+		754	Acromis_sparsa,
+		755	Euryope_terminalis,
+		756	Lema_praeusta,
+		757	Hoplocerambyx_spinicornis,
+		758	Prionus_californicus,
+		759	Epepeotus_luscus,
+		760	Saperda_carcharias,
+		761	Oberia_erythrocephala,
+		762	Eunausibius_wheeleri,
+		763	Nepharis_sp,
+		764	Nepharinus_sp,
+		765	Uleiota_debilis,
+		766	Nausibius_major,
+		767	Coccidotrophus_socialis,
+		768	Cryptolestes_ferrugineus,
+		769	Oryzaephilus_surinamensis,
+		770	Dacne_californica,
+		771	Languria_mozardi,
+		772	Caenolanguria_sp,
+		773	Encaustes_verticalis,
+		774	Encaustes_cruenta,
+		775	Coptengis_sp,
+		776	Aulacochilus_flavocinctus,
+		777	Aulacochilus_papuanus,
+		778	Episcaphula_sp,
+		779	Megalodacne_fasciata,
+		780	Megalodacne_heros,
+		781	Triplax_thoracica,
+		782	Toramus_pulchellus,
+		783	Spondotriplax_antennalis,
+		784	Tritoma_erythrocephala,
+		785	Tritoma_unicolor,
+		786	Mycotretus_scitulus,
+		787	Pselaphacus_puncticollis,
+		788	Pselaphacus_signatus,
+		789	Pselaphacus_viticollis,
+		790	Mycotretus_sp,
+		791	Tritoma_pulchra,
+		792	Lybas_sp,
+		793	Aegithus_cardinalis,
+		794	Iphiclus_conspicillatus,
+		795	Prepopharus_xanthomelas,
+		796	Iphiclus_sp,
+		797	Iphiclus_delineatus,
+		798	Iphiclus_pulcher,
+		799	Iphiclus_sedecimmaculatus,
+		800	Erotylina_jaspidea,
+		801	Ellipticus_testaceus,
+		802	Adalia_bipunctata,
+		803	Chilocorus_nigritus,
+		804	Chilocorus_stigma,
+		805	Chilocorus_kuwanae,
+		806	Coccinella_septempunctata,
+		807	Coccinella_novemnotata,
+		808	Epilachna_chrysomelina,
+		809	Exochomus_flavipes,
+		810	Harmonia_axyridis,
+		811	Leis_conformis,
+		812	Stethorus_punctum,
+		813	Callineda_testudinaria,
+		814	Cryptolaemus_montrouzieri,
+		815	Cycloneda_limbifer,
+		816	Hippodamia_convergens,
+		817	Rodolia_cardinalis,
+		818	Coleomegilla_maculata,
+		819	Pseudoscymnus_tsugae,
+		820	Brachypterolus_pulicarius,
+		821	Carpophilus_hemipterus,
+		822	Carpophilus_humeralis,
+		823	Carpophilus_obsoletus,
+		824	Carpophilus_longiventris,
+		825	Byturus_tomentosus,
+		826	Cybocephalus_semiflavus,
+		827	Deporaus_spp,
+		828	Rhynchites_auratus,
+		829	Apoderus_spp,
+		830	Paroplapoderus_spp,
+		831	Phymatapoderus_spp,
+		832	Byctiscus_spp,
+		833	Attelabus_spp,
+		834	Protocylas_coimbatorensis,
+		835	Anthonomus_pomorum,
+		836	Bangasternus_fausti,
+		837	Larinus_obtusus,
+		838	Larinus_minutus,
+		839	Cyphocleonus_achates,
+		840	Rhinocyllus_conicus,
+		841	Trichosirocalus_horridus,
+		842	Hypera_nigrirostris,
+		843	Hypera_variabilis,
+		844	Hypera_brunnipennis,
+		845	Phytonomus_meles,
+		846	Gymnetron_antirrhini,
+		847	Gymnetron_linariae,
+		848	Gymnetron_netum,
+		849	Mecinus_janthinus,
+		850	Hylobius_transversovittatus,
+		851	Alcidodes_bubo,
+		852	Alcidodes_affaber,
+		853	Paramecops_farinosa,
+		854	Conotrachelus_nenuphar,
+		855	Myllocerus_maculosus,
+		856	Polydrusus_mollis,
+		857	Oxyops_vitiosa,
+		858	Neochetina_eichhorniae,
+		859	Neochetina_bruchi,
+		860	Lagria_hirta,
+		861	Anatolica_polita,
+		862	Phrenapates_bennetti,
+		863	Bolitotherus_cornutus,
+		864	Parastizopus_armaticeps,
+		865	Mesomorphus_villiger,
+		866	Tenebrio_molitor,
+		867	Tenebrio_obscurus,
+		868	Tribolium_castaneum,
+		869	Gyriosomus_luczotii,
+		870	Mylabris_pustulatus,
+		871	Necrobia_rufipes,
+		872	Enoclerus_barri,
+		873	Enoclerus_lecontei,
+		874	Tenebroides_mauritanicus,
+		875	Agriotes_mancus,
+		876	Agriotes_ponticus,
+		877	Melanotus_longulus,
+		878	Melanotus_fuscipes,
+		879	Drilus_flavescens,
+		880	Lamprophorus_tenebrosus,
+		881	Capnodis_tenebrionis,
+		882	Coraebus_rubi,
+		883	Agrilus_arcuatus,
+		884	Sphenoptera_jugoslavica,
+		885	Macrosiagon_tricuspidata,
+		886	Heterocerus_flexuosus,
+		887	Lapsus_tristis,
+		888	Neoheterocerus_pallidus,
+		889	Dampfius_collaris,
+		890	Stenelmis_sexlineata,
+		891	Anobium_punctatum,
+		892	Lasioderma_serricorne,
+		893	Anthrenus_museorum,
+		894	Anthrenus_verbasci,
+		895	Attagenus_pellio,
+		896	Attagenus_piceus,
+		897	Dermestes_frischi,
+		898	Dermestes_lardarius,
+		899	Dermestes_maculatus,
+		900	Trogoderma_granarium,
+		901	Trogoderma_versicolor,
+		902	Trogoderma_varium,
+		903	Trinodes_rufescens,
+		904	Lyctus_brunneus,
+		905	Lyctus_linearis,
+		906	Dinoderus_minutus,
+		907	Rhizopertha_dominica,
+		908	Ptinus_fur,
+		909	Ptinus_sexpunctatus,
+		910	Laricobius_erichsonii,
+		911	Calosoma_sycophanta,
+		912	Carabus_auronitens,
+		913	Carabus_nemoralis,
+		914	Bembidion_pallidipenne,
+		915	Scarites_liostracus,
+		916	Scarites_subterraneus,
+		917	Scarites_substriatus,
+		918	Scarites_madagascariensis,
+		919	Distichus_perrieri,
+		920	Discaris_striolifrons,
+		921	Typhloscaris_andringitrae,
+		922	Dyscherus_peyrierasi,
+		923	Tapinoscaris_sp,
+		924	Dinoscaris_sp,
+		925	Dinoscaris_gallienii,
+		926	Mormolyce_phyllodes,
+		927	Lebia_grandis,
+		928	Carterus_calydonus,
+		929	Pterostichus_multipunctatus,
+		930	Pterostichus_diligendus,
+		931	Pterostichus_jurinei,
+		932	Pterostichus_anthracinus,
+		933	Notonomus_gravis,
+		934	Notonomus_philippi,
+		935	Molops_sp,
+		936	Abax_ater,
+		937	Abax_parallelepipedus,
+		938	Percus_passerinii,
+		939	Dytiscus_marginalis,
+		940	Agabus_bipustulatus,
+		941	Chrysopa_madestes,
+		942	Chrysopa_oculata,
+		943	Chrysopa_rufilabris,
+		944	Chrysopa_formosana,
+		945	Chrysopa_plorabunda,
+		946	Chrysopa_perla,
+		947	Chrysoperla_carnea,
+		948	Sympherobius_amicus,
+		949	Micromus_posticus,
+		950	Hemerobius_humuli,
+		951	Hemerobius_stigma,
+		952	Climaciella_brunnea,
+		953	Mantispa_interrupta,
+		954	Sialis_lutaria,
+		955	Corydalus_cornutus,
+		956	Xyela_gallicaulis,
+		957	Dielocerus_diasi,
+		958	Digelasinus_diversipes,
+		959	Perga_affinis,
+		960	Perga_lewisi,
+		961	Thermos_olfersii,
+		962	Pontania_capreae,
+		963	Nematus_tiliae,
+		964	Trichiocampus_viminalis,
+		965	Hoplocampa_crataegi,
+		966	Aglaostigma_occipitosa,
+		967	Athalia_rosae,
+		968	Cephalcia_fuscipennis,
+		969	Cephalcia_isshikii,
+		970	Pamphilus_latifrons,
+		971	Pamphilus_betulae,
+		972	Helorus_paradoxus,
+		973	Phanurus_beneficiens,
+		974	Trissolcus_basalis,
+		975	Anacharis_immunis,
+		976	Xyalaspis_sp,
+		977	Callaspidia_sp,
+		978	Prosaspicera_sp,
+		979	Figites_sp,
+		980	Neralsia_sp,
+		981	Xyalophora_sp,
+		982	Phaenoglyphis_viliosa,
+		983	Alloxysta_pleuralis,
+		984	Parnips_nigripes,
+		985	Leptopilina_boulardi,
+		986	Kleidotoma_dolichocera,
+		987	Diplolepis_rosae,
+		988	Periclistus_brandtii,
+		989	Synergus_albipes,
+		990	Xestophanes_potentillae,
+		991	Barbotinia_oraniensis,
+		992	Andricus_quercusradicis,
+		993	Aulacidea_tragoponis,
+		994	Isocolus_lichtensteini,
+		995	Ibalia_rufipes,
+		996	Amblymerus_bruchophagi,
+		997	Catolaccus_grandis,
+		998	Dirhicnus_alboannulatus,
+		999	Eupteromalus_nidulans,
+		1000	Habrocytus_cerealellae,
+		1001	Muscidifurax_raptor,
+		1002	Kapala_terminalis,
+		1003	Stilbula_cynipiformis,
+		1004	Melittobia_clavicornis,
+		1005	Melittobia_digitata,
+		1006	Melittobia_acasta,
+		1007	Melittobia_australica,
+		1008	Pediobius_foveolatus,
+		1009	Brachymeria_femorata,
+		1010	Prospaltella_perniciosa,
+		1011	Aphelinus_mali,
+		1012	Aphelinus_semiflavus,
+		1013	Aphelinus_asychis,
+		1014	Eurytoma_amygdali,
+		1015	Eurytoma_aciculata,
+		1016	Harmolita_tritici,
+		1017	Metaphycus_alberti,
+		1018	Ooencyrtus_kuwanai,
+		1019	Eretmocerus_eremicus,
+		1020	Trichogramma_minutum,
+		1021	Trichogramma_embryophagum,
+		1022	Trichogramma_evanescens,
+		1023	Trichogramma_cacoeciae,
+		1024	Trichogramma_ostriniae,
+		1025	Trichogramma_semblidis,
+		1026	Encarsia_inaron,
+		1027	Encarsia_formosa,
+		1028	Anaphes_flavipes,
+		1029	Exeristes_roborator,
+		1030	Phaeogenes_nigridens,
+		1031	Phaeogenes_cynarae,
+		1032	Aptesis_nigrocincta,
+		1033	Bathyplectes_anurus,
+		1034	Bathyplectes_curculionis,
+		1035	Campoplex_haywardi,
+		1036	Eriborus_terebrans,
+		1037	Diadegma_insulare,
+		1038	Nythobia_insularis,
+		1039	Angitia_fenestralis,
+		1040	Hyposoter_disparis,
+		1041	Mesoleius_tenthredinis,
+		1042	Cedria_paradoxa,
+		1043	Bracon_mellitor,
+		1044	Bracon_lineatellae,
+		1045	Habrobracon_juglandis,
+		1046	Apharaeta_genevensis,
+		1047	Aphidius_gomezi,
+		1048	Lysiphlebus_testaceipes,
+		1049	Nealiolus_curculionis,
+		1050	Peristenus_digoneutis,
+		1051	Cotesia_glomerata,
+		1052	Apanteles_glomeratus,
+		1053	Apanteles_melanoscelus,
+		1054	Pholetesor_ornigis,
+		1055	Microplitis_plutellae,
+		1056	Chelonus_annulipes,
+		1057	Goniozus_gallicola,
+		1058	Goniozus_emigratus,
+		1059	Goniozus_montanus,
+		1060	Goniozus_swirskiana,
+		1061	Parasierola_nephantidis,
+		1062	Parasierola_nigrifemur,
+		1063	Prosierola_bicarinata,
+		1064	Bethylus_distigma,
+		1065	Bethylus_sp,
+		1066	Cephalonomia_gallicola,
+		1067	Prorops_nasuta,
+		1068	Sclerodermus_domesticus,
+		1069	Sclerodermus_immigrans,
+		1070	Sclerodermus_harmandi,
+		1071	Pristocera_rufa,
+		1072	Laelius_pedatus,
+		1073	Trichrysis_cyanea,
+		1074	Chrysis_shanghaiensis,
+		1075	Sceliphron_assimile,
+		1076	Sceliphron_laetum,
+		1077	Dynatus_nigripes,
+		1078	Trigonopsis_cameronii,
+		1079	Sphecius_speciosus,
+		1080	Sphecius_pectoralis,
+		1081	Ammophila_pubescens,
+		1082	Ammophila_sabulosa,
+		1083	Ammophila_campestris,
+		1084	Moniaecera_asperata,
+		1085	Podagritus_parrotti,
+		1086	Lindenius_colombianus,
+		1087	Lindenius_armaticeps,
+		1088	Lindenius_buccandensis,
+		1089	Oxybelus_sericeus,
+		1090	Oxybelus_subulatus,
+		1091	Trypoxylon_palliditarse,
+		1092	Trypoxylon_politum,
+		1093	Trypoxylon_tenoctitlan,
+		1094	Trypoxylon_attenuatum,
+		1095	Trypoxylon_beaumonti,
+		1096	Trypoxylon_superbum,
+		1097	Trypoxylon_rogenhoferi,
+		1098	Trypoxylon_lactitarse,
+		1099	Trypoxylon_xanthandrum,
+		1100	Trypoxylon_subimpressum,
+		1101	Trypoxylon_collinum,
+		1102	Pison_spinolae,
+		1103	Psenulus_interstitialis,
+		1104	Psenulus_concolor,
+		1105	Arpactophilus_mimi,
+		1106	Microstigmus_comes,
+		1107	Bembecinus_egens,
+		1108	Bembecinus_antipodum,
+		1109	Bembecinus_hirtulus,
+		1110	Bembix_mareeba,
+		1111	Bembix_promontorii,
+		1112	Austrogorytes_bellicosus,
+		1113	Clitemnestra_plomleyi,
+		1114	Philanthus_triangulum,
+		1115	Cerceris_truncata,
+		1116	Megalopta_genalis,
+		1117	Halictus_marginatus,
+		1118	Lasioglossum_malachurum,
+		1119	Osmia_papaveris,
+		1120	Osmia_rufa,
+		1121	Chalicodoma_muraria,
+		1122	Exoneurella_eremophila,
+		1123	Tiphia_popilliavora,
+		1124	Myrmosula_parvula,
+		1125	Pseudomethoca_frigida,
+		1126	Auplopus_semialatus,
+		1127	Pepsis_thisbe,
+		1128	Scolia_hirta,
+		1129	Scolia_manilae,
+		1130	Abispa_ephippium,
+		1131	Ancistrocerus_adiabatus,
+		1132	Euodynerus_foraminatus,
+		1133	Synagris_cornuta,
+		1134	Zethus_miniatus,
+		1135	Antepipona_tropicalis,
+		1136	Calligaster_cyanoptera,
+		1137	Paraleptomenes_mephitis,
+		1138	Anischnogaster_sp,
+		1139	Anischnogaster_laticeps,
+		1140	Liostenogaster_flavolineata,
+		1141	Drusus_annulatus,
+		1142	Limnephilus_flavicornis,
+		1143	Limnephilus_lunatus,
+		1144	Potamophylax_stellatus,
+		1145	Phryganaea_grandis,
+		1146	Brachycentrus_subnubilus,
+		1147	Mystacides_longicornis,
+		1148	Athripsodes_cinereus,
+		1149	Athripsodes_senilis,
+		1150	Hydropsyche_angustipennis,
+		1151	Oecetis_lacustris,
+		1152	Notidobia_ciliaris,
+		1153	Bereodes_minuta,
+		1154	Agapeta_zoegana,
+		1155	Archips_rosanus,
+		1156	Enarmonia_formosana,
+		1157	Pammene_juliana,
+		1158	Pandemis_ribeana,
+		1159	Spilonota_ocellana,
+		1160	Herpystis_cuscutae,
+		1161	Epiphyas_postvittana,
+		1162	Pelochrista_medullana,
+		1163	Agrotis_segetum,
+		1164	Agrotis_repleta,
+		1165	Calophasia_lunula,
+		1166	Heliothis_armigera,
+		1167	Heliothis_zea,
+		1168	Heliothis_zeae,
+		1169	Actebia_fennica,
+		1170	Laphygma_frugiperda,
+		1171	Lithophane_laticinerea,
+		1172	Orthosia_hibisci,
+		1173	Othreis_materna,
+		1174	Tiracola_plagiata,
+		1175	Trichoplusia_ni,
+		1176	Euproctis_chrysorrhoea,
+		1177	Lymantria_dispar,
+		1178	Lymantria_ampla,
+		1179	Stilpnotia_salicis,
+		1180	Orgyia_postica,
+		1181	Celama_sorghiella,
+		1182	Diacrisia_virginica,
+		1183	Phalera_bucephala,
+		1184	Thaumetopoea_processionea,
+		1185	Antheraea_yamamai,
+		1186	Antheraea_pernyi,
+		1187	Graellsia_isabellae,
+		1188	Actias_selene,
+		1189	Saturnia_pyri,
+		1190	Saturnia_atlantica,
+		1191	Saturnia_pavonia,
+		1192	Saturnia_pavoniella,
+		1193	Saturnia_spini,
+		1194	Saturnia_cephalariae,
+		1195	Caligula_lindia,
+		1196	Perisomena_caecigena,
+		1197	Neoris_huttoni,
+		1198	Samia_cynthia,
+		1199	Aglia_tau,
+		1200	Protoparce_maculata,
+		1201	Protoparce_sexta,
+		1202	Hyles_euphorbiae,
+		1203	Bombyx_mori,
+		1204	Malacosoma_disstria,
+		1205	Chiasmia_clathrata,
+		1206	Pieris_napi,
+		1207	Pieris_rapae,
+		1208	Polygonia_c-album,
+		1209	Hypolimnas_anomala,
+		1210	Hypolimnas_antilope,
+		1211	Papilio_demoleus,
+		1212	Papilio_polyxenes,
+		1213	Quinta_cannae,
+		1214	Corcyra_cephalonica,
+		1215	Cryptoblabes_gnidiella,
+		1216	Ectomyelois_ceratoniae,
+		1217	Etiella_zinckenella,
+		1218	Margaronia_unionalis,
+		1219	Nomophila_noctuella,
+		1220	Plodia_interpunctella,
+		1221	Crambus_laqueatellus,
+		1222	Diatraea_lineolata,
+		1223	Diatraea_saccharalis,
+		1224	Vitula_edmandsii,
+		1225	Anagasta_kuhniella,
+		1226	Chilo_auricilia,
+		1227	Chilo_suppresalis,
+		1228	Cossus_cossus,
+		1229	Zeuzera_pyrina,
+		1230	Zeuzera_coffeae,
+		1231	Azygophleps_scalaris,
+		1232	Eulophonotus_myrmeleon,
+		1233	Aegeria_pictipes,
+		1234	Chamaesphecia_hungarica,
+		1235	Tineola_bisselliella,
+		1236	Oiketicus_kirbyi,
+		1237	Phthorimaea_operculella,
+		1238	Metzneria_paucipunctella,
+		1239	Hepialus_humuli,
+		1240	Oxycanus_cervinata,
+		1241	Pulex_irritans,
+		1242	Ctenocephalides_felis,
+		1243	Panorpa_pryeri,
+		1244	Panorpa_helena,
+		1245	Boreus_sp,
+		1246	Hylobittacus_apicalis,
+		1247	Vermileo_vermileo,
+		1248	Pterodonta_flavipes,
+		1249	Paramenia_semiauriceps,
+		1250	Silbomyia_sp,
+		1251	Stilbomyella_sp,
+		1252	Platytropesa_sp,
+		1253	Dermatobia_sp,
+		1254	Gasterophilus_sp,
+		1255	Ruttenia_sp,
+		1256	Strobiloestrus_sp,
+		1257	Hypoderma_lineatum,
+		1258	Hypoderma_bovis,
+		1259	Hypoderma_tarandi,
+		1260	Oestromyia_sp,
+		1261	Oestroderma_sp,
+		1262	Pharyngomyia_sp,
+		1263	Cephenemyia_sp,
+		1264	Pharyngobolus_sp,
+		1265	Tracheomyia_sp,
+		1266	Kirkioestrus_sp,
+		1267	Cephalopina_sp,
+		1268	Gedoelstia_sp,
+		1269	Rhinoestrus_sp,
+		1270	Oestrus_sp,
+		1271	Oestrus_ovis,
+		1272	Macronychia_aurata,
+		1273	Euphyto_pollinaris,
+		1274	Phrosinella_fulvicornis,
+		1275	Wohlfartia_opaca,
+		1276	Boettscherisca_formosensis,
+		1277	Sarcophaga_bullata,
+		1278	Sarcophaga_shermani,
+		1279	Sarcophaga_cooleyi,
+		1280	Sarcophaga_stercoraria,
+		1281	Sarcophaga_nigriventris,
+		1282	Bengalia_depressa,
+		1283	Eggisops_pecchiolii,
+		1284	Dinera_takanoi,
+		1285	Dexia_fulvifera,
+		1286	Voria_ruralis,
+		1287	Hermya_beelzebul,
+		1288	Ectophasia_rotundiventris,
+		1289	Gymnosoma_rotundatum,
+		1290	Atylostoma_towadensis,
+		1291	Thelairoleskia_sp,
+		1292	Ceromya_silacea,
+		1293	Peribaea_tibialis,
+		1294	Nemoraea_takanoi,
+		1295	Panzeria_melanopyga,
+		1296	Janthinomyia_elegans,
+		1297	Mikia_patellipalpis,
+		1298	Tachina_minuta,
+		1299	Tachina_nupta,
+		1300	Winthemia_venusta,
+		1301	Nemorilla_floralis,
+		1302	Mycteromyiella_marginalis,
+		1303	Paratryphera_minor,
+		1304	Phorocerosoma_vicarium,
+		1305	Zenilliana_sp,
+		1306	Trigonospila_transvittata,
+		1307	Chaetexorista_sp,
+		1308	Exorista_larvarum,
+		1309	Exorista_mimula,
+		1310	Parasetigena_silvestris,
+		1311	Exorista_bisetosa,
+		1312	Phorocera_obscura,
+		1313	Phorinia_spinulosa,
+		1314	Ctenophorinia_adiscalis,
+		1315	Uroeuantha_longipes,
+		1316	Uromedina_eumorphophaga,
+		1317	Prodegeeria_japonica,
+		1318	Meigenia_majuscula,
+		1319	Admontia_sp,
+		1320	Lixophaga_latigena,
+		1321	Blondelia_nigripes,
+		1322	Vibrissina_turrita,
+		1323	Degeeriopsis_sp,
+		1324	Compsiluroides_flavipalpis,
+		1325	Biomeigenia_sp,
+		1326	Istocheta_sp,
+		1327	Urodexia_uramyoides,
+		1328	Medina_sp,
+		1329	Medinodexia_sp,
+		1330	Aplomya_confinis,
+		1331	Carcelia_sp,
+		1332	Senometopia_cariniforceps,
+		1333	Phebellia_glauca,
+		1334	Prooppia_nigripalpis,
+		1335	Epicampocera_succincta,
+		1336	Isosturmia_japonica,
+		1337	Phryxe_heraclei,
+		1338	Sturmia_bella,
+		1339	Suensonomyia_nudinerva,
+		1340	Eumea_linearicornis,
+		1341	Gonia_chinensis,
+		1342	Pseudogonia_rufifrons,
+		1343	Blepharipa_sturmioides,
+		1344	Frontina_laeta,
+		1345	Pales_pavida,
+		1346	Nealsomyia_rufella,
+		1347	Phryno_katoi,
+		1348	Pexopsis_pilosa,
+		1349	Bothria_japonica,
+		1350	Calozenillia_tamara,
+		1351	Zenillia_dolosa,
+		1352	Tricyclea_fasciata,
+		1353	Rhynchomya_soyauxi,
+		1354	Stegosoma_vinculatum,
+		1355	Villeneuviella_weissi,
+		1356	Protophormia_terra-novae,
+		1357	Phormia_regina,
+		1358	Protocalliphora_avium,
+		1359	Chrysomya_bezziana,
+		1360	Hemipyrellia_ligurriens,
+		1361	Dyscritomyia_fasciata,
+		1362	Phaenicia_sericata,
+		1363	Cynomopsis_cadaverina,
+		1364	Eucalliphora_lilaea,
+		1365	Xenocalliphora_hortona,
+		1366	Pericallimyia_flavicauda,
+		1367	Paradichosia_sp,
+		1368	Euphumosia_papua,
+		1369	Gulmargia_angustisquama,
+		1370	Stomorhina_lunata,
+		1371	Stomorhina_rugosa,
+		1372	Stomorhina_cribrata,
+		1373	Lucilia_sericata,
+		1374	Lucilia_cuprina,
+		1375	Bellardia_vulgaris,
+		1376	Bellardia_austriaca,
+		1377	Bellardia_floralis,
+		1378	Calliphora_erythrocephala,
+		1379	Calliphora_croceipalpis,
+		1380	Calliphora_vomitoria,
+		1381	Calliphora_stygia,
+		1382	Calliphora_augur,
+		1383	Calliphora_vicina,
+		1384	Calliphora_terrae-novae,
+		1385	Phumosia_imitans,
+		1386	Phumosia_stabulans,
+		1387	Phumosia_abdominalis,
+		1388	Eurychaeta_muscaria,
+		1389	Eurychaeta_palpalis,
+		1390	Eurychaeta_nigrapex,
+		1391	Amenia_imperialis,
+		1392	Amenia_leonina,
+		1393	Amenia_chrysame,
+		1394	Catapicephala_michikoae,
+		1395	Catapicephala_splendens,
+		1396	Catapicephala_sinica,
+		1397	Mesembrinella_fulvipes,
+		1398	Mesembrinella_vaga,
+		1399	Mesembrinella_spicata,
+		1400	Fannia_scalaris,
+		1401	Fannia_leucosticta,
+		1402	Fannia_canicularis,
+		1403	Fannia_fulgida,
+		1404	Fannia_femoralis,
+		1405	Haematobia_stimulans,
+		1406	Mesembrina_meridiana,
+		1407	Morellia_hortorum,
+		1408	Orthellia_caesarion,
+		1409	Eudasyphora_sp,
+		1410	Philornis_torquans,
+		1411	Neomuscina_nudinervis,
+		1412	Ophyra_aenescens,
+		1413	Gymnopapuaia_sp,
+		1414	Dichaetomyia_luteiventris,
+		1415	Charadrella_malacophaga,
+		1416	Aethiopomyia_gigas,
+		1417	Stomoxys_calcitrans,
+		1418	Stomoxys_sitiens,
+		1419	Stomoxys_ochrosoma,
+		1420	Lyperosia_sp,
+		1421	Lyperosia_irritans,
+		1422	Polietes_lardaria,
+		1423	Polietes_hirticrura,
+		1424	Polietina_flavithorax,
+		1425	Polietina_nigra,
+		1426	Polietina_distincta,
+		1427	Musca_domestica,
+		1428	Musca_fergusoni,
+		1429	Musca_lusoria,
+		1430	Musca_bezzii,
+		1431	Musca_convexifrons,
+		1432	Musca_planiceps,
+		1433	Neomyia_sp,
+		1434	Neomyia_australis,
+		1435	Pyrellia_sp,
+		1436	Pyrellia_cyanicolor,
+		1437	Dasyphora_albofasciata,
+		1438	Dasyphora_pratorum,
+		1439	Dasyphora_asiatica,
+		1440	Dasyphora_gussakovskii,
+		1441	Dasyphora_stackelbergiana,
+		1442	Dasyphora_cyanela,
+		1443	Cyrtoneurina_gemina,
+		1444	Cyrtoneurina_maculipennis,
+		1445	Cyrtoneurina_polystigma,
+		1446	Cyrtoneurina_bequaerti,
+		1447	Hebecnema_uniseta,
+		1448	Hebecnema_rufula,
+		1449	Hebecnema_infuscata,
+		1450	Papuaia_asternata,
+		1451	Papuaia_curvinervis,
+		1452	Papuaia_marginata,
+		1453	Coenosopsia_floridensis,
+		1454	Coenosopsia_peruviana,
+		1455	Phaonantho_sp,
+		1456	Pegoplata_palposa,
+		1457	Pegoplata_pictipes,
+		1458	Delia_antiqua,
+		1459	Erioischia_brassicae,
+		1460	Emmesomyia_socia,
+		1461	Emmesomyia_kurahashii,
+		1462	Emmesomyia_flavitarsis,
+		1463	Emmesomyia_suwai,
+		1464	Spathephilus_nigriventris,
+		1465	Scathophaga_sp,
+		1466	Nanna_brevifrons,
+		1467	Nanna_longicornis,
+		1468	Nanna_bispinosa,
+		1469	Nanna_puberula,
+		1470	Cordilura_ontario,
+		1471	Cordilura_setosa,
+		1472	Cordilura_variabilis,
+		1473	Cordilura_pudica,
+		1474	Cordilura_preusta,
+		1475	Cordilura_gagatina,
+		1476	Cordilura_carbonaria,
+		1477	Cordilura_gracilipes,
+		1478	Cordilura_pleuriticia,
+		1479	Strobilomyia_sp,
+		1480	Hylemya_vagans,
+		1481	Hylemya_variata,
+		1482	Hylemya_longiostris,
+		1483	Hylemya_takagii,
+		1484	Hylemya_detracta,
+		1485	Hylemya_femoralis,
+		1486	Hylemya_probilis,
+		1487	Glossina_morsitans,
+		1488	Glossina_fuscipes,
+		1489	Glossina_palpalis,
+		1490	Basilia_nana,
+		1491	Penicillidia_fulvida,
+		1492	Dipseliopoda_setosa,
+		1493	Paratrichobius_longicrus,
+		1494	Megistopoda_aranea,
+		1495	Trichobius_major,
+		1496	Hippobosca_equina,
+		1497	Lipoptena_cervi,
+		1498	Melophagus_ovinus,
+		1499	Ornithomya_biloba,
+		1500	Crataerina_pallida,
+		1501	Stenepterys_hirundinis,
+		1502	Aedes_aegyptii,
+		1503	Anopheles_atroparvus,
+		1504	Culex_fatigans,
+		1505	Corynoneura_scutellata,
+		1506	Cricotopus_trifasciatus,
+		1507	Smittia_gracilis,
+		1508	Chironomus_plumosus,
+		1509	Chironomus_tentans,
+		1510	Chironomus_tepperi,
+		1511	Simulium_spp,
+		1512	Simulium_pinctipes,
+		1513	Porricondyla_nigripennis,
+		1514	Porricondyla_media,
+		1515	Rasnitsia_verticosa,
+		1516	Frirenia_manca,
+		1517	Cecidomyia_sp,
+		1518	Spurgia_esulae,
+		1519	Anabremia_inquilina,
+		1520	Contarinia_nasturtii,
+		1521	Aphidoletes_aphidimyza,
+		1522	Bradysia_impatiens,
+		1523	Sciara_coprophila,
+		1524	Philosepodon_humeralis,
+		1525	Psychoda_alternata,
+		1526	Erioptera_lutea,
+		1527	Ctenophora_guttata,
+		1528	Rhipidia_maculata,
+		1529	Tipula_flavolineata,
+		1530	Tipula_luna,
+		1531	Goniops_chrysacoma,
+		1532	Tabanus_macer,
+		1533	Tabanus_rubidus,
+		1534	Tabanus_tenens,
+		1535	Neoplasta_parahebes,
+		1536	Megagrapha_exquisita,
+		1537	Wiedemannia_lepida,
+		1538	Ocydromia_glabricula,
+		1539	Platypalpus_holosericus,
+		1540	Platypalpus_aequalis,
+		1541	Platypalpus_melleus,
+		1542	Termitophilomyia_zimbraunsi,
+		1543	Spiniphora_punctipennis,
+		1544	Megaselia_aequalis,
+		1545	Rhingia_rostrata,
+		1546	Rhingia_campestris,
+		1547	Merodon_equestris,
+		1548	Sericomyia_silentis,
+		1549	Platycheirus_albimanus,
+		1550	Baccha_obscuripennis,
+		1551	Baccha_elongata,
+		1552	Syrphus_ribesii,
+		1553	Syrphus_vitripennis,
+		1554	Chrysotoxum_cautum,
+		1555	Rhagoletis_juglandis,
+		1556	Rhagoletis_cerasi,
+		1557	Rhagoletis_boycei,
+		1558	Dacus_tryoni,
+		1559	Urophora_affinis,
+		1560	Urophora_quadrifasciata,
+		1561	Terellia_virens,
+		1562	Chaetorellia_acrolophi,
+		1563	Lochmostylia_borgmeieri,
+		1564	Tauroscypson_sp,
+		1565	Ramuliseta_lindneri,
+		1566	Ramuliseta_madagascariensis,
+		1567	Nothybus_kempi,
+		1568	Nothybus_longithorax,
+		1569	Ortalischema_sp,
+		1570	Paratoxopoda_depilis,
+		1571	Themira_annulipes,
+		1572	Themira_minor,
+		1573	Themira_superba,
+		1574	Dicranosepsis_sp,
+		1575	Australosepsis_sp,
+		1576	Sepsis_cynipsea,
+		1577	Sepedon_sphegea,
+		1578	Sepedon_neili,
+		1579	Diacea_sp,
+		1580	Dichromyia_sanguiniceps,
+		1581	Amphidysis_hesperia,
+		1582	Heleomyza_sp,
+		1583	Thyreophorella_sp,
+		1584	Tapeigaster_sp,
+		1585	Trixoscelis_sp,
+		1586	Spilochroa_sp,
+		1587	Axinota_uniformis,
+		1588	Curtonota_helvum,
+		1589	Curtonota_sp,
+		1590	Cyrtona_sp,
+		1591	Chloropinae_sp-pachylophus,
+		1592	Eurina_minuta,
+		1593	Platycephala_scapularum,
+		1594	Meromyzella_sp,
+		1595	Phyladelphus_sp,
+		1596	Parectecephala_sp1,
+		1597	Parectecephala_sp2,
+		1598	Parectecephala_sp,
+		1599	Ectecephala_flavescens,
+		1600	Ectecephala_coeruleifrons,
+		1601	Homaluroides_quinquepunctatus,
+		1602	Pachylophus_frontalis,
+		1603	Pachylophus_punctifemur,
+		1604	Pachylophus_lugens,
+		1605	Pachylophus_beckeri,
+		1606	Pachylophus_proximus,
+		1607	Pachylophus_flavipes,
+		1608	Pachylophus_femoratus,
+		1609	Pachylophus_fossulatus,
+		1610	Pachylophus_obscurior,
+		1611	Pachylophus_pellucidus,
+		1612	Pachylophus_punctifrons,
+		1613	Pachylophus_splendidus,
+		1614	Pachylophus_varipes,
+		1615	Amiota_sp,
+		1616	Titanochaeta_contestata,
+		1617	Cladochaeta_sp,
+		1618	Diathoneura_cruciata,
+		1619	Colocasiomyia_colocasiae,
+		1620	Zaprionus_indianus,
+		1621	Mycodrosophila_dimidiata,
+		1622	Drosophila_undulata,
+		1623	Drosophila_reducta,
+		1624	Drosophila_inflata,
+		1625	Drosophila_crassifemur,
+		1626	Drosophila_nasalis,
+		1627	Scaptomyza_caliginosa,
+		1628	Scaptomyza_throckmortoni,
+		1629	Scaptomyza_oahuensis,
+		1630	Scaptomyza_mauiensis,
+		1631	Scaptomyza_nigrita,
+		1632	Scaptomyza_apicata,
+		1633	Scaptomyza_adusta,
+		1634	Scaptodrosophila_sp1,
+		1635	Scaptodrosophila_sp2,
+		1636	Scaptodrosophila_leoni,
+		1637	Drosophila_sp-affinis,
+		1638	Drosophila_affinis,
+		1639	Drosophila_athabasca,
+		1640	Drosophila_aguape,
+		1641	Drosophila_melanogaster,
+		1642	Drosophila_obscura,
+		1643	Drosophila_pseudoobscura,
+		1644	Drosophila_sp-flavopilosa,
+		1645	Drosophila_flavopilosa,
+		1646	Drosophila_nesiota,
+		1647	Drosophila_incompta,
+		1648	Drosophila_cestri,
+		1649	Drosophila_crossoptera,
+		1650	Drosophila_lauta,
+		1651	Drosophila_gentica,
+		1652	Drosophila_sp-onychophora,
+		1653	Drosophila_desbaratabaile,
+		1654	Drosophila_arboloco,
+		1655	Drosophila_funebris,
+		1656	Drosophila_hyalipennis,
+		1657	Drosophila_margarita,
+		1658	Poecilips_spp,
+		1659	Stephanoderes_hampei,
+		1660	Hylesinus_californicus,
+		1661	Polygraphus_sp,
+		1662	Pteleobius_sp,
+		1663	Chaetophloeus_minimus,
+		1664	Pseudohylesinus_sp,
+		1665	Myelophilus_piniperda,
+		1666	Chramesus_exul,
+		1667	Chramesus_hicoriae,
+		1668	Phloeosimus_sp,
+		1669	Corthylus_spp,
+		1670	Gnathotrichus_materiarius,
+		1671	Minarthrum_sp,
+		1672	Scolytoplatypus_sp,
+		1673	Scolytoplatypus_kivuensis,
+		1674	Trypodendron_betulae,
+		1675	Trypodendron_lineatum,
+		1676	Scolytus_sp,
+		1677	Scolytus_rugulosus,
+		1678	Scolytus_intricatus,
+		1679	Scolytus_scolytus,
+		1680	Scolytus_mali,
+		1681	Scolytus_multistriatus,
+		1682	Scolytus_ventralis,
+		1683	Camptocerus_sp,
+		1684	Conophthorus_radiatae,
+		1685	Platypus_sp,
+		1686	Platypus_cylindrus,
+		1687	Platypus_severini,
+		1688	Platypus_compositus,
+		1689	Crossotarsus_saundersi,
+		1690	Australoplatypus_incompertus,
+		1691	Doliopygus_sp,
+		1692	Doliopygus_contradti,
+		1693	Pityokteines_sp,
+		1694	Ips_pini,
+		1695	Ips_typographus,
+		1696	Pityogenes_chalcographus,
+		1697	Xyleborus_germanus,
+		1698	Xyleborus_agnaticeps,
+		1699	Xyleborus_alluaudi,
+		1700	Xyleborus_asperatus,
+		1701	Xyleborus_compatus,
+		1702	Xyleborus_comparabilis,
+		1703	Xyleborus_cruciformis,
+		1704	Xyleborus_fornicatus,
+		1705	Xyleborus_integer,
+		1706	Xyleborus_monographus,
+		1707	Xyleborus_subscribosus,
+		1708	Xyleborus_xanthopus,
+		1709	Xyleborus_xylographus,
+		1710	Xyleborus_affinis,
+		1711	Anisandrus_obesus,
+		1712	Coccotrypes_carpophagus,
+		1713	Ozopemon_brownei,
+		1714	Dendroctonus_ponderosae,
+		1715	Dendroctonus_brevicomis,
+		1716	Dendroctonus_valens,
+		1717	Dendroctonus_piceaperda,
+		1718	Dendroctonus_pseudotsugae,
+		1719	Coptorhina_sp,
+		1720	Deltochilum_spp,
+		1721	Megathoposoma_candezei,
+		1722	Gymnopleurus_mopsus,
+		1723	Anachalcos_cupreus,
+		1724	Pachylomerus_femoralis,
+		1725	Circellium_bacchus,
+		1726	Pedaria_sp,
+		1727	Coptodactyla_sp,
+		1728	Stiptopodius_sp,
+		1729	Euoniticellus_intermedius,
+		1730	Cyptochirus_distinctus,
+		1731	Tragiscus_dimidiatus,
+		1732	Cheironitis_sp,
+		1733	Synapsis_tmolus,
+		1734	Dichotomius_anaglypticus,
+		1735	Dichotomius_haroldi,
+		1736	Dichotomius_micans,
+		1737	Dichotomius_semiaeneus,
+		1738	Dichotomius_torulosus,
+		1739	Gromphas_lacordairei,
+		1740	Gromphas_spp,
+		1741	Canthon_bispinus,
+		1742	Canthon_cyanellus,
+		1743	Canthon_muticus,
+		1744	Canthon_edentulus,
+		1745	Canthon_pilularius,
+		1746	Catharsius_molossus,
+		1747	Catharsius_spp,
+		1748	Eurysternus_deplanatus,
+		1749	Eurysternus_inflexus,
+		1750	Eurysternus_magnus,
+		1751	Eurysternus_marmoreus,
+		1752	Eurysternus_mexicanus,
+		1753	Eurysternus_balachowskyi,
+		1754	Eurysternus_caribaeus,
+		1755	Eurysternus_foedus,
+		1756	Eurysternus_jessopi,
+		1757	Ontherus_sulcator,
+		1758	Ontherus_appendiculatus,
+		1759	Coprophanaeus_milon,
+		1760	Coprophanaeus_ecuadoriensis,
+		1761	Bolbites_onitoides,
+		1762	Bolbites_spp,
+		1763	Phanaeus_daphnis,
+		1764	Phanaeus_spp,
+		1765	Sulcophanaeus_carnifex,
+		1766	Sulcophanaeus_batesi,
+		1767	Sulcophanaeus_menelas,
+		1768	Sulcophanaeus_imperator,
+		1769	Sceliages_hippias,
+		1770	Sceliages_adamastor,
+		1771	Sceliages_brittoni,
+		1772	Scarabaeus_cicatricosus,
+		1773	Scarabaeus_sacer,
+		1774	Scarabaeus_semipunctatus,
+		1775	Scarabaeus_catenatus,
+		1776	Scarabaeus_funebris,
+		1777	Scarabaeus_galenus,
+		1778	Scarabaeus_westwoodi,
+		1779	Scarabaeus_rusticus,
+		1780	Scarabaeus_hippocrates,
+		1781	Scarabaeus_gariepinus,
+		1782	Scarabaeus_striatum,
+		1783	Scarabaeus_proboscideus,
+		1784	Scarabaeus_rugosus,
+		1785	Scarabaeus_aesculapius,
+		1786	Scarabaeus_bennigseni,
+		1787	Scarabaeus_denticollis,
+		1788	Scarabaeus_endroedyi,
+		1789	Scarabaeus_fitzsimoni,
+		1790	Scarabaeus_glentoni,
+		1791	Scarabaeus_rodriguesi,
+		1792	Scarabaeus_schinzi,
+		1793	Scarabaeus_valeflorae,
+		1794	Scarabaeus_cristatus,
+		1795	Scarabaeus_laevistriatus,
+		1796	Kheper_platynotus,
+		1797	Kheper_nigroaeneus,
+		1798	Kheper_aeratus,
+		1799	Kheper_aegyptiorum,
+		1800	Kheper_lamarcki,
+		1801	Kheper_subaeneus,
+		1802	Kheper_cupreus,
+		1803	Kheper_clericus,
+		1804	Cephalodesmius_armiger,
+		1805	Cephalodesmius_laticollis,
+		1806	Cephalodesmius_quadridens,
+		1807	Onthophagus_hirculus,
+		1808	Onthophagus_vacca,
+		1809	Onthophagus_taurus,
+		1810	Onthophagus_gazella,
+		1811	Onthophagus_binodis,
+		1812	Onthophagus_granulatus,
+		1813	Oniticellus_cinctus,
+		1814	Oniticellus_planatus,
+		1815	Oniticellus_formosus,
+		1816	Oniticellus_pictus,
+		1817	Oniticellus_pseudoplanatus,
+		1818	Oniticellus_egregius,
+		1819	Oniticellus_rhadamistus,
+		1820	Bubas_bison,
+		1821	Bubas_bubalus,
+		1822	Onitis_belial,
+		1823	Onitis_ion,
+		1824	Onitis_caffer,
+		1825	Copris_hispanus,
+		1826	Copris_lunaris,
+		1827	Copris_minutus,
+		1828	Copris_tullius,
+		1829	Copris_incertus,
+		1830	Copris_arizonensis,
+		1831	Copris_armatus,
+		1832	Copris_fricator,
+		1833	Copris_lugubris,
+		1834	Copris_remotus,
+		1835	Copris_sp,
+		1836	Copris_diversus,
+		1837	Copris_boucardi,
+		1838	Copris_laeviceps,
+		1839	Copris_gopheri,
+		1840	Copris_aspericollis,
+		1841	Heliocopris_sp,
+		1842	Heliocopris_dilloni,
+		1843	Heliocopris_hamadryas,
+		1844	Heliocopris_japetus,
+		1845	Heliocopris_neptunus,
+		1846	Heliocopris_andersoni,
+		1847	Erga_longitudinalis,
+		1848	Agapophyta_viridula,
+		1849	Musgraveia_sulciventris,
+		1850	Cumare_pallida,
+		1851	Garceus_fidelis,
+		1852	Peltocopta_crassiventris,
+		1853	Stilida_indecora,
+		1854	Lyramorpha_rosea,
+		1855	Lyramorpha_parens,
+		1856	Heliothrips_haemorrhoidalis,
+		1857	Hercinothrips_femoralis,
+		1858	Parthenothrips_dracaenae,
+		1859	Frankliniella_occidentalis,
+		1860	Frankliniella_schultzei,
+		1861	Frankliniella_tenuicornis,
+		1862	Anactinothrips_gustaviae,
+		1863	Elaphrothrips_brevicornis,
+		1864	Elaphrothrips_tuberculatus,
+		1865	Elaphrothrips_procer,
+		1866	Elaphrothrips_denticollis,
+		1867	Tiarothrips_subramanii,
+		1868	Sporothrips_sp,
+		1869	Priesneriana_kabandha,
+		1870	Loyolaia_indica,
+		1871	Csirothrips_watsoni,
+		1872	Panoplothrips_australiensis,
+		1873	Lichanothrips_sp2,
+		1874	Lichanothrips_sp1,
+		1875	Dunatothrips_aneurae,
+		1876	Dunatothrips_skene,
+		1877	Dunatothrips_aulidis,
+		1878	Dunatothrips_vestitor,
+		1879	Dunatothrips_armatus,
+		1880	Dactylothrips_sp1,
+		1881	Dactylothrips_sp2,
+		1882	Katothrips_sp,
+		1883	Gigantothrips_elegans,
+		1884	Liothrips_oleae,
+		1885	Torvothrips_kosztarabi,
+		1886	Suocerathrips_linguis,
+		1887	Hoplothrips_karnyi,
+		1888	Hoplothrips_pedicularis,
+		1889	Idolothrips_sp,
+		1890	Diceratothrips_sp,
+		1891	Bactridothrips_brevitubus,
+		1892	Megathrips_lativentris,
+		1893	Caudothrips_buffai,
+		1894	Phloea_paradoxa,
+		1895	Phloea_sp,
+		1896	Phloea_subquadrata,
+		1897	Phloea_corticata,
+		1898	Antiteuchus_tripterus,
+		1899	Antiteuchus_piceus,
+		1900	Antiteuchus_mixtus,
+		1901	Antiteuchus_variolus,
+		1902	Antiteuchus_macraspis,
+		1903	Antiteuchus_amplus,
+		1904	Antiteuchus_sepulcralis,
+		1905	Antiteuchus_innocens,
+		1906	Carbula_humerigera,
+		1907	Eysarcoris_inconspicous,
+		1908	Halyomorpha_mista,
+		1909	Nezara_viridula,
+		1910	Oebalus_pognax,
+		1911	Perillus_bioculatus,
+		1912	Picromerus_bidens,
+		1913	Piezodorus_guildinii,
+		1914	Podisus_maculiventris,
+		1915	Podisus_modestus,
+		1916	Thyanta_perditor,
+		1917	Brachystethus_sp,
+		1918	Pantochlora_vivida,
+		1919	Lopadusa_augur,
+		1920	Edessa_nigropunctata,
+		1921	Chlorocoris_sp,
+		1922	Chlorocoris_atrispinus,
+		1923	Chlorocoris_depressus,
+		1924	Eumecopus_sp,
+		1925	Scotinophora_sp,
+		1926	Dinocoris_tripterus,
+		1927	Euschistus_heros,
+		1928	Aspongopus_sp,
+		1929	Cyclopelta_sp,
+		1930	Arvelius_atropunctatus,
+		1931	Bromocoris_souefi,
+		1932	Stenus_spp,
+		1933	Stenus_juno,
+		1934	Stenus_comma,
+		1935	Stenus_pubescens
+	;
+	TREE *, UNTITLED = [&R] (((1,2,3),4)Archaeognatha,((5,6)NA,(((((7,8,(9,10)NA)NA,11)NA,((12,13)NA,14)NA,(15,16)NA,(17,18)NA)NA,(((19,20)NA,21)NA,22)NA)NA,((23,(24,25)NA)NA,((((((((((26,27),(28,29,30,31),(32,33,34),(35,36),37)Gryllini,(38,39)Modicogryllini,40)Gryllidae,((41,42,43),44)Gryllotalpidae)Grylloidea,45,(((46,47,48),49),(50,(51,52)))Tettigoniidae)Ensifera,((((((53,54),55),((56,57),58))Acrididae,(59,60)Romaleidae),((61,62),(63,64),65,66,67,68,69,70,71)Pyrgomorphidae),72)Caelifera)Orthoptera,(73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98)NA)NA,(((99,100)NA,101)NA,(102,((103,104)NA,(105,106,107,108)NA)NA,109)NA)NA)NA,((110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125)NA,(126,127,128)NA,(((129,130)NA,(((131,((132,133)NA,134)NA)NA,(135,136,137,138,139,140,141,142)NA)NA,((143,144,(145,146,147)NA)NA,(((((148,149,150)NA,(151,152)NA)NA,153,154)NA,(155,(156,157,158,159,160,161,162,163)NA)NA)NA,(164,(((165,166,167)NA,168)NA,(((((169,170,171,172,173,174,(175,(176,177)NA)NA)NA,(178,179,180)NA)NA,((181,182)NA,(183,(184,185)NA)NA)NA)NA,186)NA,(187,((188,189)NA,190,191,192,193)NA)NA)NA)NA,((194,195)NA,196)NA,((197,(198,199)NA)NA,200)NA)NA)NA)NA)NA)NA,(201,((202,203)Liturgusinae,(204,(205,(((206,(207,((208,209,210),211))),(212,213))Tarachodinae,(214,(215,(216,(((217,218)NA,(219,((220,221)Hymenopodini,(222,223)NA)NA)NA)NA,(224,((225,226)Mantini,(((227,(228,229))Paramantini,(230,(231,232))Polyspilotini)NA,(233,234,235)Paramantini2)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA,(((((((((236,237)NA,(((((((((238,239,240,241,242,243,244,245)NA,((246,247)NA,(248,249,250,251,252)NA)NA,253)NA,(((((254,255,256,257)NA,((258,259)NA,(260,261)NA)NA)NA,(((262,263)NA,264)NA,((265,266,267,268)NA,(269,270,271,272)NA)NA)NA)NA,(((273,274,275)NA,276)NA,(277,278,279,280)NA)NA)NA,(((281,282,283)NA,(284,285)NA)NA,((((286,287,288,289,290)NA,291)NA,(292,293,294,295,296,297,298,299,300)NA)NA,(301,302)NA)NA)NA)NA)NA,(((303,304)NA,(305,306)NA)NA,307)NA)NA,(308,309)NA)NA,((310,(((311,312)NA,313)NA,((314,315)NA,(316,317)NA,(318,319,320)NA,(321,322,323)NA)NA)NA)NA,(324,((325,326)NA,327)NA)NA)NA)NA,328)NA,((((((329,330)NA,331)NA,332)NA,(((((333,334)NA,((335,336)NA,((337,(338,339)NA)NA,(340,341)NA)NA)NA)NA,(342,343,344)NA)NA,((345,((346,347,348)NA,349)NA)NA,(350,351)NA)NA)NA,(352,(353,354)NA)NA)NA)NA,355)NA,(356,357)NA)NA)NA,(358,359,360,(361,362,363)NA)NA)NA,(364,365)NA)NA,366)NA,(367,368)NA)NA,((369,370)NA,(371,372,373,374,375,376,377)NA)NA)NA,((((((((378,379,(380,381)NA)NA,(382,383)NA)NA,(((384,385,386,387)NA,(388,389,390)NA,391,392,393)NA,(394,395)NA)NA)NA,(396,((((397,398)NA,399)NA,400)NA,(((401,402)NA,(403,404,405)NA)NA,(((406,407,408)NA,(409,410,411)NA,412)NA,(((413,(414,(415,416)NA)NA)NA,(417,((418,419,420,421,422,423,(424,425,426)NA)NA,427)NA)NA,(428,((429,430)NA,431)NA)NA,432,433)NA,(434,(435,436)NA)NA)NA)NA)NA)NA)NA)NA,(((437,(438,((((439,440,441,442)NA,(443,444,445)NA,446)NA,447)NA,((((448,449,450)NA,(1894,1895,1896,1897)NA)NA,((451,452,453,454,455)NA,456,457,458,459,(460,461)NA,462)NA)NA,(((463,464)NA,((465,466,467,468,469,470,471)NA,((472,473)NA,474)NA)NA)NA,(((475,476)NA,(1847,1848,1849,1850,1851,1852,(1854,1855)NA,1853)NA)NA,((1898,1899,1900,1901,1902,1903,1904,1905)NA,1906,1907,1908,1909,1910,1911,1912,1913,(1914,1915)NA,1916,(1917,1918,1919,1920)NA,((1921,1922,1923)NA,1924)NA,1925,1926,1927,1928,1929,1930,1931)NA)NA)NA)NA)NA)NA)NA,(((477,478)NA,479,480,481)NA,(((482,(483,(484,485)NA)NA)NA,(486,487)NA,488,489)NA,490)NA,((491,492)NA,493)NA)NA)NA,(494,(495,496,497,498)NA)NA)NA)NA,(499,500)NA)NA,(((501,502)NA,(503,504,505,506,507)NA,508)NA,(509,(510,(511,(512,((513,514)NA,((515,(516,517)NA)NA,(518,(519,(520,(521,(522,(523,524)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA,(525,526,527,(528,529)NA)NA)NA)NA,((530,(531,532)NA)NA,((533,534,535,536,537,538,539)NA,540)NA,(541,542)NA,543)NA)NA,((((1856,1857,1858)NA,(1859,1860,1861)NA)NA,((((1862,(1863,1864,1865,1866)NA,1867)NA,(1889,1890,1891,1892,1893)Idolothripinae)NA,(1868,1869,1870)NA)NA,(((((1871,(1872,(1873,1874)NA)NA)NA,(1875,1876,1877,1878,1879)NA)NA,((1880,1881)NA,1882)NA)NA,1883)NA,1884,1885,1886,(1887,1888)NA)NA)NA)NA,((((((544,(545,546)),(547,548)),549),((550,551,552,553,554),555)),(556,557,558))Psocoptera,((559,560)NA,(561,562)NA)NA)NA)NA)NA,((((((((((563,(564,565)NA,566)NA,(567,568,569,570,571,572,573,574,575,576,577,578,579,580)NA)NA,((((581,582,583,584,585,586,587,588,589)NA,590)NA,(591,(1932,1933,1934,1935)NA)NA)NA,(592,593)NA)NA)NA,(594,595)NA)NA,((596,597)NA,598,(599,600)NA)NA)NA,((((((((((((601,602,603)NA,604)NA,605,(606,607,608)NA,(609,610,611,612,613)NA,614,(615,616,617,618)NA,(619,620,621)NA,622,(623,624,625,626,627,628)NA,629,630,631)NA,((632,633,634,635)NA,636)NA)NA,((637,638,639,640,641,642,643,644,645,646,647)NA,(648,649)NA)NA)NA,650)NA,(651,652)NA)NA,(653,654)NA)NA,655)NA,(656,657)NA)NA,(((((658,659,660,661)NA,(662,663)NA)NA,(664,665)NA)NA,(666,667)NA)NA,((668,669,670,671,(672,673)NA)NA,(674,675,(676,677)NA,678,(679,680)NA,681,(682,683,684)NA)NA)NA)NA)NA,((685,((686,687,688)NA,((689,690)NA,(691,692)NA)NA)NA)NA,(((693,694,695,696,697,698,699,700,701)NA,702)NA,((((((((1741,1742,1743,1744,1745)NA,(1720,1721))Canthonini,(1722,(1746,1747)NA)Gymnopleurini),(((1748,1749,1750,1751,1752,1753,1754,1755,1756)NA,(1757,1758)NA),1723)Eurysternini),(((((1759,1760)NA,(1761,1762)NA,(1763,1764)NA,(1765,1766,1767,1768)NA)Phanaeini,(1734,1735,1736,1737,1738)NA),((((1769,1770,1771)NA,((1772,1773,1774,1775,1776,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787,1788,1789,1790,1791,1792,1793,1794,1795)NA,1724)),(1796,1797,1798,1799,1800,1801,1802,1803)NA),1725)Scarabaeini),(((1804,1805,1806)NA,1726),1727)Canthonini2)),((((1728,(1807,1808,1809,1810,1811,1812)NA)Onthophagini,((1729,(1813,1814,1815,1816,1817,1818,1819)NA),1730,1731)Oniticellini),((1820,1821)NA,(1822,1823,1824)NA,1732)Onitini),(((1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840)NA,(1841,1842,1843,1844,1845,1846)NA),1733)Coprini)),(1739,1740)NA),1719)Scarabaeinae)NA)NA)NA)NA,((((703,(704,705)NA,706,707)NA,(((((((((708,709,710,711,(712,713,714,715)NA,716)Doryphorina,((717,718)NA,719)Chrysolinina),((720,721,722,723,724,725,726,727)NA,(728,729)NA)Gonioctenina),(730,731)Paropsina),732),((733,734,735)NA,(736,(737,738,739,740,741,742)NA)Alticini)Galerucinae),(743,744,745)Chrysomelina)Chrysomelini,((746,((747,748),749,(750,751)NA,(752,(753,754)NA)))Cassidinae,755)),756)Chrysomelidae,(757,758,759,760,761)NA)NA,(((762,763,764,765,766,767)NA,(768,769)NA)NA,(770,((771,772)NA,(((773,774)NA,(775,(776,777)NA)NA)NA,((778,(779,780)NA)NA,(((781,782)NA,(783,(784,785)NA)NA)NA,((786,(787,(788,789)NA)NA)NA,((790,791)NA,(792,(793,(794,((795,(796,(797,798)NA)NA)NA,((799,800)NA,801)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA)NA,(802,(803,804,805)NA,(806,807)NA,808,809,810,811,812,813,814,815,816,817,818,819)NA,(820,(821,822,823,824)NA)NA,825,826)NA,((827,828)NA,(((829,830,831)NA,832,833)NA,(834,(((((((835,(836,(837,838)NA,839,840)NA)NA,(841,((842,843,844)NA,845)NA)NA)NA,((1660,1661,1662,1663)Hylesinini,((1664,1665,(((1714,1715),1716),(1717,1718))Dendroctonus)Tomicini,((1666,1667,1668)Phloeosinini,(((1669,1670,1671)Corthylini,(1672,1673)Scolytoplatypodini),(((1658,1659),((1674,1675)Xyloterini,(((1676,1677,1678,1679,1680,1681,1682),1683,1684)Scolytini,((1685,1686,1687,1688),1689,1690,(1691,1692))Platypodini))),((1693,((1694,1695),1696))Ipini,(((1697,1698,1699,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710),1711)Xyleborini,(1712,1713)Dryocoetini)))))))Scolytidae)NA,((846,847,848)NA,849)NA)NA,(850,(851,852)NA,853,854)NA)NA,((855,856)NA,857)NA)NA,(858,859)NA)NA)NA)NA)NA,(((860,(861,862)NA)NA,(863,((864,865)NA,(((866,867)NA,868)NA,869)NA)NA)NA)NA,870)NA,((871,(872,873)NA)NA,874)NA)NA,((((875,876)NA,(877,878)NA)NA,(879,880)NA)NA,(881,882,883,884)NA,885,((((886,887)NA,888)NA,889)NA,890)Elmidae)NA,(((891,892)NA,((893,894)NA,(895,896)NA,(897,898,899)NA,(900,901,902)NA,903)NA,((904,905)NA,906,907)NA,(908,909)NA)NA,910)NA)NA)NA,((((911,(912,913)NA)NA,914)NA,(((915,916,917,918)NA,((919,920)NA,(921,(922,(923,(924,925)NA)NA)NA)NA)NA)NA,((926,927)NA,(928,(((929,930,931,932)NA,(933,934)NA)NA,(935,(936,937)NA,938)NA)NA)NA)NA)NA)NA,(939,940)NA)NA)NA,((((941,942,943,944,945,946)NA,947)NA,((948,949)NA,(950,951)NA)NA,(952,953)NA)NA,(954,955)NA)NA)NA,((956,(((957,958,(959,960)NA,961)NA,((((962,963),964),965)Nematinae,(966,967))Tenthredinidae)Tenthredinoidea,(((968,969)NA,(970,971)NA)NA,(((972,((973,974)NA,(((975,976)NA,(977,978)NA,(979,980,981)NA,(982,983,984)NA,(985,986)NA)NA,(987,988,989,990,991,992,993,994)NA,995)NA)),((((((((996,997,998,999,1000,1001)NA,(1002,1003)NA)NA,((1004,1005,1006,1007)NA,1008)NA)NA,1009)NA,(((1010,(1011,1012,1013)NA)NA,((1014,1015)NA,1016)NA)NA,(1017,1018)NA)NA)NA,(1019,(1020,1021,1022,1023,1024,1025)NA)NA)NA,(1026,1027)NA)NA,1028)NA),(((1029,(((1030,1031),1032),(((1033,1034),1035,1036,(1037,1038,1039),1040),1041)))Ichneumonidae,((1042,(((1043,1044),1045)Braconinae,1046)),(1047,1048)Aphidiinae,(1049,1050,((1051,((1052,1053),1054)Apantelini,1055)Microgastrinae,1056)))Braconidae)Ichneumonoidea,((((((1057,1058,1059,1060),(1061,1062),1063),(1064,1065))Bethylinae,(((1066,1067)Cephalonomini,(1068,1069,1070)Sclerodermini),(1071,1072)))Bethylidae,(1073,1074)Chrysididae)NA,((((1075,1076)NA,((1077,1078,(1079,1080)NA)NA,(1081,1082,1083)NA)),((((1084,1085,(1086,1087,1088)NA)Crabronini,(1089,1090)NA,((1091,1092,1093,1094,1095,1096,1097,1098,1099,1100,1101)NA,1102)Trypoxylonini)Crabroninae,(((1103,1104)NA,(1105,1106)Pemphredonini)Pemphredoninae,(((1107,1108,1109)NA,(1110,1111)NA,1112,1113)Bembecinae,(1114,1115)NA))),((1116,1117,1118)Halictinae,((1119,1120)NA,(1121,1122)NA))))Apoidea,((1123,(1124,1125)Mutillidae)NA,(1126,1127)Pompillidae,((1128,1129)NA,((1130,1131,1132,1133,1134,1135,1136,1137)Eumeninae,((1138,1139)NA,1140)NA)NA)NA)NA)NA)NA)))))Hymenoptera,(((((1141,(1142,1143)NA,1144)NA,1145,1146)NA,((1147,(1148,1149)NA,1150,1151)NA,(1152,1153)NA)NA)NA,((((1154,1155,1156,1157,1158,1159,1160,1161,1162)NA,((((((1163,1164)NA,1165,(1166,1167,1168)NA,1169,1170,1171,1172,1173,1174,1175)NA,(1176,(1177,1178)NA,1179,1180)NA,1181,1182)NA,(1183,1184)NA)NA,((((1185,1186)NA,1187,1188,(1189,1190,1191,1192,1193,1194)NA,1195,1196,1197,1198,1199)NA,((1200,1201)NA,1202)NA,1203)NA,1204)NA,(1205,((((1206,1207)NA,(1208,(1209,1210)NA)NA)NA,(1211,1212)NA)NA,1213)NA)NA)NA,((1214,1215,1216,1217,1218,1219,1220,1221,(1222,1223)NA,1224,1225)NA,(1226,1227)NA)NA)NA,((1228,(1229,1230)NA,1231,1232)NA,(1233,1234)NA)NA)NA,(1235,1236)NA,(1237,1238)NA)NA,(1239,1240)NA)NA)NA,((1241,1242)NA,(((1243,1244)NA,1245)NA,1246)NA,(((1502,1503,1504)NA,(((1508,1509,1510)NA,1505,1506,1507)NA,(1511,1512)NA)),(((((1513,1514),(1515,1516)),(1517,1518,1519,1520,1521))Cecidomyiidae,(1522,1523)NA),((1524,1525)NA,((1526,(1529,1530)NA,1527,1528)NA,((((1532,1533,1534)NA,1531)NA,1247),(1248,(((1535,1536),1537,(1538,(1539,1540,1541)))Empididae,(((1542,1543),1544)Phoridae,(((((1545,1546),1547),1548),(1549,((1550,1551),((1552,1553),1554))))Syrphidae,((((1487,(1488,1489)),((((1490,1491),1492)Nycteribiidae,((1493,1494),1495)Streblidae),((1496,(1497,1498)),(1499,(1500,1501)))Hippoboscidae))Hippoboscoidea,(((1400,1401,1402,1403,1404)NA,((((1405,(1417,1418,1419)NA,(1420,1421)NA),(1406,((1422,1423)NA,((1424,1425,1426)NA,(1407,((1427,1428,1429,1430,1431,1432)NA,(((1433,1434)NA,1408),((1435,1436)NA,(1409,(1437,1438,1439,1440,1441,1442)NA)))))))))Muscinae,((1410,1411),1412,(1443,1444,1445,1446)NA)Reinwardtiinae,((1447,1448,1449)NA,(1450,1451,1452)NA,1413)Mydaeinae,(1414,(1415,1416))Dichaetomyiinae)Muscidae,(((1453,1454),1455),((1456,1457),((((1480,1481,1482,1483,1484,1485,1486)NA,1479)NA,((1458,1459),(1460,1461,1462,1463))),((((1466,1467,1468,1469)NA,1464),(1470,1471,1472,1473,1474,1475,1476,1477,1478)NA),1465)Scathophagidae)))Anthomyiidae_Scathophagidae))Muscoidea,(((((1391,1392,1393)NA,1249,1250,1251,1252),(1394,1395,1396)NA)Ameniini,(1397,1398,1399)NA)Mesembrinellinae,((1253,((1254,1255),(((1256,(1257,1258,1259)),(1260,1261)),((1262,1263),(1264,(1265,(1266,(1267,(1268,(1269,(1270,1271)))))))))))Oestridae,(((1272,1273,1274),(1275,(1276,(1277,1278,1279,1280,1281))))Sarcophagidae,(((1284,(1285,1286)),((1287,(1288,1289)),((((1290,1291),(1292,1293)),((1294,(1295,1296)),(1297,(1298,1299)))),(((1300,1301),(1302,1303),(1304,1305)),((1306,(1307,(1308,(1309,(1310,(1311,1312)))))),(((1313,1314),((1315,1316),(((1317,1318),(1319,(1320,(1321,1322)))),(1323,(1324,((1325,1326),(1327,(1328,1329)))))))),((1330,((1331,1332),(1333,1334))),((1335,(1336,1337)),((1338,(1339,(1340,(1341,1342)))),(1343,(1344,((1345,1346),((1347,1348),(1349,(1350,1351)))))))))))))))Tachinidae,((((1352,1353,(1370,1371,1372)NA,1354,1355)Rhiniinae,1282),(1356,1357,1358,1359)Chrysominae),(((1360,(1373,1374)NA,1361,1362)Luciliinae,(1283,(((1375,1376,1377)NA,1363,(1378,1379,1380,1381,1382,1383,1384)NA,1364,1365,1366,1367)Calliphorini,((1385,1386,1387)NA,1368)Phumosiini)Calliphorinae)),((1388,1389,1390)NA,1369)Helicoboscinae)))Calliphoridae)))Oestroidea)),((((((1555,1556,1557),1558),((1559,1560),(1561,1562)))Tephritidae,(1563,(1565,1566)NA,1564)NA),(1567,1568)Nothybidae),(((1569,(1570,((1571,(1572,1573)),(1574,(1575,1576)))))Sepsidae,(1577,1578)Sciomyzidae),((((1579,1580,1581)Diaciini,1582,1583,1584,(1585,1586)Trixoscelidini)Heleomyzidae,((1587,((1588,1589),1590))Curtonotidae,(1615,((1616,(1617,1618)),(1619,((1634,(1635,1636)NA)NA,((1637,(1638,1639,1640,1641,1642,1643)NA)NA,((1620,1621),((1644,(1645,1646,1647,1648,1649,1650,1651)NA)NA,((1652,(1653,1654,1655,1656,1657)NA)NA,(((1622,1623,1624,1625,1626),1627,1628,1629,1630,1631,1632),1633)))))))))Drosophilidae)),((1591,((1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612,1613,1614)NA,1592,1593,1594,1595)),(1596,(1597,1598)),((1599,1600),1601))Chloropidae)))))))))))))Diptera)NA)NA)NA)NA)NA)NA)NA)NA)NA)Insecta;
+END;
